@@ -51,6 +51,7 @@
     {"source": "Demand modelling", "target": "Lifestyle ", "value": 1},
     {"source": "Agriculture and bio economy", "target": "End of life", "value": 1},
     {"source": "Agriculture and bio economy", "target": "Demand modelling", "value": 1},
-    {"source": "Agriculture and bio economy", "target": "Stock modelling", "value": 1}
+    {"source": "Agriculture and bio economy", "target": "Stock modelling", "value": 1},
+    {"source": "Embodied and negative emissions", "target": "Agriculture and bio economy", "value": 1}
   ]
 }
