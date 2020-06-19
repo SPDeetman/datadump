@@ -1,0 +1,671 @@
+{
+    "name": "vehicles",
+    "children": [
+        {
+            "name": "freight",
+            "children": [
+                {
+                    "name": "Air Cargo",
+                    "children": [
+                        {
+                            "value": 255.81841731301031,
+                            "name": "Aluminium"
+                        },
+                        {
+                            "value": 0.0,
+                            "name": "Copper"
+                        },
+                        {
+                            "value": 0.0,
+                            "name": "Glass"
+                        },
+                        {
+                            "value": 19.750686630783886,
+                            "name": "Plastics"
+                        },
+                        {
+                            "value": 0.0,
+                            "name": "Rubber"
+                        },
+                        {
+                            "value": 33.85831993848665,
+                            "name": "Steel"
+                        },
+                        {
+                            "value": 22.572213292324435,
+                            "name": "Titanium"
+                        },
+                        {
+                            "value": 0.0,
+                            "name": "Wood"
+                        }
+                    ]
+                },
+                {
+                    "name": "Heavy Truck",
+                    "children": [
+                        {
+                            "value": 8351.226432127589,
+                            "name": "Aluminium"
+                        },
+                        {
+                            "value": 1159.8925600177201,
+                            "name": "Copper"
+                        },
+                        {
+                            "value": 695.9355360106323,
+                            "name": "Glass"
+                        },
+                        {
+                            "value": 12990.796672198465,
+                            "name": "Plastics"
+                        },
+                        {
+                            "value": 13454.753696205558,
+                            "name": "Rubber"
+                        },
+                        {
+                            "value": 171432.12037061912,
+                            "name": "Steel"
+                        },
+                        {
+                            "value": 0.0,
+                            "name": "Titanium"
+                        },
+                        {
+                            "value": 0.0,
+                            "name": "Wood"
+                        }
+                    ]
+                },
+                {
+                    "name": "Inland Shipping",
+                    "children": [
+                        {
+                            "value": 1224.850657763029,
+                            "name": "Aluminium"
+                        },
+                        {
+                            "value": 1224.850657763029,
+                            "name": "Copper"
+                        },
+                        {
+                            "value": 73.49103946578171,
+                            "name": "Glass"
+                        },
+                        {
+                            "value": 2449.701315526058,
+                            "name": "Plastics"
+                        },
+                        {
+                            "value": 0.0,
+                            "name": "Rubber"
+                        },
+                        {
+                            "value": 111461.40985643565,
+                            "name": "Steel"
+                        },
+                        {
+                            "value": 0.0,
+                            "name": "Titanium"
+                        },
+                        {
+                            "value": 1224.850657763029,
+                            "name": "Wood"
+                        }
+                    ]
+                },
+                {
+                    "name": "Large Ship",
+                    "children": [
+                        {
+                            "value": 365.55780709027846,
+                            "name": "Aluminium"
+                        },
+                        {
+                            "value": 365.55780709027846,
+                            "name": "Copper"
+                        },
+                        {
+                            "value": 21.93346842541671,
+                            "name": "Glass"
+                        },
+                        {
+                            "value": 731.1156141805569,
+                            "name": "Plastics"
+                        },
+                        {
+                            "value": 0.0,
+                            "name": "Rubber"
+                        },
+                        {
+                            "value": 33265.76044521534,
+                            "name": "Steel"
+                        },
+                        {
+                            "value": 0.0,
+                            "name": "Titanium"
+                        },
+                        {
+                            "value": 365.55780709027846,
+                            "name": "Wood"
+                        }
+                    ]
+                },
+                {
+                    "name": "Light Truck",
+                    "children": [
+                        {
+                            "value": 5606.148205829522,
+                            "name": "Aluminium"
+                        },
+                        {
+                            "value": 919.0406894802496,
+                            "name": "Copper"
+                        },
+                        {
+                            "value": 551.4244136881498,
+                            "name": "Glass"
+                        },
+                        {
+                            "value": 9925.639446386696,
+                            "name": "Plastics"
+                        },
+                        {
+                            "value": 2757.1220684407485,
+                            "name": "Rubber"
+                        },
+                        {
+                            "value": 60289.06922990435,
+                            "name": "Steel"
+                        },
+                        {
+                            "value": 0.0,
+                            "name": "Titanium"
+                        },
+                        {
+                            "value": 0.0,
+                            "name": "Wood"
+                        }
+                    ]
+                },
+                {
+                    "name": "Medium Ship",
+                    "children": [
+                        {
+                            "value": 222.47187096088305,
+                            "name": "Aluminium"
+                        },
+                        {
+                            "value": 222.47187096088305,
+                            "name": "Copper"
+                        },
+                        {
+                            "value": 13.348312257652982,
+                            "name": "Glass"
+                        },
+                        {
+                            "value": 444.9437419217661,
+                            "name": "Plastics"
+                        },
+                        {
+                            "value": 0.0,
+                            "name": "Rubber"
+                        },
+                        {
+                            "value": 20244.940257440365,
+                            "name": "Steel"
+                        },
+                        {
+                            "value": 0.0,
+                            "name": "Titanium"
+                        },
+                        {
+                            "value": 222.47187096088305,
+                            "name": "Wood"
+                        }
+                    ]
+                },
+                {
+                    "name": "Medium Truck",
+                    "children": [
+                        {
+                            "value": 448.5129313744253,
+                            "name": "Aluminium"
+                        },
+                        {
+                            "value": 149.5043104581418,
+                            "name": "Copper"
+                        },
+                        {
+                            "value": 348.8433910689975,
+                            "name": "Glass"
+                        },
+                        {
+                            "value": 9767.614949931929,
+                            "name": "Plastics"
+                        },
+                        {
+                            "value": 2790.7471285519796,
+                            "name": "Rubber"
+                        },
+                        {
+                            "value": 31993.922438042344,
+                            "name": "Steel"
+                        },
+                        {
+                            "value": 0.0,
+                            "name": "Titanium"
+                        },
+                        {
+                            "value": 0.0,
+                            "name": "Wood"
+                        }
+                    ]
+                },
+                {
+                    "name": "Rail Freight",
+                    "children": [
+                        {
+                            "value": 6604.336307019613,
+                            "name": "Aluminium"
+                        },
+                        {
+                            "value": 183.1146850375124,
+                            "name": "Copper"
+                        },
+                        {
+                            "value": 0.0,
+                            "name": "Glass"
+                        },
+                        {
+                            "value": 0.0,
+                            "name": "Plastics"
+                        },
+                        {
+                            "value": 0.0,
+                            "name": "Rubber"
+                        },
+                        {
+                            "value": 115301.21334528695,
+                            "name": "Steel"
+                        },
+                        {
+                            "value": 0.0,
+                            "name": "Titanium"
+                        },
+                        {
+                            "value": 0.0,
+                            "name": "Wood"
+                        }
+                    ]
+                },
+                {
+                    "name": "Small Ship",
+                    "children": [
+                        {
+                            "value": 9.672525956633425,
+                            "name": "Aluminium"
+                        },
+                        {
+                            "value": 9.672525956633425,
+                            "name": "Copper"
+                        },
+                        {
+                            "value": 0.5803515573980058,
+                            "name": "Glass"
+                        },
+                        {
+                            "value": 19.34505191326685,
+                            "name": "Plastics"
+                        },
+                        {
+                            "value": 0.0,
+                            "name": "Rubber"
+                        },
+                        {
+                            "value": 880.1998620536422,
+                            "name": "Steel"
+                        },
+                        {
+                            "value": 0.0,
+                            "name": "Titanium"
+                        },
+                        {
+                            "value": 9.672525956633425,
+                            "name": "Wood"
+                        }
+                    ]
+                },
+                {
+                    "name": "Very Large Ship",
+                    "children": [
+                        {
+                            "value": 311.8760442555943,
+                            "name": "Aluminium"
+                        },
+                        {
+                            "value": 311.8760442555943,
+                            "name": "Copper"
+                        },
+                        {
+                            "value": 18.71256265533566,
+                            "name": "Glass"
+                        },
+                        {
+                            "value": 623.7520885111886,
+                            "name": "Plastics"
+                        },
+                        {
+                            "value": 0.0,
+                            "name": "Rubber"
+                        },
+                        {
+                            "value": 28380.720027259085,
+                            "name": "Steel"
+                        },
+                        {
+                            "value": 0.0,
+                            "name": "Titanium"
+                        },
+                        {
+                            "value": 311.8760442555943,
+                            "name": "Wood"
+                        }
+                    ]
+                },
+                {
+                    "name": "Air",
+                    "children": []
+                },
+                {
+                    "name": "Bicycle",
+                    "children": []
+                },
+                {
+                    "name": "Bus",
+                    "children": []
+                },
+                {
+                    "name": "HST",
+                    "children": []
+                },
+                {
+                    "name": "Midi Bus",
+                    "children": []
+                },
+                {
+                    "name": "Train",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "passenger",
+            "children": [
+                {
+                    "name": "Air Cargo",
+                    "children": []
+                },
+                {
+                    "name": "Heavy Truck",
+                    "children": []
+                },
+                {
+                    "name": "Inland Shipping",
+                    "children": []
+                },
+                {
+                    "name": "Large Ship",
+                    "children": []
+                },
+                {
+                    "name": "Light Truck",
+                    "children": []
+                },
+                {
+                    "name": "Medium Ship",
+                    "children": []
+                },
+                {
+                    "name": "Medium Truck",
+                    "children": []
+                },
+                {
+                    "name": "Rail Freight",
+                    "children": []
+                },
+                {
+                    "name": "Small Ship",
+                    "children": []
+                },
+                {
+                    "name": "Very Large Ship",
+                    "children": []
+                },
+                {
+                    "name": "Air",
+                    "children": [
+                        {
+                            "value": 440.8908802386661,
+                            "name": "Aluminium"
+                        },
+                        {
+                            "value": 2.98249713102627,
+                            "name": "Copper"
+                        },
+                        {
+                            "value": 0.0,
+                            "name": "Glass"
+                        },
+                        {
+                            "value": 34.03936943019112,
+                            "name": "Plastics"
+                        },
+                        {
+                            "value": 0.0,
+                            "name": "Rubber"
+                        },
+                        {
+                            "value": 58.35320473747051,
+                            "name": "Steel"
+                        },
+                        {
+                            "value": 38.902136491647,
+                            "name": "Titanium"
+                        },
+                        {
+                            "value": 0.0,
+                            "name": "Wood"
+                        }
+                    ]
+                },
+                {
+                    "name": "Bicycle",
+                    "children": [
+                        {
+                            "value": 16314.502162003335,
+                            "name": "Aluminium"
+                        },
+                        {
+                            "value": 0.0,
+                            "name": "Copper"
+                        },
+                        {
+                            "value": 0.0,
+                            "name": "Glass"
+                        },
+                        {
+                            "value": 4255.9570857399995,
+                            "name": "Plastics"
+                        },
+                        {
+                            "value": 2482.6416333483335,
+                            "name": "Rubber"
+                        },
+                        {
+                            "value": 12058.545076263335,
+                            "name": "Steel"
+                        },
+                        {
+                            "value": 0.0,
+                            "name": "Titanium"
+                        },
+                        {
+                            "value": 0.0,
+                            "name": "Wood"
+                        }
+                    ]
+                },
+                {
+                    "name": "Bus",
+                    "children": [
+                        {
+                            "value": 30243.106065923344,
+                            "name": "Aluminium"
+                        },
+                        {
+                            "value": 398.354927106472,
+                            "name": "Copper"
+                        },
+                        {
+                            "value": 3569.2601468739895,
+                            "name": "Glass"
+                        },
+                        {
+                            "value": 13958.356645810778,
+                            "name": "Plastics"
+                        },
+                        {
+                            "value": 4620.917154435075,
+                            "name": "Rubber"
+                        },
+                        {
+                            "value": 88179.84666428865,
+                            "name": "Steel"
+                        },
+                        {
+                            "value": 0.0,
+                            "name": "Titanium"
+                        },
+                        {
+                            "value": 0.0,
+                            "name": "Wood"
+                        }
+                    ]
+                },
+                {
+                    "name": "HST",
+                    "children": [
+                        {
+                            "value": 494.2567359309012,
+                            "name": "Aluminium"
+                        },
+                        {
+                            "value": 25.72412888635203,
+                            "name": "Copper"
+                        },
+                        {
+                            "value": 36.32796827461929,
+                            "name": "Glass"
+                        },
+                        {
+                            "value": 64.40850591391958,
+                            "name": "Plastics"
+                        },
+                        {
+                            "value": 0.0,
+                            "name": "Rubber"
+                        },
+                        {
+                            "value": 1171.135150215294,
+                            "name": "Steel"
+                        },
+                        {
+                            "value": 0.0,
+                            "name": "Titanium"
+                        },
+                        {
+                            "value": 0.0,
+                            "name": "Wood"
+                        }
+                    ]
+                },
+                {
+                    "name": "Midi Bus",
+                    "children": [
+                        {
+                            "value": 4515.932441186867,
+                            "name": "Aluminium"
+                        },
+                        {
+                            "value": 30.914104882166402,
+                            "name": "Copper"
+                        },
+                        {
+                            "value": 563.8732730507152,
+                            "name": "Glass"
+                        },
+                        {
+                            "value": 1843.7172151724042,
+                            "name": "Plastics"
+                        },
+                        {
+                            "value": 323.97981916510383,
+                            "name": "Rubber"
+                        },
+                        {
+                            "value": 3940.9300903785725,
+                            "name": "Steel"
+                        },
+                        {
+                            "value": 0.0,
+                            "name": "Titanium"
+                        },
+                        {
+                            "value": 0.0,
+                            "name": "Wood"
+                        }
+                    ]
+                },
+                {
+                    "name": "Train",
+                    "children": [
+                        {
+                            "value": 7219.645014300911,
+                            "name": "Aluminium"
+                        },
+                        {
+                            "value": 32.128108773112764,
+                            "name": "Copper"
+                        },
+                        {
+                            "value": 84.9100017575123,
+                            "name": "Glass"
+                        },
+                        {
+                            "value": 479.6267666843263,
+                            "name": "Plastics"
+                        },
+                        {
+                            "value": 0.0,
+                            "name": "Rubber"
+                        },
+                        {
+                            "value": 13883.932719809445,
+                            "name": "Steel"
+                        },
+                        {
+                            "value": 0.0,
+                            "name": "Titanium"
+                        },
+                        {
+                            "value": 0.0,
+                            "name": "Wood"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
