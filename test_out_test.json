@@ -1,666 +1,829 @@
 {
     "name": "vehicles",
+    "color": "#d8a46f",
     "children": [
         {
             "name": "freight",
+            "color": "#fd800b",
             "children": [
                 {
                     "name": "Air Cargo",
+                    "color": "#faf86b",
                     "children": [
                         {
                             "value": 255.81841731301031,
+                            "color": "#437dfb",
                             "name": "Aluminium"
                         },
                         {
                             "value": 0.0,
+                            "color": "#faf86b",
                             "name": "Copper"
                         },
                         {
                             "value": 0.0,
+                            "color": "#ceb973",
                             "name": "Glass"
                         },
                         {
                             "value": 19.750686630783886,
+                            "color": "#fd800b",
                             "name": "Plastics"
                         },
                         {
                             "value": 0.0,
+                            "color": "#d8a46f",
                             "name": "Rubber"
                         },
                         {
                             "value": 33.85831993848665,
+                            "color": "#d8a46f",
                             "name": "Steel"
                         },
                         {
                             "value": 22.572213292324435,
+                            "color": "#437dfb",
                             "name": "Titanium"
                         },
                         {
                             "value": 0.0,
+                            "color": "#fd800b",
                             "name": "Wood"
                         }
                     ]
                 },
                 {
                     "name": "Heavy Truck",
+                    "color": "#faf86b",
                     "children": [
                         {
                             "value": 8351.226432127589,
+                            "color": "#fd800b",
                             "name": "Aluminium"
                         },
                         {
                             "value": 1159.8925600177201,
+                            "color": "#8cbfef",
                             "name": "Copper"
                         },
                         {
                             "value": 695.9355360106323,
+                            "color": "#ceb973",
                             "name": "Glass"
                         },
                         {
                             "value": 12990.796672198465,
+                            "color": "#faf86b",
                             "name": "Plastics"
                         },
                         {
                             "value": 13454.753696205558,
+                            "color": "#437dfb",
                             "name": "Rubber"
                         },
                         {
                             "value": 171432.12037061912,
+                            "color": "#8cbfef",
                             "name": "Steel"
                         },
                         {
                             "value": 0.0,
+                            "color": "#fd800b",
                             "name": "Titanium"
                         },
                         {
                             "value": 0.0,
+                            "color": "#ceb973",
                             "name": "Wood"
                         }
                     ]
                 },
                 {
                     "name": "Inland Shipping",
+                    "color": "#8cbfef",
                     "children": [
                         {
                             "value": 1224.850657763029,
+                            "color": "#d8a46f",
                             "name": "Aluminium"
                         },
                         {
                             "value": 1224.850657763029,
+                            "color": "#ceb973",
                             "name": "Copper"
                         },
                         {
                             "value": 73.49103946578171,
+                            "color": "#437dfb",
                             "name": "Glass"
                         },
                         {
                             "value": 2449.701315526058,
+                            "color": "#faf86b",
                             "name": "Plastics"
                         },
                         {
                             "value": 0.0,
+                            "color": "#fd800b",
                             "name": "Rubber"
                         },
                         {
                             "value": 111461.40985643565,
+                            "color": "#ceb973",
                             "name": "Steel"
                         },
                         {
                             "value": 0.0,
+                            "color": "#8cbfef",
                             "name": "Titanium"
                         },
                         {
                             "value": 1224.850657763029,
+                            "color": "#faf86b",
                             "name": "Wood"
                         }
                     ]
                 },
                 {
                     "name": "Large Ship",
+                    "color": "#8cbfef",
                     "children": [
                         {
                             "value": 365.55780709027846,
+                            "color": "#ceb973",
                             "name": "Aluminium"
                         },
                         {
                             "value": 365.55780709027846,
+                            "color": "#faf86b",
                             "name": "Copper"
                         },
                         {
                             "value": 21.93346842541671,
+                            "color": "#fd800b",
                             "name": "Glass"
                         },
                         {
                             "value": 731.1156141805569,
+                            "color": "#fd800b",
                             "name": "Plastics"
                         },
                         {
                             "value": 0.0,
+                            "color": "#faf86b",
                             "name": "Rubber"
                         },
                         {
                             "value": 33265.76044521534,
+                            "color": "#faf86b",
                             "name": "Steel"
                         },
                         {
                             "value": 0.0,
+                            "color": "#437dfb",
                             "name": "Titanium"
                         },
                         {
                             "value": 365.55780709027846,
+                            "color": "#ceb973",
                             "name": "Wood"
                         }
                     ]
                 },
                 {
                     "name": "Light Truck",
+                    "color": "#d8a46f",
                     "children": [
                         {
                             "value": 5606.148205829522,
+                            "color": "#fd800b",
                             "name": "Aluminium"
                         },
                         {
                             "value": 919.0406894802496,
+                            "color": "#8cbfef",
                             "name": "Copper"
                         },
                         {
                             "value": 551.4244136881498,
+                            "color": "#8cbfef",
                             "name": "Glass"
                         },
                         {
                             "value": 9925.639446386696,
+                            "color": "#437dfb",
                             "name": "Plastics"
                         },
                         {
                             "value": 2757.1220684407485,
+                            "color": "#437dfb",
                             "name": "Rubber"
                         },
                         {
                             "value": 60289.06922990435,
+                            "color": "#8cbfef",
                             "name": "Steel"
                         },
                         {
                             "value": 0.0,
+                            "color": "#8cbfef",
                             "name": "Titanium"
                         },
                         {
                             "value": 0.0,
+                            "color": "#8cbfef",
                             "name": "Wood"
                         }
                     ]
                 },
                 {
                     "name": "Medium Ship",
+                    "color": "#437dfb",
                     "children": [
                         {
                             "value": 222.47187096088305,
+                            "color": "#8cbfef",
                             "name": "Aluminium"
                         },
                         {
                             "value": 222.47187096088305,
+                            "color": "#fd800b",
                             "name": "Copper"
                         },
                         {
                             "value": 13.348312257652982,
+                            "color": "#fd800b",
                             "name": "Glass"
                         },
                         {
                             "value": 444.9437419217661,
+                            "color": "#ceb973",
                             "name": "Plastics"
                         },
                         {
                             "value": 0.0,
+                            "color": "#d8a46f",
                             "name": "Rubber"
                         },
                         {
                             "value": 20244.940257440365,
+                            "color": "#ceb973",
                             "name": "Steel"
                         },
                         {
                             "value": 0.0,
+                            "color": "#ceb973",
                             "name": "Titanium"
                         },
                         {
                             "value": 222.47187096088305,
+                            "color": "#437dfb",
                             "name": "Wood"
                         }
                     ]
                 },
                 {
                     "name": "Medium Truck",
+                    "color": "#437dfb",
                     "children": [
                         {
                             "value": 448.5129313744253,
+                            "color": "#faf86b",
                             "name": "Aluminium"
                         },
                         {
                             "value": 149.5043104581418,
+                            "color": "#d8a46f",
                             "name": "Copper"
                         },
                         {
                             "value": 348.8433910689975,
+                            "color": "#ceb973",
                             "name": "Glass"
                         },
                         {
                             "value": 9767.614949931929,
+                            "color": "#faf86b",
                             "name": "Plastics"
                         },
                         {
                             "value": 2790.7471285519796,
+                            "color": "#fd800b",
                             "name": "Rubber"
                         },
                         {
                             "value": 31993.922438042344,
+                            "color": "#437dfb",
                             "name": "Steel"
                         },
                         {
                             "value": 0.0,
+                            "color": "#ceb973",
                             "name": "Titanium"
                         },
                         {
                             "value": 0.0,
+                            "color": "#8cbfef",
                             "name": "Wood"
                         }
                     ]
                 },
                 {
                     "name": "Rail Freight",
+                    "color": "#faf86b",
                     "children": [
                         {
                             "value": 6604.336307019613,
+                            "color": "#d8a46f",
                             "name": "Aluminium"
                         },
                         {
                             "value": 183.1146850375124,
+                            "color": "#faf86b",
                             "name": "Copper"
                         },
                         {
                             "value": 0.0,
+                            "color": "#d8a46f",
                             "name": "Glass"
                         },
                         {
                             "value": 0.0,
+                            "color": "#437dfb",
                             "name": "Plastics"
                         },
                         {
                             "value": 0.0,
+                            "color": "#8cbfef",
                             "name": "Rubber"
                         },
                         {
                             "value": 115301.21334528695,
+                            "color": "#d8a46f",
                             "name": "Steel"
                         },
                         {
                             "value": 0.0,
+                            "color": "#fd800b",
                             "name": "Titanium"
                         },
                         {
                             "value": 0.0,
+                            "color": "#faf86b",
                             "name": "Wood"
                         }
                     ]
                 },
                 {
                     "name": "Small Ship",
+                    "color": "#d8a46f",
                     "children": [
                         {
                             "value": 9.672525956633425,
+                            "color": "#d8a46f",
                             "name": "Aluminium"
                         },
                         {
                             "value": 9.672525956633425,
+                            "color": "#faf86b",
                             "name": "Copper"
                         },
                         {
                             "value": 0.5803515573980058,
+                            "color": "#ceb973",
                             "name": "Glass"
                         },
                         {
                             "value": 19.34505191326685,
+                            "color": "#d8a46f",
                             "name": "Plastics"
                         },
                         {
                             "value": 0.0,
+                            "color": "#fd800b",
                             "name": "Rubber"
                         },
                         {
                             "value": 880.1998620536422,
+                            "color": "#d8a46f",
                             "name": "Steel"
                         },
                         {
                             "value": 0.0,
+                            "color": "#437dfb",
                             "name": "Titanium"
                         },
                         {
                             "value": 9.672525956633425,
+                            "color": "#faf86b",
                             "name": "Wood"
                         }
                     ]
                 },
                 {
                     "name": "Very Large Ship",
+                    "color": "#d8a46f",
                     "children": [
                         {
                             "value": 311.8760442555943,
+                            "color": "#437dfb",
                             "name": "Aluminium"
                         },
                         {
                             "value": 311.8760442555943,
+                            "color": "#ceb973",
                             "name": "Copper"
                         },
                         {
                             "value": 18.71256265533566,
+                            "color": "#8cbfef",
                             "name": "Glass"
                         },
                         {
                             "value": 623.7520885111886,
+                            "color": "#faf86b",
                             "name": "Plastics"
                         },
                         {
                             "value": 0.0,
+                            "color": "#faf86b",
                             "name": "Rubber"
                         },
                         {
                             "value": 28380.720027259085,
+                            "color": "#ceb973",
                             "name": "Steel"
                         },
                         {
                             "value": 0.0,
+                            "color": "#d8a46f",
                             "name": "Titanium"
                         },
                         {
                             "value": 311.8760442555943,
+                            "color": "#437dfb",
                             "name": "Wood"
                         }
                     ]
                 },
                 {
                     "name": "Air",
+                    "color": "#ceb973",
                     "children": []
                 },
                 {
                     "name": "Bicycle",
+                    "color": "#ceb973",
                     "children": []
                 },
                 {
                     "name": "Bus",
+                    "color": "#fd800b",
                     "children": []
                 },
                 {
                     "name": "HST",
+                    "color": "#faf86b",
                     "children": []
                 },
                 {
                     "name": "Midi Bus",
+                    "color": "#fd800b",
                     "children": []
                 },
                 {
                     "name": "Train",
+                    "color": "#fd800b",
                     "children": []
                 }
             ]
         },
         {
             "name": "passenger",
+            "color": "#8cbfef",
             "children": [
                 {
                     "name": "Air Cargo",
+                    "color": "#d8a46f",
                     "children": []
                 },
                 {
                     "name": "Heavy Truck",
+                    "color": "#d8a46f",
                     "children": []
                 },
                 {
                     "name": "Inland Shipping",
+                    "color": "#faf86b",
                     "children": []
                 },
                 {
                     "name": "Large Ship",
+                    "color": "#faf86b",
                     "children": []
                 },
                 {
                     "name": "Light Truck",
+                    "color": "#8cbfef",
                     "children": []
                 },
                 {
                     "name": "Medium Ship",
+                    "color": "#fd800b",
                     "children": []
                 },
                 {
                     "name": "Medium Truck",
+                    "color": "#d8a46f",
                     "children": []
                 },
                 {
                     "name": "Rail Freight",
+                    "color": "#faf86b",
                     "children": []
                 },
                 {
                     "name": "Small Ship",
+                    "color": "#8cbfef",
                     "children": []
                 },
                 {
                     "name": "Very Large Ship",
+                    "color": "#d8a46f",
                     "children": []
                 },
                 {
                     "name": "Air",
+                    "color": "#437dfb",
                     "children": [
                         {
                             "value": 440.8908802386661,
+                            "color": "#437dfb",
                             "name": "Aluminium"
                         },
                         {
                             "value": 2.98249713102627,
+                            "color": "#d8a46f",
                             "name": "Copper"
                         },
                         {
                             "value": 0.0,
+                            "color": "#faf86b",
                             "name": "Glass"
                         },
                         {
                             "value": 34.03936943019112,
+                            "color": "#fd800b",
                             "name": "Plastics"
                         },
                         {
                             "value": 0.0,
+                            "color": "#faf86b",
                             "name": "Rubber"
                         },
                         {
                             "value": 58.35320473747051,
+                            "color": "#437dfb",
                             "name": "Steel"
                         },
                         {
                             "value": 38.902136491647,
+                            "color": "#fd800b",
                             "name": "Titanium"
                         },
                         {
                             "value": 0.0,
+                            "color": "#faf86b",
                             "name": "Wood"
                         }
                     ]
                 },
                 {
                     "name": "Bicycle",
+                    "color": "#8cbfef",
                     "children": [
                         {
                             "value": 16314.502162003335,
+                            "color": "#fd800b",
                             "name": "Aluminium"
                         },
                         {
                             "value": 0.0,
+                            "color": "#437dfb",
                             "name": "Copper"
                         },
                         {
                             "value": 0.0,
+                            "color": "#8cbfef",
                             "name": "Glass"
                         },
                         {
                             "value": 4255.9570857399995,
+                            "color": "#8cbfef",
                             "name": "Plastics"
                         },
                         {
                             "value": 2482.6416333483335,
+                            "color": "#faf86b",
                             "name": "Rubber"
                         },
                         {
                             "value": 12058.545076263335,
+                            "color": "#ceb973",
                             "name": "Steel"
                         },
                         {
                             "value": 0.0,
+                            "color": "#fd800b",
                             "name": "Titanium"
                         },
                         {
                             "value": 0.0,
+                            "color": "#faf86b",
                             "name": "Wood"
                         }
                     ]
                 },
                 {
                     "name": "Bus",
+                    "color": "#437dfb",
                     "children": [
                         {
                             "value": 30243.106065923344,
+                            "color": "#8cbfef",
                             "name": "Aluminium"
                         },
                         {
                             "value": 398.354927106472,
+                            "color": "#8cbfef",
                             "name": "Copper"
                         },
                         {
                             "value": 3569.2601468739895,
+                            "color": "#ceb973",
                             "name": "Glass"
                         },
                         {
                             "value": 13958.356645810778,
+                            "color": "#d8a46f",
                             "name": "Plastics"
                         },
                         {
                             "value": 4620.917154435075,
+                            "color": "#437dfb",
                             "name": "Rubber"
                         },
                         {
                             "value": 88179.84666428865,
+                            "color": "#fd800b",
                             "name": "Steel"
                         },
                         {
                             "value": 0.0,
+                            "color": "#faf86b",
                             "name": "Titanium"
                         },
                         {
                             "value": 0.0,
+                            "color": "#faf86b",
                             "name": "Wood"
                         }
                     ]
                 },
                 {
                     "name": "HST",
+                    "color": "#faf86b",
                     "children": [
                         {
                             "value": 494.2567359309012,
+                            "color": "#faf86b",
                             "name": "Aluminium"
                         },
                         {
                             "value": 25.72412888635203,
+                            "color": "#ceb973",
                             "name": "Copper"
                         },
                         {
                             "value": 36.32796827461929,
+                            "color": "#437dfb",
                             "name": "Glass"
                         },
                         {
                             "value": 64.40850591391958,
+                            "color": "#fd800b",
                             "name": "Plastics"
                         },
                         {
                             "value": 0.0,
+                            "color": "#fd800b",
                             "name": "Rubber"
                         },
                         {
                             "value": 1171.135150215294,
+                            "color": "#437dfb",
                             "name": "Steel"
                         },
                         {
                             "value": 0.0,
+                            "color": "#fd800b",
                             "name": "Titanium"
                         },
                         {
                             "value": 0.0,
+                            "color": "#d8a46f",
                             "name": "Wood"
                         }
                     ]
                 },
                 {
                     "name": "Midi Bus",
+                    "color": "#fd800b",
                     "children": [
                         {
                             "value": 4515.932441186867,
+                            "color": "#d8a46f",
                             "name": "Aluminium"
                         },
                         {
                             "value": 30.914104882166402,
+                            "color": "#fd800b",
                             "name": "Copper"
                         },
                         {
                             "value": 563.8732730507152,
+                            "color": "#d8a46f",
                             "name": "Glass"
                         },
                         {
                             "value": 1843.7172151724042,
+                            "color": "#ceb973",
                             "name": "Plastics"
                         },
                         {
                             "value": 323.97981916510383,
+                            "color": "#8cbfef",
                             "name": "Rubber"
                         },
                         {
                             "value": 3940.9300903785725,
+                            "color": "#fd800b",
                             "name": "Steel"
                         },
                         {
                             "value": 0.0,
+                            "color": "#d8a46f",
                             "name": "Titanium"
                         },
                         {
                             "value": 0.0,
+                            "color": "#faf86b",
                             "name": "Wood"
                         }
                     ]
                 },
                 {
                     "name": "Train",
+                    "color": "#fd800b",
                     "children": [
                         {
                             "value": 7219.645014300911,
+                            "color": "#8cbfef",
                             "name": "Aluminium"
                         },
                         {
                             "value": 32.128108773112764,
+                            "color": "#ceb973",
                             "name": "Copper"
                         },
                         {
                             "value": 84.9100017575123,
+                            "color": "#fd800b",
                             "name": "Glass"
                         },
                         {
                             "value": 479.6267666843263,
+                            "color": "#437dfb",
                             "name": "Plastics"
                         },
                         {
                             "value": 0.0,
+                            "color": "#fd800b",
                             "name": "Rubber"
                         },
                         {
                             "value": 13883.932719809445,
+                            "color": "#ceb973",
                             "name": "Steel"
                         },
                         {
                             "value": 0.0,
+                            "color": "#ceb973",
                             "name": "Titanium"
                         },
                         {
                             "value": 0.0,
+                            "color": "#d8a46f",
                             "name": "Wood"
                         }
                     ]
