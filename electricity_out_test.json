@@ -4,19 +4,19 @@
     "children": [
         {
             "name": "transmission",
-            "color": "#437dfb",
+            "color": "#8cbfef",
             "children": [
                 {
                     "name": "lines",
-                    "color": "#faf86b",
+                    "color": "#ceb973",
                     "children": [
                         {
-                            "value": 65945.57712157264,
-                            "color": "#d8a46f",
+                            "value": 162517.6457230784,
+                            "color": "#faf86b",
                             "name": "Aluminium"
                         },
                         {
-                            "value": 6118.616762342324,
+                            "value": 35497.907280114356,
                             "color": "#437dfb",
                             "name": "Asphalt"
                         },
@@ -26,69 +26,69 @@
                             "name": "Co"
                         },
                         {
-                            "value": 491810.3553548942,
-                            "color": "#437dfb",
+                            "value": 1218740.291742867,
+                            "color": "#d8a46f",
                             "name": "Concrete"
                         },
                         {
-                            "value": 11499.444079549907,
-                            "color": "#fd800b",
+                            "value": 28578.85317318803,
+                            "color": "#d8a46f",
                             "name": "Cu"
                         },
                         {
-                            "value": 2563.7110032076585,
-                            "color": "#faf86b",
+                            "value": 6303.759088322586,
+                            "color": "#ceb973",
                             "name": "Glass"
                         },
                         {
                             "value": 0.0,
-                            "color": "#ceb973",
+                            "color": "#faf86b",
                             "name": "Mn"
                         },
                         {
                             "value": 0.0,
-                            "color": "#437dfb",
+                            "color": "#8cbfef",
                             "name": "Nd"
                         },
                         {
                             "value": 0.0,
-                            "color": "#8cbfef",
+                            "color": "#fd800b",
                             "name": "Ni"
                         },
                         {
-                            "value": 2271.243474528657,
+                            "value": 13176.898210980358,
                             "color": "#ceb973",
                             "name": "Pb"
                         },
                         {
-                            "value": 13072.985147603953,
-                            "color": "#437dfb",
+                            "value": 31973.98491582259,
+                            "color": "#8cbfef",
                             "name": "Plastics"
                         },
                         {
-                            "value": 129551.19812443972,
-                            "color": "#faf86b",
+                            "value": 318255.0822528721,
+                            "color": "#8cbfef",
                             "name": "Steel"
                         },
                         {
-                            "value": 22737.620851514068,
-                            "color": "#fd800b",
+                            "value": 33555.69351086331,
+                            "color": "#8cbfef",
                             "name": "Wood"
                         },
                         {
-                            "value": 2104.2771572155893,
-                            "color": "#fd800b",
+                            "value": 5174.084067022642,
+                            "color": "#ceb973",
                             "name": "Zn"
                         }
                     ]
                 },
                 {
                     "name": "substations",
-                    "color": "#fd800b",
+                    "color": "#ceb973",
                     "children": [
                         {
-                            "value": 59742.14551314654,
-                            "color": "#ceb973",
+                            "value": 158214.39930462418,
+                            "color": "#d8a46f",
                             "name": "Aluminium"
                         },
                         {
@@ -98,78 +98,78 @@
                         },
                         {
                             "value": 0.0,
-                            "color": "#8cbfef",
+                            "color": "#ceb973",
                             "name": "Co"
                         },
                         {
-                            "value": 109677.82065541716,
-                            "color": "#fd800b",
+                            "value": 250681.16789219467,
+                            "color": "#437dfb",
                             "name": "Concrete"
                         },
                         {
-                            "value": 400.7957156633489,
-                            "color": "#faf86b",
+                            "value": 978.7557130301016,
+                            "color": "#8cbfef",
                             "name": "Cu"
                         },
                         {
-                            "value": 0.0021122803592037815,
-                            "color": "#8cbfef",
+                            "value": 0.00565037964841124,
+                            "color": "#d8a46f",
                             "name": "Glass"
                         },
                         {
                             "value": 0.0,
-                            "color": "#faf86b",
+                            "color": "#437dfb",
                             "name": "Mn"
                         },
                         {
                             "value": 0.0,
-                            "color": "#437dfb",
+                            "color": "#ceb973",
                             "name": "Nd"
                         },
                         {
-                            "value": 0.3168420538805672,
-                            "color": "#ceb973",
+                            "value": 0.8475569472616858,
+                            "color": "#fd800b",
                             "name": "Ni"
                         },
                         {
-                            "value": 8.449121436815127e-05,
+                            "value": 0.00022601518593644957,
                             "color": "#d8a46f",
                             "name": "Pb"
                         },
                         {
-                            "value": 12.759651965842286,
-                            "color": "#fd800b",
+                            "value": 34.13224834215777,
+                            "color": "#ceb973",
                             "name": "Plastics"
                         },
                         {
-                            "value": 3592.1629064531558,
-                            "color": "#ceb973",
+                            "value": 8968.383548299851,
+                            "color": "#d8a46f",
                             "name": "Steel"
                         },
                         {
-                            "value": 126.94804958814727,
-                            "color": "#d8a46f",
+                            "value": 339.5878168695154,
+                            "color": "#faf86b",
                             "name": "Wood"
                         },
                         {
-                            "value": 0.17341821749063044,
-                            "color": "#d8a46f",
+                            "value": 0.4638961691345628,
+                            "color": "#437dfb",
                             "name": "Zn"
                         }
                     ]
                 },
                 {
                     "name": "transformers",
-                    "color": "#437dfb",
+                    "color": "#faf86b",
                     "children": [
                         {
-                            "value": 4045.415567800725,
-                            "color": "#ceb973",
+                            "value": 10738.53855480724,
+                            "color": "#8cbfef",
                             "name": "Aluminium"
                         },
                         {
                             "value": 0.0,
-                            "color": "#fd800b",
+                            "color": "#faf86b",
                             "name": "Asphalt"
                         },
                         {
@@ -178,58 +178,58 @@
                             "name": "Co"
                         },
                         {
-                            "value": 98211.22554818045,
-                            "color": "#d8a46f",
+                            "value": 260586.73679860923,
+                            "color": "#faf86b",
                             "name": "Concrete"
                         },
                         {
-                            "value": 11300.516225956935,
-                            "color": "#faf86b",
+                            "value": 29928.239031631074,
+                            "color": "#437dfb",
                             "name": "Cu"
                         },
                         {
                             "value": 0.0,
-                            "color": "#8cbfef",
+                            "color": "#437dfb",
                             "name": "Glass"
                         },
                         {
                             "value": 0.0,
-                            "color": "#faf86b",
+                            "color": "#fd800b",
                             "name": "Mn"
                         },
                         {
                             "value": 0.0,
-                            "color": "#8cbfef",
+                            "color": "#d8a46f",
                             "name": "Nd"
                         },
                         {
                             "value": 0.0,
-                            "color": "#fd800b",
+                            "color": "#faf86b",
                             "name": "Ni"
                         },
                         {
-                            "value": 0.007187009483898358,
-                            "color": "#8cbfef",
+                            "value": 0.01552827338447953,
+                            "color": "#fd800b",
                             "name": "Pb"
                         },
                         {
                             "value": 0.0,
-                            "color": "#ceb973",
+                            "color": "#d8a46f",
                             "name": "Plastics"
                         },
                         {
-                            "value": 63683.00651588888,
-                            "color": "#d8a46f",
+                            "value": 168940.52877627782,
+                            "color": "#8cbfef",
                             "name": "Steel"
                         },
                         {
-                            "value": 517.4996320637176,
-                            "color": "#d8a46f",
+                            "value": 1374.6470935045127,
+                            "color": "#ceb973",
                             "name": "Wood"
                         },
                         {
-                            "value": 0.32341542799586165,
-                            "color": "#fd800b",
+                            "value": 0.6987723049384555,
+                            "color": "#ceb973",
                             "name": "Zn"
                         }
                     ]
@@ -238,11 +238,11 @@
         },
         {
             "name": "generation",
-            "color": "#ceb973",
+            "color": "#437dfb",
             "children": [
                 {
-                    "name": "EMPTY",
-                    "color": "#8cbfef",
+                    "name": "<EMPTY>",
+                    "color": "#ceb973",
                     "children": [
                         {
                             "value": 0.0,
@@ -256,7 +256,7 @@
                         },
                         {
                             "value": 0.0,
-                            "color": "#ceb973",
+                            "color": "#d8a46f",
                             "name": "Concrete"
                         },
                         {
@@ -266,7 +266,7 @@
                         },
                         {
                             "value": 0.0,
-                            "color": "#fd800b",
+                            "color": "#8cbfef",
                             "name": "Glass"
                         },
                         {
@@ -276,342 +276,342 @@
                         },
                         {
                             "value": 0.0,
-                            "color": "#ceb973",
+                            "color": "#fd800b",
                             "name": "Nd"
                         },
                         {
                             "value": 0.0,
-                            "color": "#fd800b",
+                            "color": "#8cbfef",
                             "name": "Ni"
                         },
                         {
                             "value": 0.0,
-                            "color": "#8cbfef",
+                            "color": "#437dfb",
                             "name": "Pb"
                         },
                         {
                             "value": 0.0,
-                            "color": "#ceb973",
+                            "color": "#437dfb",
                             "name": "Plastics"
                         },
                         {
                             "value": 0.0,
-                            "color": "#8cbfef",
+                            "color": "#d8a46f",
                             "name": "Steel"
                         },
                         {
                             "value": 0.0,
-                            "color": "#fd800b",
+                            "color": "#ceb973",
                             "name": "Ta"
                         }
                     ]
                 },
                 {
-                    "name": "Biomass CCS",
-                    "color": "#d8a46f",
+                    "name": "Biomass + CCS",
+                    "color": "#437dfb",
                     "children": [
                         {
                             "value": 0.0,
-                            "color": "#d8a46f",
+                            "color": "#fd800b",
                             "name": "Aluminium"
                         },
                         {
                             "value": 0.0,
-                            "color": "#ceb973",
+                            "color": "#d8a46f",
                             "name": "Co"
                         },
                         {
                             "value": 0.0,
-                            "color": "#437dfb",
+                            "color": "#8cbfef",
                             "name": "Concrete"
                         },
                         {
                             "value": 0.0,
-                            "color": "#fd800b",
+                            "color": "#8cbfef",
                             "name": "Cu"
                         },
                         {
                             "value": 0.0,
-                            "color": "#ceb973",
+                            "color": "#437dfb",
                             "name": "Glass"
                         },
                         {
                             "value": 0.0,
-                            "color": "#437dfb",
+                            "color": "#d8a46f",
                             "name": "Mn"
                         },
                         {
                             "value": 0.0,
-                            "color": "#faf86b",
+                            "color": "#fd800b",
                             "name": "Nd"
                         },
                         {
                             "value": 0.0,
-                            "color": "#437dfb",
+                            "color": "#ceb973",
                             "name": "Ni"
                         },
                         {
                             "value": 0.0,
-                            "color": "#fd800b",
+                            "color": "#ceb973",
                             "name": "Pb"
                         },
                         {
                             "value": 0.0,
-                            "color": "#8cbfef",
+                            "color": "#fd800b",
                             "name": "Plastics"
                         },
                         {
                             "value": 0.0,
-                            "color": "#d8a46f",
+                            "color": "#fd800b",
                             "name": "Steel"
                         },
                         {
                             "value": 0.0,
-                            "color": "#ceb973",
+                            "color": "#faf86b",
                             "name": "Ta"
                         }
                     ]
                 },
                 {
                     "name": "Biomass CC",
-                    "color": "#437dfb",
+                    "color": "#8cbfef",
                     "children": [
                         {
-                            "value": 0.0,
-                            "color": "#437dfb",
+                            "value": 0.37864976021249996,
+                            "color": "#ceb973",
                             "name": "Aluminium"
                         },
                         {
-                            "value": 0.0,
-                            "color": "#faf86b",
+                            "value": 0.097052621587114,
+                            "color": "#ceb973",
                             "name": "Co"
                         },
                         {
-                            "value": 0.0,
+                            "value": 128.64499386632951,
                             "color": "#ceb973",
                             "name": "Concrete"
                         },
                         {
-                            "value": 0.0,
-                            "color": "#fd800b",
+                            "value": 1.0993290211486941,
+                            "color": "#8cbfef",
                             "name": "Cu"
                         },
                         {
                             "value": 0.0,
-                            "color": "#d8a46f",
+                            "color": "#fd800b",
                             "name": "Glass"
                         },
                         {
                             "value": 0.0,
-                            "color": "#437dfb",
+                            "color": "#8cbfef",
                             "name": "Mn"
                         },
                         {
                             "value": 0.0,
-                            "color": "#faf86b",
+                            "color": "#8cbfef",
                             "name": "Nd"
                         },
                         {
                             "value": 0.0,
-                            "color": "#8cbfef",
+                            "color": "#d8a46f",
                             "name": "Ni"
                         },
                         {
                             "value": 0.0,
-                            "color": "#8cbfef",
+                            "color": "#d8a46f",
                             "name": "Pb"
                         },
                         {
                             "value": 0.0,
-                            "color": "#fd800b",
+                            "color": "#faf86b",
                             "name": "Plastics"
                         },
                         {
-                            "value": 0.0,
-                            "color": "#ceb973",
+                            "value": 48.2082449949785,
+                            "color": "#d8a46f",
                             "name": "Steel"
                         },
                         {
-                            "value": 0.0,
-                            "color": "#8cbfef",
+                            "value": 0.0068604124174120006,
+                            "color": "#faf86b",
                             "name": "Ta"
                         }
                     ]
                 },
                 {
                     "name": "CHP Biomass",
-                    "color": "#8cbfef",
+                    "color": "#ceb973",
                     "children": [
                         {
-                            "value": 1.3115841071519152,
-                            "color": "#fd800b",
+                            "value": 0.4496269037510379,
+                            "color": "#d8a46f",
                             "name": "Aluminium"
                         },
                         {
-                            "value": 1.764920037947903,
-                            "color": "#437dfb",
+                            "value": 0.6050359467635468,
+                            "color": "#d8a46f",
                             "name": "Co"
                         },
                         {
-                            "value": 6395.202132466042,
-                            "color": "#fd800b",
+                            "value": 2192.352681008577,
+                            "color": "#faf86b",
                             "name": "Concrete"
                         },
                         {
-                            "value": 77.05294312696071,
-                            "color": "#8cbfef",
+                            "value": 26.414681341565984,
+                            "color": "#fd800b",
                             "name": "Cu"
                         },
                         {
                             "value": 0.0,
-                            "color": "#437dfb",
+                            "color": "#faf86b",
                             "name": "Glass"
                         },
                         {
-                            "value": 0.28330216714481365,
-                            "color": "#ceb973",
+                            "value": 0.09711941121022422,
+                            "color": "#d8a46f",
                             "name": "Mn"
                         },
                         {
                             "value": 0.0,
-                            "color": "#fd800b",
+                            "color": "#ceb973",
                             "name": "Nd"
                         },
                         {
                             "value": 0.0,
-                            "color": "#ceb973",
+                            "color": "#437dfb",
                             "name": "Ni"
                         },
                         {
                             "value": 0.0,
-                            "color": "#ceb973",
+                            "color": "#437dfb",
                             "name": "Pb"
                         },
                         {
                             "value": 0.0,
-                            "color": "#d8a46f",
+                            "color": "#8cbfef",
                             "name": "Plastics"
                         },
                         {
-                            "value": 162.1445852466555,
-                            "color": "#8cbfef",
+                            "value": 55.58512597622207,
+                            "color": "#fd800b",
                             "name": "Steel"
                         },
                         {
-                            "value": 0.12475788027229018,
-                            "color": "#d8a46f",
+                            "value": 0.04276851108479873,
+                            "color": "#fd800b",
                             "name": "Ta"
                         }
                     ]
                 },
                 {
-                    "name": "CHP Biomass CCS",
-                    "color": "#faf86b",
+                    "name": "CHP Biomass + CCS",
+                    "color": "#8cbfef",
                     "children": [
                         {
                             "value": 0.0,
-                            "color": "#d8a46f",
+                            "color": "#ceb973",
                             "name": "Aluminium"
                         },
                         {
                             "value": 0.0,
-                            "color": "#8cbfef",
+                            "color": "#d8a46f",
                             "name": "Co"
                         },
                         {
                             "value": 0.0,
-                            "color": "#ceb973",
+                            "color": "#fd800b",
                             "name": "Concrete"
                         },
                         {
                             "value": 0.0,
-                            "color": "#faf86b",
+                            "color": "#8cbfef",
                             "name": "Cu"
                         },
                         {
                             "value": 0.0,
-                            "color": "#d8a46f",
+                            "color": "#ceb973",
                             "name": "Glass"
                         },
                         {
                             "value": 0.0,
-                            "color": "#faf86b",
+                            "color": "#fd800b",
                             "name": "Mn"
                         },
                         {
                             "value": 0.0,
-                            "color": "#ceb973",
+                            "color": "#fd800b",
                             "name": "Nd"
                         },
                         {
                             "value": 0.0,
-                            "color": "#ceb973",
+                            "color": "#d8a46f",
                             "name": "Ni"
                         },
                         {
                             "value": 0.0,
-                            "color": "#d8a46f",
+                            "color": "#437dfb",
                             "name": "Pb"
                         },
                         {
                             "value": 0.0,
-                            "color": "#faf86b",
+                            "color": "#fd800b",
                             "name": "Plastics"
                         },
                         {
                             "value": 0.0,
-                            "color": "#fd800b",
+                            "color": "#8cbfef",
                             "name": "Steel"
                         },
                         {
                             "value": 0.0,
-                            "color": "#ceb973",
+                            "color": "#d8a46f",
                             "name": "Ta"
                         }
                     ]
                 },
                 {
                     "name": "CHP Coal",
-                    "color": "#437dfb",
+                    "color": "#fd800b",
                     "children": [
                         {
-                            "value": 78.74271460457052,
+                            "value": 108.38783816900533,
                             "color": "#faf86b",
                             "name": "Aluminium"
                         },
                         {
-                            "value": 18.033992691751653,
-                            "color": "#fd800b",
+                            "value": 24.823445460707383,
+                            "color": "#faf86b",
                             "name": "Co"
                         },
                         {
-                            "value": 55092.32826186708,
+                            "value": 75833.53444172945,
                             "color": "#fd800b",
                             "name": "Concrete"
                         },
                         {
-                            "value": 873.0447529661185,
-                            "color": "#fd800b",
+                            "value": 1201.7293774286309,
+                            "color": "#d8a46f",
                             "name": "Cu"
                         },
                         {
                             "value": 0.0,
-                            "color": "#faf86b",
+                            "color": "#fd800b",
                             "name": "Glass"
                         },
                         {
-                            "value": 2.2791171513093826,
-                            "color": "#8cbfef",
+                            "value": 3.137161097440593,
+                            "color": "#d8a46f",
                             "name": "Mn"
                         },
                         {
                             "value": 0.0,
-                            "color": "#437dfb",
+                            "color": "#fd800b",
                             "name": "Nd"
                         },
                         {
-                            "value": 130.51869145746159,
-                            "color": "#fd800b",
+                            "value": 179.65647842804447,
+                            "color": "#8cbfef",
                             "name": "Ni"
                         },
                         {
@@ -621,109 +621,109 @@
                         },
                         {
                             "value": 0.0,
-                            "color": "#ceb973",
+                            "color": "#8cbfef",
                             "name": "Plastics"
                         },
                         {
-                            "value": 13210.915450549765,
+                            "value": 18184.57203449635,
                             "color": "#faf86b",
                             "name": "Steel"
                         },
                         {
-                            "value": 1.36747029078563,
-                            "color": "#faf86b",
+                            "value": 1.8822966584643557,
+                            "color": "#437dfb",
                             "name": "Ta"
                         }
                     ]
                 },
                 {
-                    "name": "CHP Coal CCS",
+                    "name": "CHP Coal + CCS",
                     "color": "#437dfb",
                     "children": [
                         {
                             "value": 0.0,
-                            "color": "#ceb973",
+                            "color": "#d8a46f",
                             "name": "Aluminium"
                         },
                         {
                             "value": 0.0,
-                            "color": "#d8a46f",
+                            "color": "#faf86b",
                             "name": "Co"
                         },
                         {
                             "value": 0.0,
-                            "color": "#437dfb",
+                            "color": "#fd800b",
                             "name": "Concrete"
                         },
                         {
                             "value": 0.0,
-                            "color": "#d8a46f",
+                            "color": "#fd800b",
                             "name": "Cu"
                         },
                         {
                             "value": 0.0,
-                            "color": "#faf86b",
+                            "color": "#d8a46f",
                             "name": "Glass"
                         },
                         {
                             "value": 0.0,
-                            "color": "#fd800b",
+                            "color": "#437dfb",
                             "name": "Mn"
                         },
                         {
                             "value": 0.0,
-                            "color": "#fd800b",
+                            "color": "#ceb973",
                             "name": "Nd"
                         },
                         {
                             "value": 0.0,
-                            "color": "#faf86b",
+                            "color": "#ceb973",
                             "name": "Ni"
                         },
                         {
                             "value": 0.0,
-                            "color": "#d8a46f",
+                            "color": "#ceb973",
                             "name": "Pb"
                         },
                         {
                             "value": 0.0,
-                            "color": "#ceb973",
+                            "color": "#437dfb",
                             "name": "Plastics"
                         },
                         {
                             "value": 0.0,
-                            "color": "#8cbfef",
+                            "color": "#fd800b",
                             "name": "Steel"
                         },
                         {
                             "value": 0.0,
-                            "color": "#ceb973",
+                            "color": "#437dfb",
                             "name": "Ta"
                         }
                     ]
                 },
                 {
                     "name": "CHP Natural Gas",
-                    "color": "#8cbfef",
+                    "color": "#faf86b",
                     "children": [
                         {
-                            "value": 81.4319727666281,
-                            "color": "#d8a46f",
+                            "value": 35.760456863611964,
+                            "color": "#ceb973",
                             "name": "Aluminium"
                         },
                         {
-                            "value": 4.126849567893155,
-                            "color": "#d8a46f",
+                            "value": 1.8122860215875576,
+                            "color": "#437dfb",
                             "name": "Co"
                         },
                         {
-                            "value": 9307.876843913162,
-                            "color": "#8cbfef",
+                            "value": 4087.5090834711673,
+                            "color": "#fd800b",
                             "name": "Concrete"
                         },
                         {
-                            "value": 1043.290804247229,
-                            "color": "#ceb973",
+                            "value": 458.15610912935665,
+                            "color": "#fd800b",
                             "name": "Cu"
                         },
                         {
@@ -732,8 +732,8 @@
                             "name": "Glass"
                         },
                         {
-                            "value": 8.26732695436149,
-                            "color": "#fd800b",
+                            "value": 3.6305566337695185,
+                            "color": "#faf86b",
                             "name": "Mn"
                         },
                         {
@@ -742,49 +742,49 @@
                             "name": "Nd"
                         },
                         {
-                            "value": 92.10285473931668,
+                            "value": 40.446523055015916,
                             "color": "#8cbfef",
                             "name": "Ni"
                         },
                         {
                             "value": 0.0,
-                            "color": "#d8a46f",
+                            "color": "#8cbfef",
                             "name": "Pb"
                         },
                         {
                             "value": 0.0,
-                            "color": "#437dfb",
+                            "color": "#faf86b",
                             "name": "Plastics"
                         },
                         {
-                            "value": 872.9340009055534,
+                            "value": 383.34474314683666,
                             "color": "#faf86b",
                             "name": "Steel"
                         },
                         {
-                            "value": 0.16331750832159198,
-                            "color": "#fd800b",
+                            "value": 0.07172009363133486,
+                            "color": "#ceb973",
                             "name": "Ta"
                         }
                     ]
                 },
                 {
-                    "name": "CHP Natural Gas CCS",
+                    "name": "CHP Natural Gas + CCS",
                     "color": "#ceb973",
                     "children": [
                         {
                             "value": 0.0,
-                            "color": "#ceb973",
+                            "color": "#fd800b",
                             "name": "Aluminium"
                         },
                         {
                             "value": 0.0,
-                            "color": "#437dfb",
+                            "color": "#faf86b",
                             "name": "Co"
                         },
                         {
                             "value": 0.0,
-                            "color": "#fd800b",
+                            "color": "#8cbfef",
                             "name": "Concrete"
                         },
                         {
@@ -794,22 +794,22 @@
                         },
                         {
                             "value": 0.0,
-                            "color": "#faf86b",
+                            "color": "#437dfb",
                             "name": "Glass"
                         },
                         {
                             "value": 0.0,
-                            "color": "#d8a46f",
+                            "color": "#fd800b",
                             "name": "Mn"
                         },
                         {
                             "value": 0.0,
-                            "color": "#faf86b",
+                            "color": "#fd800b",
                             "name": "Nd"
                         },
                         {
                             "value": 0.0,
-                            "color": "#fd800b",
+                            "color": "#faf86b",
                             "name": "Ni"
                         },
                         {
@@ -819,7 +819,7 @@
                         },
                         {
                             "value": 0.0,
-                            "color": "#8cbfef",
+                            "color": "#d8a46f",
                             "name": "Plastics"
                         },
                         {
@@ -829,89 +829,89 @@
                         },
                         {
                             "value": 0.0,
-                            "color": "#ceb973",
+                            "color": "#8cbfef",
                             "name": "Ta"
                         }
                     ]
                 },
                 {
                     "name": "CHP Oil",
-                    "color": "#d8a46f",
+                    "color": "#faf86b",
                     "children": [
                         {
-                            "value": 28.119175500363053,
+                            "value": 2.1591390328636484,
                             "color": "#8cbfef",
                             "name": "Aluminium"
                         },
                         {
-                            "value": 3.153190610025712,
-                            "color": "#ceb973",
+                            "value": 0.24211865401522,
+                            "color": "#fd800b",
                             "name": "Co"
                         },
                         {
-                            "value": 9999.178807929104,
-                            "color": "#fd800b",
+                            "value": 767.7898400863136,
+                            "color": "#faf86b",
                             "name": "Concrete"
                         },
                         {
-                            "value": 244.02349622426982,
-                            "color": "#faf86b",
+                            "value": 18.737414815981122,
+                            "color": "#fd800b",
                             "name": "Cu"
                         },
                         {
                             "value": 0.0,
-                            "color": "#437dfb",
+                            "color": "#ceb973",
                             "name": "Glass"
                         },
                         {
-                            "value": 0.506145159006535,
+                            "value": 0.03886450259154568,
                             "color": "#8cbfef",
                             "name": "Mn"
                         },
                         {
                             "value": 0.0,
-                            "color": "#ceb973",
+                            "color": "#fd800b",
                             "name": "Nd"
                         },
                         {
-                            "value": 19.95439797149264,
-                            "color": "#d8a46f",
+                            "value": 1.5322042261512498,
+                            "color": "#fd800b",
                             "name": "Ni"
                         },
                         {
                             "value": 0.0,
-                            "color": "#437dfb",
+                            "color": "#d8a46f",
                             "name": "Pb"
                         },
                         {
                             "value": 0.0,
-                            "color": "#8cbfef",
+                            "color": "#437dfb",
                             "name": "Plastics"
                         },
                         {
-                            "value": 3416.479823294111,
-                            "color": "#ceb973",
+                            "value": 262.3353924929333,
+                            "color": "#8cbfef",
                             "name": "Steel"
                         },
                         {
-                            "value": 0.2228913311328778,
-                            "color": "#fd800b",
+                            "value": 0.017114775400499188,
+                            "color": "#8cbfef",
                             "name": "Ta"
                         }
                     ]
                 },
                 {
-                    "name": "CHP Oil CCS",
-                    "color": "#d8a46f",
+                    "name": "CHP Oil + CCS",
+                    "color": "#fd800b",
                     "children": [
                         {
                             "value": 0.0,
-                            "color": "#fd800b",
+                            "color": "#faf86b",
                             "name": "Aluminium"
                         },
                         {
                             "value": 0.0,
-                            "color": "#fd800b",
+                            "color": "#ceb973",
                             "name": "Co"
                         },
                         {
@@ -921,27 +921,27 @@
                         },
                         {
                             "value": 0.0,
-                            "color": "#ceb973",
+                            "color": "#faf86b",
                             "name": "Cu"
                         },
                         {
                             "value": 0.0,
-                            "color": "#d8a46f",
+                            "color": "#faf86b",
                             "name": "Glass"
                         },
                         {
                             "value": 0.0,
-                            "color": "#d8a46f",
+                            "color": "#437dfb",
                             "name": "Mn"
                         },
                         {
                             "value": 0.0,
-                            "color": "#faf86b",
+                            "color": "#8cbfef",
                             "name": "Nd"
                         },
                         {
                             "value": 0.0,
-                            "color": "#fd800b",
+                            "color": "#437dfb",
                             "name": "Ni"
                         },
                         {
@@ -951,63 +951,63 @@
                         },
                         {
                             "value": 0.0,
-                            "color": "#8cbfef",
+                            "color": "#fd800b",
                             "name": "Plastics"
                         },
                         {
                             "value": 0.0,
-                            "color": "#faf86b",
+                            "color": "#d8a46f",
                             "name": "Steel"
                         },
                         {
                             "value": 0.0,
-                            "color": "#d8a46f",
+                            "color": "#fd800b",
                             "name": "Ta"
                         }
                     ]
                 },
                 {
                     "name": "CSP",
-                    "color": "#fd800b",
+                    "color": "#d8a46f",
                     "children": [
                         {
-                            "value": 23.754082,
-                            "color": "#faf86b",
+                            "value": 648.3525940705002,
+                            "color": "#fd800b",
                             "name": "Aluminium"
                         },
                         {
                             "value": 0.0,
-                            "color": "#d8a46f",
+                            "color": "#faf86b",
                             "name": "Co"
                         },
                         {
-                            "value": 5838.375190614561,
-                            "color": "#ceb973",
+                            "value": 159354.74584923126,
+                            "color": "#faf86b",
                             "name": "Concrete"
                         },
                         {
-                            "value": 13.586491850035202,
-                            "color": "#faf86b",
+                            "value": 370.834673185351,
+                            "color": "#ceb973",
                             "name": "Cu"
                         },
                         {
-                            "value": 673.694559786308,
-                            "color": "#d8a46f",
+                            "value": 18388.065489065684,
+                            "color": "#437dfb",
                             "name": "Glass"
                         },
                         {
-                            "value": 16.6278574,
-                            "color": "#fd800b",
+                            "value": 453.84681584934987,
+                            "color": "#437dfb",
                             "name": "Mn"
                         },
                         {
                             "value": 0.0,
-                            "color": "#ceb973",
+                            "color": "#faf86b",
                             "name": "Nd"
                         },
                         {
-                            "value": 5.916925880000001,
-                            "color": "#d8a46f",
+                            "value": 161.49873706846998,
+                            "color": "#8cbfef",
                             "name": "Ni"
                         },
                         {
@@ -1017,78 +1017,12 @@
                         },
                         {
                             "value": 0.0,
-                            "color": "#437dfb",
-                            "name": "Plastics"
-                        },
-                        {
-                            "value": 2488.718688039813,
-                            "color": "#8cbfef",
-                            "name": "Steel"
-                        },
-                        {
-                            "value": 0.0,
-                            "color": "#ceb973",
-                            "name": "Ta"
-                        }
-                    ]
-                },
-                {
-                    "name": "Coal CCS",
-                    "color": "#faf86b",
-                    "children": [
-                        {
-                            "value": 0.0,
-                            "color": "#437dfb",
-                            "name": "Aluminium"
-                        },
-                        {
-                            "value": 0.0,
-                            "color": "#faf86b",
-                            "name": "Co"
-                        },
-                        {
-                            "value": 0.0,
-                            "color": "#fd800b",
-                            "name": "Concrete"
-                        },
-                        {
-                            "value": 0.0,
-                            "color": "#437dfb",
-                            "name": "Cu"
-                        },
-                        {
-                            "value": 0.0,
-                            "color": "#fd800b",
-                            "name": "Glass"
-                        },
-                        {
-                            "value": 0.0,
                             "color": "#d8a46f",
-                            "name": "Mn"
-                        },
-                        {
-                            "value": 0.0,
-                            "color": "#437dfb",
-                            "name": "Nd"
-                        },
-                        {
-                            "value": 0.0,
-                            "color": "#8cbfef",
-                            "name": "Ni"
-                        },
-                        {
-                            "value": 0.0,
-                            "color": "#437dfb",
-                            "name": "Pb"
-                        },
-                        {
-                            "value": 0.0,
-                            "color": "#437dfb",
                             "name": "Plastics"
                         },
                         {
-                            "value": 0.0,
-                            "color": "#8cbfef",
+                            "value": 67927.99727231488,
+                            "color": "#d8a46f",
                             "name": "Steel"
                         },
                         {
@@ -1099,93 +1033,93 @@
                     ]
                 },
                 {
-                    "name": "Conv Coal",
+                    "name": "Coal + CCS",
                     "color": "#437dfb",
                     "children": [
                         {
-                            "value": 601.9294797499997,
-                            "color": "#faf86b",
+                            "value": 0.0,
+                            "color": "#d8a46f",
                             "name": "Aluminium"
                         },
                         {
-                            "value": 137.85645939784877,
-                            "color": "#faf86b",
+                            "value": 0.0,
+                            "color": "#437dfb",
                             "name": "Co"
                         },
                         {
-                            "value": 421139.86869024,
-                            "color": "#437dfb",
+                            "value": 0.0,
+                            "color": "#faf86b",
                             "name": "Concrete"
                         },
                         {
-                            "value": 1367.9883489768,
-                            "color": "#fd800b",
+                            "value": 0.0,
+                            "color": "#d8a46f",
                             "name": "Cu"
                         },
                         {
                             "value": 0.0,
-                            "color": "#8cbfef",
+                            "color": "#ceb973",
                             "name": "Glass"
                         },
                         {
-                            "value": 4.530118485486,
+                            "value": 0.0,
                             "color": "#faf86b",
                             "name": "Mn"
                         },
                         {
                             "value": 0.0,
-                            "color": "#fd800b",
+                            "color": "#d8a46f",
                             "name": "Nd"
                         },
                         {
-                            "value": 997.7183088133021,
-                            "color": "#437dfb",
+                            "value": 0.0,
+                            "color": "#8cbfef",
                             "name": "Ni"
                         },
                         {
                             "value": 0.0,
-                            "color": "#8cbfef",
+                            "color": "#faf86b",
                             "name": "Pb"
                         },
                         {
                             "value": 0.0,
-                            "color": "#437dfb",
+                            "color": "#faf86b",
                             "name": "Plastics"
                         },
                         {
-                            "value": 100987.62157368001,
-                            "color": "#8cbfef",
+                            "value": 0.0,
+                            "color": "#ceb973",
                             "name": "Steel"
                         },
                         {
-                            "value": 10.453293169275598,
-                            "color": "#fd800b",
+                            "value": 0.0,
+                            "color": "#faf86b",
                             "name": "Ta"
                         }
                     ]
                 },
                 {
-                    "name": "Conv Natural Gas",
-                    "color": "#fd800b",
+                    "name": "Conv. Coal",
+                    "color": "#8cbfef",
                     "children": [
                         {
-                            "value": 176.9845041729812,
-                            "color": "#ceb973",
+                            "value": 1548.4553117601909,
+                            "color": "#d8a46f",
                             "name": "Aluminium"
                         },
                         {
-                            "value": 8.969307751676798,
-                            "color": "#8cbfef",
+                            "value": 354.63384664879794,
+                            "color": "#ceb973",
                             "name": "Co"
                         },
                         {
-                            "value": 20229.768629629085,
-                            "color": "#d8a46f",
+                            "value": 1083376.5226754402,
+                            "color": "#faf86b",
                             "name": "Concrete"
                         },
                         {
-                            "value": 177.81862135049056,
-                            "color": "#fd800b",
+                            "value": 3519.1312216158008,
+                            "color": "#faf86b",
                             "name": "Cu"
                         },
                         {
@@ -1194,64 +1128,64 @@
                             "name": "Glass"
                         },
                         {
-                            "value": 12.890735362366401,
-                            "color": "#d8a46f",
+                            "value": 11.653667527078497,
+                            "color": "#8cbfef",
                             "name": "Mn"
                         },
                         {
                             "value": 0.0,
-                            "color": "#8cbfef",
+                            "color": "#ceb973",
                             "name": "Nd"
                         },
                         {
-                            "value": 200.1766324103392,
-                            "color": "#ceb973",
+                            "value": 2566.6166335033245,
+                            "color": "#8cbfef",
                             "name": "Ni"
                         },
                         {
                             "value": 0.0,
-                            "color": "#faf86b",
+                            "color": "#d8a46f",
                             "name": "Pb"
                         },
                         {
                             "value": 0.0,
-                            "color": "#fd800b",
+                            "color": "#437dfb",
                             "name": "Plastics"
                         },
                         {
-                            "value": 1897.2374864203273,
-                            "color": "#ceb973",
+                            "value": 259789.26819258003,
+                            "color": "#fd800b",
                             "name": "Steel"
                         },
                         {
-                            "value": 0.354954783128,
-                            "color": "#ceb973",
+                            "value": 26.890952973551087,
+                            "color": "#d8a46f",
                             "name": "Ta"
                         }
                     ]
                 },
                 {
-                    "name": "Conv Oil",
-                    "color": "#fd800b",
+                    "name": "Conv. Natural Gas",
+                    "color": "#8cbfef",
                     "children": [
                         {
-                            "value": 176.75349587999997,
-                            "color": "#fd800b",
+                            "value": 357.30761457475603,
+                            "color": "#8cbfef",
                             "name": "Aluminium"
                         },
                         {
-                            "value": 19.820547849663598,
-                            "color": "#d8a46f",
+                            "value": 18.107811031898002,
+                            "color": "#faf86b",
                             "name": "Co"
                         },
                         {
-                            "value": 62853.543134928,
-                            "color": "#ceb973",
+                            "value": 40841.148247573416,
+                            "color": "#fd800b",
                             "name": "Concrete"
                         },
                         {
-                            "value": 224.51019982642669,
-                            "color": "#8cbfef",
+                            "value": 358.99158357737804,
+                            "color": "#fd800b",
                             "name": "Cu"
                         },
                         {
@@ -1260,8 +1194,74 @@
                             "name": "Glass"
                         },
                         {
+                            "value": 26.024639411029,
+                            "color": "#437dfb",
+                            "name": "Mn"
+                        },
+                        {
+                            "value": 0.0,
+                            "color": "#8cbfef",
+                            "name": "Nd"
+                        },
+                        {
+                            "value": 404.1293634963621,
+                            "color": "#437dfb",
+                            "name": "Ni"
+                        },
+                        {
+                            "value": 0.0,
+                            "color": "#ceb973",
+                            "name": "Pb"
+                        },
+                        {
                             "value": 0.0,
                             "color": "#faf86b",
+                            "name": "Plastics"
+                        },
+                        {
+                            "value": 3830.264145001586,
+                            "color": "#ceb973",
+                            "name": "Steel"
+                        },
+                        {
+                            "value": 0.7166053742049999,
+                            "color": "#faf86b",
+                            "name": "Ta"
+                        }
+                    ]
+                },
+                {
+                    "name": "Conv. Oil",
+                    "color": "#8cbfef",
+                    "children": [
+                        {
+                            "value": 2.38215628458,
+                            "color": "#ceb973",
+                            "name": "Aluminium"
+                        },
+                        {
+                            "value": 0.26712706523185265,
+                            "color": "#fd800b",
+                            "name": "Co"
+                        },
+                        {
+                            "value": 847.0947747966479,
+                            "color": "#faf86b",
+                            "name": "Concrete"
+                        },
+                        {
+                            "value": 3.025786736528982,
+                            "color": "#fd800b",
+                            "name": "Cu"
+                        },
+                        {
+                            "value": 0.0,
+                            "color": "#fd800b",
+                            "name": "Glass"
+                        },
+                        {
+                            "value": 0.0,
+                            "color": "#ceb973",
                             "name": "Mn"
                         },
                         {
@@ -1270,35 +1270,35 @@
                             "name": "Nd"
                         },
                         {
-                            "value": 125.43076163796364,
-                            "color": "#faf86b",
+                            "value": 1.690465445268403,
+                            "color": "#8cbfef",
                             "name": "Ni"
                         },
                         {
                             "value": 0.0,
-                            "color": "#faf86b",
+                            "color": "#ceb973",
                             "name": "Pb"
                         },
                         {
                             "value": 0.0,
-                            "color": "#fd800b",
+                            "color": "#8cbfef",
                             "name": "Plastics"
                         },
                         {
-                            "value": 21475.54974942,
-                            "color": "#437dfb",
+                            "value": 289.43198857647,
+                            "color": "#8cbfef",
                             "name": "Steel"
                         },
                         {
-                            "value": 1.4010660440087999,
-                            "color": "#faf86b",
+                            "value": 0.018882558815770802,
+                            "color": "#d8a46f",
                             "name": "Ta"
                         }
                     ]
                 },
                 {
                     "name": "Hydro",
-                    "color": "#d8a46f",
+                    "color": "#ceb973",
                     "children": [
                         {
                             "value": 0.0,
@@ -1307,168 +1307,168 @@
                         },
                         {
                             "value": 0.0,
-                            "color": "#ceb973",
+                            "color": "#fd800b",
                             "name": "Co"
                         },
                         {
-                            "value": 3411072.9152510324,
+                            "value": 5161585.675173936,
                             "color": "#fd800b",
                             "name": "Concrete"
                         },
                         {
-                            "value": 2046.046287956061,
-                            "color": "#fd800b",
+                            "value": 3096.04733555794,
+                            "color": "#ceb973",
                             "name": "Cu"
                         },
                         {
                             "value": 0.0,
-                            "color": "#ceb973",
+                            "color": "#437dfb",
                             "name": "Glass"
                         },
                         {
-                            "value": 2.0471598526,
-                            "color": "#ceb973",
+                            "value": 3.0977323652999997,
+                            "color": "#8cbfef",
                             "name": "Mn"
                         },
                         {
                             "value": 0.0,
-                            "color": "#ceb973",
+                            "color": "#437dfb",
                             "name": "Nd"
                         },
                         {
-                            "value": 37.33056201800001,
-                            "color": "#fd800b",
+                            "value": 56.48806077900001,
+                            "color": "#437dfb",
                             "name": "Ni"
                         },
                         {
-                            "value": 6.45457459408,
+                            "value": 9.766967928240001,
                             "color": "#fd800b",
                             "name": "Pb"
                         },
                         {
                             "value": 0.0,
-                            "color": "#8cbfef",
+                            "color": "#fd800b",
                             "name": "Plastics"
                         },
                         {
-                            "value": 85130.46666677731,
-                            "color": "#faf86b",
+                            "value": 128818.17779488086,
+                            "color": "#437dfb",
                             "name": "Steel"
                         },
                         {
                             "value": 0.0,
-                            "color": "#437dfb",
+                            "color": "#d8a46f",
                             "name": "Ta"
                         }
                     ]
                 },
                 {
                     "name": "IGCC",
-                    "color": "#ceb973",
+                    "color": "#8cbfef",
                     "children": [
                         {
-                            "value": 0.0,
-                            "color": "#fd800b",
+                            "value": 110.72962971932009,
+                            "color": "#faf86b",
                             "name": "Aluminium"
                         },
                         {
-                            "value": 0.0,
-                            "color": "#ceb973",
+                            "value": 25.35977255986903,
+                            "color": "#fd800b",
                             "name": "Co"
                         },
                         {
-                            "value": 0.0,
+                            "value": 36232.63834905,
                             "color": "#d8a46f",
                             "name": "Concrete"
                         },
                         {
-                            "value": 0.0,
+                            "value": 251.65214271521998,
                             "color": "#faf86b",
                             "name": "Cu"
                         },
                         {
                             "value": 0.0,
-                            "color": "#437dfb",
+                            "color": "#faf86b",
                             "name": "Glass"
                         },
                         {
-                            "value": 0.0,
-                            "color": "#fd800b",
+                            "value": 0.83335068202815,
+                            "color": "#ceb973",
                             "name": "Mn"
                         },
                         {
                             "value": 0.0,
-                            "color": "#fd800b",
+                            "color": "#faf86b",
                             "name": "Nd"
                         },
                         {
-                            "value": 0.0,
-                            "color": "#ceb973",
+                            "value": 183.53807649521954,
+                            "color": "#fd800b",
                             "name": "Ni"
                         },
                         {
                             "value": 0.0,
-                            "color": "#d8a46f",
+                            "color": "#8cbfef",
                             "name": "Pb"
                         },
                         {
                             "value": 0.0,
-                            "color": "#8cbfef",
+                            "color": "#faf86b",
                             "name": "Plastics"
                         },
                         {
-                            "value": 0.0,
+                            "value": 7663.751990192999,
                             "color": "#8cbfef",
                             "name": "Steel"
                         },
                         {
-                            "value": 0.0,
-                            "color": "#faf86b",
+                            "value": 1.9229649334704901,
+                            "color": "#fd800b",
                             "name": "Ta"
                         }
                     ]
                 },
                 {
                     "name": "NG CC",
-                    "color": "#8cbfef",
+                    "color": "#fd800b",
                     "children": [
                         {
-                            "value": 335.2326016744451,
+                            "value": 822.3242348280002,
                             "color": "#8cbfef",
                             "name": "Aluminium"
                         },
                         {
-                            "value": 9.80915272200163,
-                            "color": "#d8a46f",
+                            "value": 24.061812503142,
+                            "color": "#faf86b",
                             "name": "Co"
                         },
                         {
-                            "value": 33227.36083881928,
-                            "color": "#ceb973",
+                            "value": 81506.5836098805,
+                            "color": "#8cbfef",
                             "name": "Concrete"
                         },
                         {
-                            "value": 540.5276335128476,
-                            "color": "#d8a46f",
+                            "value": 1325.912129105806,
+                            "color": "#437dfb",
                             "name": "Cu"
                         },
                         {
                             "value": 0.0,
-                            "color": "#fd800b",
+                            "color": "#ceb973",
                             "name": "Glass"
                         },
                         {
-                            "value": 14.09776488544725,
-                            "color": "#faf86b",
+                            "value": 34.581761034890995,
+                            "color": "#ceb973",
                             "name": "Mn"
                         },
                         {
                             "value": 0.0,
-                            "color": "#d8a46f",
+                            "color": "#ceb973",
                             "name": "Nd"
                         },
                         {
-                            "value": 8.098026804252315,
+                            "value": 19.86442745175,
                             "color": "#8cbfef",
                             "name": "Ni"
                         },
@@ -1483,29 +1483,29 @@
                             "name": "Plastics"
                         },
                         {
-                            "value": 14894.713555072087,
-                            "color": "#ceb973",
+                            "value": 36536.672942841,
+                            "color": "#faf86b",
                             "name": "Steel"
                         },
                         {
-                            "value": 0.38819112617209506,
-                            "color": "#8cbfef",
+                            "value": 0.9522312841949998,
+                            "color": "#faf86b",
                             "name": "Ta"
                         }
                     ]
                 },
                 {
-                    "name": "Natural Gas CCS",
-                    "color": "#d8a46f",
+                    "name": "Natural Gas + CCS",
+                    "color": "#ceb973",
                     "children": [
                         {
                             "value": 0.0,
-                            "color": "#437dfb",
+                            "color": "#ceb973",
                             "name": "Aluminium"
                         },
                         {
                             "value": 0.0,
-                            "color": "#ceb973",
+                            "color": "#fd800b",
                             "name": "Co"
                         },
                         {
@@ -1515,22 +1515,22 @@
                         },
                         {
                             "value": 0.0,
-                            "color": "#faf86b",
+                            "color": "#ceb973",
                             "name": "Cu"
                         },
                         {
                             "value": 0.0,
-                            "color": "#d8a46f",
+                            "color": "#fd800b",
                             "name": "Glass"
                         },
                         {
                             "value": 0.0,
-                            "color": "#437dfb",
+                            "color": "#ceb973",
                             "name": "Mn"
                         },
                         {
                             "value": 0.0,
-                            "color": "#d8a46f",
+                            "color": "#8cbfef",
                             "name": "Nd"
                         },
                         {
@@ -1540,22 +1540,22 @@
                         },
                         {
                             "value": 0.0,
-                            "color": "#fd800b",
+                            "color": "#8cbfef",
                             "name": "Pb"
                         },
                         {
                             "value": 0.0,
-                            "color": "#8cbfef",
+                            "color": "#437dfb",
                             "name": "Plastics"
                         },
                         {
                             "value": 0.0,
-                            "color": "#8cbfef",
+                            "color": "#ceb973",
                             "name": "Steel"
                         },
                         {
                             "value": 0.0,
-                            "color": "#8cbfef",
+                            "color": "#d8a46f",
                             "name": "Ta"
                         }
                     ]
@@ -1565,89 +1565,89 @@
                     "color": "#8cbfef",
                     "children": [
                         {
-                            "value": 31.05986302547626,
-                            "color": "#d8a46f",
+                            "value": 34.607894679043625,
+                            "color": "#ceb973",
                             "name": "Aluminium"
                         },
                         {
-                            "value": 0.04777428063760001,
-                            "color": "#8cbfef",
+                            "value": 0.05323163438670001,
+                            "color": "#437dfb",
                             "name": "Co"
                         },
                         {
-                            "value": 92876.88661481239,
-                            "color": "#faf86b",
+                            "value": 103486.40325446564,
+                            "color": "#fd800b",
                             "name": "Concrete"
                         },
                         {
-                            "value": 301.96503993088,
-                            "color": "#faf86b",
+                            "value": 336.4591237929601,
+                            "color": "#8cbfef",
                             "name": "Cu"
                         },
                         {
                             "value": 0.0,
-                            "color": "#ceb973",
+                            "color": "#8cbfef",
                             "name": "Glass"
                         },
                         {
-                            "value": 173.1324137156,
-                            "color": "#8cbfef",
+                            "value": 192.90968329395002,
+                            "color": "#fd800b",
                             "name": "Mn"
                         },
                         {
                             "value": 0.0,
-                            "color": "#8cbfef",
+                            "color": "#faf86b",
                             "name": "Nd"
                         },
                         {
-                            "value": 160.49789321639997,
-                            "color": "#d8a46f",
+                            "value": 178.83189568755003,
+                            "color": "#437dfb",
                             "name": "Ni"
                         },
                         {
-                            "value": 13.3321829280152,
+                            "value": 14.855145440790904,
                             "color": "#d8a46f",
                             "name": "Pb"
                         },
                         {
                             "value": 0.0,
-                            "color": "#faf86b",
+                            "color": "#8cbfef",
                             "name": "Plastics"
                         },
                         {
-                            "value": 17157.942058406763,
-                            "color": "#8cbfef",
+                            "value": 19117.928858199437,
+                            "color": "#faf86b",
                             "name": "Steel"
                         },
                         {
                             "value": 0.0,
-                            "color": "#d8a46f",
+                            "color": "#fd800b",
                             "name": "Ta"
                         }
                     ]
                 },
                 {
                     "name": "OGCC",
-                    "color": "#8cbfef",
+                    "color": "#d8a46f",
                     "children": [
                         {
-                            "value": 0.0,
-                            "color": "#8cbfef",
+                            "value": 0.45618744,
+                            "color": "#ceb973",
                             "name": "Aluminium"
                         },
                         {
-                            "value": 0.0,
+                            "value": 0.0511553388968,
                             "color": "#437dfb",
                             "name": "Co"
                         },
                         {
-                            "value": 0.0,
-                            "color": "#8cbfef",
+                            "value": 162.22025366399998,
+                            "color": "#d8a46f",
                             "name": "Concrete"
                         },
                         {
-                            "value": 0.0,
-                            "color": "#437dfb",
+                            "value": 0.5794438905029596,
+                            "color": "#fd800b",
                             "name": "Cu"
                         },
                         {
@@ -1657,7 +1657,7 @@
                         },
                         {
                             "value": 0.0,
-                            "color": "#ceb973",
+                            "color": "#fd800b",
                             "name": "Mn"
                         },
                         {
@@ -1666,49 +1666,49 @@
                             "name": "Nd"
                         },
                         {
-                            "value": 0.0,
+                            "value": 0.32372733429679995,
                             "color": "#437dfb",
                             "name": "Ni"
                         },
                         {
                             "value": 0.0,
-                            "color": "#faf86b",
+                            "color": "#ceb973",
                             "name": "Pb"
                         },
                         {
                             "value": 0.0,
-                            "color": "#ceb973",
+                            "color": "#437dfb",
                             "name": "Plastics"
                         },
                         {
-                            "value": 0.0,
-                            "color": "#fd800b",
+                            "value": 55.42677396,
+                            "color": "#437dfb",
                             "name": "Steel"
                         },
                         {
-                            "value": 0.0,
-                            "color": "#faf86b",
+                            "value": 0.0036160457744000003,
+                            "color": "#d8a46f",
                             "name": "Ta"
                         }
                     ]
                 },
                 {
-                    "name": "Oil Coal CCS",
-                    "color": "#d8a46f",
+                    "name": "Oil/Coal + CCS",
+                    "color": "#437dfb",
                     "children": [
                         {
                             "value": 0.0,
-                            "color": "#fd800b",
+                            "color": "#faf86b",
                             "name": "Aluminium"
                         },
                         {
                             "value": 0.0,
-                            "color": "#437dfb",
+                            "color": "#d8a46f",
                             "name": "Co"
                         },
                         {
                             "value": 0.0,
-                            "color": "#ceb973",
+                            "color": "#faf86b",
                             "name": "Concrete"
                         },
                         {
@@ -1718,7 +1718,7 @@
                         },
                         {
                             "value": 0.0,
-                            "color": "#437dfb",
+                            "color": "#faf86b",
                             "name": "Glass"
                         },
                         {
@@ -1728,22 +1728,22 @@
                         },
                         {
                             "value": 0.0,
-                            "color": "#fd800b",
+                            "color": "#8cbfef",
                             "name": "Nd"
                         },
                         {
                             "value": 0.0,
-                            "color": "#faf86b",
+                            "color": "#8cbfef",
                             "name": "Ni"
                         },
                         {
                             "value": 0.0,
-                            "color": "#fd800b",
+                            "color": "#ceb973",
                             "name": "Pb"
                         },
                         {
                             "value": 0.0,
-                            "color": "#fd800b",
+                            "color": "#d8a46f",
                             "name": "Plastics"
                         },
                         {
@@ -1753,33 +1753,33 @@
                         },
                         {
                             "value": 0.0,
-                            "color": "#ceb973",
+                            "color": "#d8a46f",
                             "name": "Ta"
                         }
                     ]
                 },
                 {
                     "name": "Other Renewables",
-                    "color": "#8cbfef",
+                    "color": "#ceb973",
                     "children": [
                         {
-                            "value": 45.317252884986765,
-                            "color": "#fd800b",
+                            "value": 490.73699109250515,
+                            "color": "#437dfb",
                             "name": "Aluminium"
                         },
                         {
                             "value": 0.0,
-                            "color": "#ceb973",
+                            "color": "#d8a46f",
                             "name": "Co"
                         },
                         {
-                            "value": 12921.590257530923,
-                            "color": "#ceb973",
+                            "value": 139926.89140280412,
+                            "color": "#d8a46f",
                             "name": "Concrete"
                         },
                         {
-                            "value": 49.112401509392974,
-                            "color": "#8cbfef",
+                            "value": 531.8343590511654,
+                            "color": "#ceb973",
                             "name": "Cu"
                         },
                         {
@@ -1788,89 +1788,89 @@
                             "name": "Glass"
                         },
                         {
-                            "value": 9.992493822054401,
-                            "color": "#faf86b",
+                            "value": 108.20793493795325,
+                            "color": "#8cbfef",
                             "name": "Mn"
                         },
                         {
-                            "value": 0.450173791710464,
+                            "value": 4.874896820718036,
                             "color": "#faf86b",
                             "name": "Nd"
                         },
                         {
-                            "value": 5.770569420417281,
-                            "color": "#8cbfef",
+                            "value": 62.489045429409956,
+                            "color": "#437dfb",
                             "name": "Ni"
                         },
                         {
-                            "value": 0.32005867998335996,
-                            "color": "#8cbfef",
+                            "value": 3.4658904410356985,
+                            "color": "#437dfb",
                             "name": "Pb"
                         },
                         {
                             "value": 0.0,
-                            "color": "#ceb973",
+                            "color": "#faf86b",
                             "name": "Plastics"
                         },
                         {
-                            "value": 2717.656953373904,
+                            "value": 29429.29483181808,
                             "color": "#8cbfef",
                             "name": "Steel"
                         },
                         {
-                            "value": 0.80641531904,
-                            "color": "#ceb973",
+                            "value": 8.7326084888896,
+                            "color": "#8cbfef",
                             "name": "Ta"
                         }
                     ]
                 },
                 {
                     "name": "Solar PV",
-                    "color": "#d8a46f",
+                    "color": "#ceb973",
                     "children": [
                         {
-                            "value": 1783.6363284949825,
+                            "value": 14513.502863615999,
                             "color": "#8cbfef",
                             "name": "Aluminium"
                         },
                         {
                             "value": 0.0,
-                            "color": "#fd800b",
+                            "color": "#437dfb",
                             "name": "Co"
                         },
                         {
                             "value": 0.0,
-                            "color": "#faf86b",
+                            "color": "#437dfb",
                             "name": "Concrete"
                         },
                         {
-                            "value": 1111.5826324734157,
-                            "color": "#d8a46f",
+                            "value": 9044.981570408798,
+                            "color": "#437dfb",
                             "name": "Cu"
                         },
                         {
                             "value": 0.0,
-                            "color": "#faf86b",
+                            "color": "#d8a46f",
                             "name": "Glass"
                         },
                         {
                             "value": 0.0,
-                            "color": "#8cbfef",
+                            "color": "#d8a46f",
                             "name": "Mn"
                         },
                         {
                             "value": 0.0,
-                            "color": "#fd800b",
+                            "color": "#ceb973",
                             "name": "Nd"
                         },
                         {
-                            "value": 0.21033447269987998,
-                            "color": "#8cbfef",
+                            "value": 1.7114979792,
+                            "color": "#ceb973",
                             "name": "Ni"
                         },
                         {
-                            "value": 21.32143021885959,
-                            "color": "#fd800b",
+                            "value": 173.49312390318806,
+                            "color": "#ceb973",
                             "name": "Pb"
                         },
                         {
@@ -1879,7 +1879,7 @@
                             "name": "Plastics"
                         },
                         {
-                            "value": 26291.809087485002,
+                            "value": 213937.2474,
                             "color": "#fd800b",
                             "name": "Steel"
                         },
@@ -1892,66 +1892,66 @@
                 },
                 {
                     "name": "Waste",
-                    "color": "#d8a46f",
+                    "color": "#ceb973",
                     "children": [
                         {
-                            "value": 60.64846804680719,
+                            "value": 6.893104881,
                             "color": "#d8a46f",
                             "name": "Aluminium"
                         },
                         {
-                            "value": 6.8009170452088,
-                            "color": "#faf86b",
+                            "value": 0.7729698043390703,
+                            "color": "#8cbfef",
                             "name": "Co"
                         },
                         {
-                            "value": 21566.595237444628,
+                            "value": 2451.188095683601,
                             "color": "#8cbfef",
                             "name": "Concrete"
                         },
                         {
-                            "value": 77.03496676297442,
-                            "color": "#d8a46f",
+                            "value": 8.755540288201667,
+                            "color": "#fd800b",
                             "name": "Cu"
                         },
                         {
                             "value": 0.0,
-                            "color": "#437dfb",
+                            "color": "#d8a46f",
                             "name": "Glass"
                         },
                         {
                             "value": 0.0,
-                            "color": "#fd800b",
+                            "color": "#d8a46f",
                             "name": "Mn"
                         },
                         {
                             "value": 0.0,
-                            "color": "#faf86b",
+                            "color": "#fd800b",
                             "name": "Nd"
                         },
                         {
-                            "value": 43.038376703176084,
-                            "color": "#faf86b",
+                            "value": 4.891599970736571,
+                            "color": "#8cbfef",
                             "name": "Ni"
                         },
                         {
                             "value": 0.0,
-                            "color": "#fd800b",
+                            "color": "#ceb973",
                             "name": "Pb"
                         },
                         {
                             "value": 0.0,
-                            "color": "#d8a46f",
+                            "color": "#437dfb",
                             "name": "Plastics"
                         },
                         {
-                            "value": 7368.788867687071,
-                            "color": "#437dfb",
+                            "value": 837.5122430415001,
+                            "color": "#ceb973",
                             "name": "Steel"
                         },
                         {
-                            "value": 0.480740190051025,
-                            "color": "#437dfb",
+                            "value": 0.05463934469006,
+                            "color": "#d8a46f",
                             "name": "Ta"
                         }
                     ]
@@ -1961,129 +1961,129 @@
                     "color": "#d8a46f",
                     "children": [
                         {
-                            "value": 12.597097368747294,
-                            "color": "#faf86b",
+                            "value": 209.30992562596916,
+                            "color": "#fd800b",
                             "name": "Aluminium"
                         },
                         {
                             "value": 0.0,
-                            "color": "#faf86b",
+                            "color": "#ceb973",
                             "name": "Co"
                         },
                         {
-                            "value": 4459.049748575768,
-                            "color": "#faf86b",
+                            "value": 74090.3514449618,
+                            "color": "#ceb973",
                             "name": "Concrete"
                         },
                         {
-                            "value": 48.795433245450006,
+                            "value": 810.7715773342268,
                             "color": "#faf86b",
                             "name": "Cu"
                         },
                         {
                             "value": 0.0,
-                            "color": "#fd800b",
+                            "color": "#ceb973",
                             "name": "Glass"
                         },
                         {
-                            "value": 0.49702336675000003,
-                            "color": "#d8a46f",
+                            "value": 8.258404367573501,
+                            "color": "#fd800b",
                             "name": "Mn"
                         },
                         {
-                            "value": 1.3867346047770002,
-                            "color": "#d8a46f",
+                            "value": 23.041603036977715,
+                            "color": "#fd800b",
                             "name": "Nd"
                         },
                         {
-                            "value": 3.8871431177930003,
-                            "color": "#ceb973",
+                            "value": 64.58770723653303,
+                            "color": "#8cbfef",
                             "name": "Ni"
                         },
                         {
                             "value": 0.0,
-                            "color": "#faf86b",
+                            "color": "#437dfb",
                             "name": "Pb"
                         },
                         {
                             "value": 0.0,
-                            "color": "#8cbfef",
+                            "color": "#437dfb",
                             "name": "Plastics"
                         },
                         {
-                            "value": 1383.2795172843792,
-                            "color": "#437dfb",
+                            "value": 22984.194247877946,
+                            "color": "#8cbfef",
                             "name": "Steel"
                         },
                         {
                             "value": 0.0,
-                            "color": "#faf86b",
+                            "color": "#d8a46f",
                             "name": "Ta"
                         }
                     ]
                 },
                 {
                     "name": "Wind onshore",
-                    "color": "#fd800b",
+                    "color": "#d8a46f",
                     "children": [
                         {
-                            "value": 312.86734643164016,
-                            "color": "#437dfb",
+                            "value": 944.5817909401419,
+                            "color": "#fd800b",
                             "name": "Aluminium"
                         },
                         {
                             "value": 0.0,
-                            "color": "#437dfb",
+                            "color": "#d8a46f",
                             "name": "Co"
                         },
                         {
-                            "value": 156351.59662785387,
-                            "color": "#8cbfef",
+                            "value": 472043.0969978442,
+                            "color": "#d8a46f",
                             "name": "Concrete"
                         },
                         {
-                            "value": 983.8055679282783,
-                            "color": "#faf86b",
+                            "value": 2970.2199219234276,
+                            "color": "#8cbfef",
                             "name": "Cu"
                         },
                         {
                             "value": 0.0,
-                            "color": "#437dfb",
+                            "color": "#fd800b",
                             "name": "Glass"
                         },
                         {
-                            "value": 20.446799549275,
-                            "color": "#ceb973",
+                            "value": 61.731192972125,
+                            "color": "#8cbfef",
                             "name": "Mn"
                         },
                         {
-                            "value": 7.3140093541899995,
+                            "value": 22.08181880765,
                             "color": "#fd800b",
                             "name": "Nd"
                         },
                         {
-                            "value": 159.91126668464088,
-                            "color": "#437dfb",
+                            "value": 482.7901422096415,
+                            "color": "#d8a46f",
                             "name": "Ni"
                         },
                         {
                             "value": 0.0,
-                            "color": "#fd800b",
+                            "color": "#d8a46f",
                             "name": "Pb"
                         },
                         {
                             "value": 0.0,
-                            "color": "#d8a46f",
+                            "color": "#8cbfef",
                             "name": "Plastics"
                         },
                         {
-                            "value": 43731.252238037894,
-                            "color": "#d8a46f",
+                            "value": 132029.58068392234,
+                            "color": "#ceb973",
                             "name": "Steel"
                         },
                         {
                             "value": 0.0,
-                            "color": "#437dfb",
+                            "color": "#fd800b",
                             "name": "Ta"
                         }
                     ]
@@ -2092,20 +2092,20 @@
         },
         {
             "name": "storage",
-            "color": "#8cbfef",
+            "color": "#faf86b",
             "children": [
                 {
                     "name": "Compressed Air",
                     "color": "#437dfb",
                     "children": [
                         {
-                            "value": 0.4773215190194494,
+                            "value": 6.728814701140682,
                             "color": "#ceb973",
                             "name": "Aluminium"
                         },
                         {
                             "value": 0.0,
-                            "color": "#ceb973",
+                            "color": "#faf86b",
                             "name": "Co"
                         },
                         {
@@ -2114,48 +2114,48 @@
                             "name": "Concrete"
                         },
                         {
-                            "value": 0.49832366461484917,
-                            "color": "#ceb973",
+                            "value": 7.024882530490032,
+                            "color": "#437dfb",
                             "name": "Cu"
                         },
                         {
                             "value": 0.0,
-                            "color": "#fd800b",
+                            "color": "#faf86b",
                             "name": "Electrolyte"
                         },
                         {
                             "value": 0.0,
-                            "color": "#faf86b",
+                            "color": "#ceb973",
                             "name": "Glass"
                         },
                         {
                             "value": 0.0,
-                            "color": "#fd800b",
+                            "color": "#d8a46f",
                             "name": "Graphite & carbon"
                         },
                         {
                             "value": 0.0,
-                            "color": "#8cbfef",
+                            "color": "#faf86b",
                             "name": "Li"
                         },
                         {
                             "value": 0.0,
-                            "color": "#d8a46f",
+                            "color": "#faf86b",
                             "name": "Mn"
                         },
                         {
                             "value": 0.0,
-                            "color": "#faf86b",
+                            "color": "#437dfb",
                             "name": "Nd"
                         },
                         {
                             "value": 0.0,
-                            "color": "#fd800b",
+                            "color": "#8cbfef",
                             "name": "Ni"
                         },
                         {
                             "value": 0.0,
-                            "color": "#ceb973",
+                            "color": "#d8a46f",
                             "name": "Pb"
                         },
                         {
@@ -2169,19 +2169,19 @@
                             "name": "Pt"
                         },
                         {
-                            "value": 61.09715462070792,
-                            "color": "#fd800b",
+                            "value": 861.2882843711334,
+                            "color": "#437dfb",
                             "name": "Steel"
                         }
                     ]
                 },
                 {
-                    "name": "Deep cycle Lead Acid",
-                    "color": "#ceb973",
+                    "name": "Deep-cycle Lead-Acid",
+                    "color": "#d8a46f",
                     "children": [
                         {
                             "value": 0.0,
-                            "color": "#fd800b",
+                            "color": "#faf86b",
                             "name": "Aluminium"
                         },
                         {
@@ -2191,22 +2191,22 @@
                         },
                         {
                             "value": 0.0,
-                            "color": "#8cbfef",
+                            "color": "#437dfb",
                             "name": "Concrete"
                         },
                         {
                             "value": 0.0,
-                            "color": "#437dfb",
+                            "color": "#8cbfef",
                             "name": "Cu"
                         },
                         {
                             "value": 0.0,
-                            "color": "#8cbfef",
+                            "color": "#d8a46f",
                             "name": "Electrolyte"
                         },
                         {
-                            "value": 0.25875567895879165,
-                            "color": "#faf86b",
+                            "value": 3.5267091850031864,
+                            "color": "#fd800b",
                             "name": "Glass"
                         },
                         {
@@ -2216,17 +2216,17 @@
                         },
                         {
                             "value": 0.0,
-                            "color": "#ceb973",
+                            "color": "#8cbfef",
                             "name": "Li"
                         },
                         {
                             "value": 0.0,
-                            "color": "#ceb973",
+                            "color": "#8cbfef",
                             "name": "Mn"
                         },
                         {
                             "value": 0.0,
-                            "color": "#ceb973",
+                            "color": "#d8a46f",
                             "name": "Nd"
                         },
                         {
@@ -2235,130 +2235,130 @@
                             "name": "Ni"
                         },
                         {
-                            "value": 7.8920482082431445,
-                            "color": "#fd800b",
+                            "value": 107.56463014259717,
+                            "color": "#d8a46f",
                             "name": "Pb"
                         },
                         {
-                            "value": 1.2937783947939583,
-                            "color": "#faf86b",
+                            "value": 17.63354592501593,
+                            "color": "#437dfb",
                             "name": "Plastics"
                         },
                         {
                             "value": 0.0,
-                            "color": "#fd800b",
+                            "color": "#8cbfef",
                             "name": "Pt"
                         },
                         {
                             "value": 0.0,
-                            "color": "#d8a46f",
+                            "color": "#8cbfef",
                             "name": "Steel"
                         }
                     ]
                 },
                 {
                     "name": "Flywheel",
-                    "color": "#d8a46f",
+                    "color": "#437dfb",
                     "children": [
                         {
-                            "value": 63.23790670167257,
-                            "color": "#8cbfef",
+                            "value": 263.4798844087157,
+                            "color": "#faf86b",
                             "name": "Aluminium"
                         },
                         {
                             "value": 0.0,
-                            "color": "#437dfb",
+                            "color": "#d8a46f",
                             "name": "Co"
                         },
                         {
                             "value": 0.0,
-                            "color": "#fd800b",
+                            "color": "#faf86b",
                             "name": "Concrete"
                         },
                         {
-                            "value": 4.236270670005928,
-                            "color": "#faf86b",
+                            "value": 17.650364546739073,
+                            "color": "#8cbfef",
                             "name": "Cu"
                         },
                         {
                             "value": 0.0,
-                            "color": "#d8a46f",
+                            "color": "#437dfb",
                             "name": "Electrolyte"
                         },
                         {
                             "value": 0.0,
-                            "color": "#faf86b",
+                            "color": "#8cbfef",
                             "name": "Glass"
                         },
                         {
                             "value": 0.0,
-                            "color": "#fd800b",
+                            "color": "#d8a46f",
                             "name": "Graphite & carbon"
                         },
                         {
                             "value": 0.0,
-                            "color": "#ceb973",
+                            "color": "#faf86b",
                             "name": "Li"
                         },
                         {
                             "value": 0.0,
-                            "color": "#8cbfef",
+                            "color": "#faf86b",
                             "name": "Mn"
                         },
                         {
-                            "value": 2.004733975089658,
-                            "color": "#fd800b",
+                            "value": 8.352697038481788,
+                            "color": "#faf86b",
                             "name": "Nd"
                         },
                         {
                             "value": 0.0,
-                            "color": "#d8a46f",
+                            "color": "#437dfb",
                             "name": "Ni"
                         },
                         {
                             "value": 0.0,
-                            "color": "#d8a46f",
+                            "color": "#faf86b",
                             "name": "Pb"
                         },
                         {
                             "value": 0.0,
-                            "color": "#437dfb",
+                            "color": "#d8a46f",
                             "name": "Plastics"
                         },
                         {
                             "value": 0.0,
-                            "color": "#437dfb",
+                            "color": "#ceb973",
                             "name": "Pt"
                         },
                         {
-                            "value": 190.1521707438012,
-                            "color": "#faf86b",
+                            "value": 792.2664518925004,
+                            "color": "#fd800b",
                             "name": "Steel"
                         }
                     ]
                 },
                 {
                     "name": "Hydrogen FC",
-                    "color": "#d8a46f",
+                    "color": "#ceb973",
                     "children": [
                         {
-                            "value": 4.8909529126032066e-33,
-                            "color": "#ceb973",
+                            "value": 0.207419821143059,
+                            "color": "#faf86b",
                             "name": "Aluminium"
                         },
                         {
                             "value": 0.0,
-                            "color": "#d8a46f",
+                            "color": "#437dfb",
                             "name": "Co"
                         },
                         {
                             "value": 0.0,
-                            "color": "#ceb973",
+                            "color": "#d8a46f",
                             "name": "Concrete"
                         },
                         {
-                            "value": 1.8341074978538918e-32,
-                            "color": "#437dfb",
+                            "value": 0.7778243952864271,
+                            "color": "#ceb973",
                             "name": "Cu"
                         },
                         {
@@ -2368,7 +2368,7 @@
                         },
                         {
                             "value": 0.0,
-                            "color": "#d8a46f",
+                            "color": "#faf86b",
                             "name": "Glass"
                         },
                         {
@@ -2378,255 +2378,255 @@
                         },
                         {
                             "value": 0.0,
-                            "color": "#ceb973",
+                            "color": "#8cbfef",
                             "name": "Li"
                         },
                         {
                             "value": 0.0,
-                            "color": "#fd800b",
+                            "color": "#8cbfef",
                             "name": "Mn"
                         },
                         {
                             "value": 0.0,
-                            "color": "#d8a46f",
+                            "color": "#fd800b",
                             "name": "Nd"
                         },
                         {
                             "value": 0.0,
-                            "color": "#8cbfef",
+                            "color": "#437dfb",
                             "name": "Ni"
                         },
                         {
                             "value": 0.0,
-                            "color": "#8cbfef",
+                            "color": "#437dfb",
                             "name": "Pb"
                         },
                         {
                             "value": 0.0,
-                            "color": "#ceb973",
+                            "color": "#faf86b",
                             "name": "Plastics"
                         },
                         {
-                            "value": 3.257806309504923e-35,
+                            "value": 0.0013815990750902195,
                             "color": "#ceb973",
                             "name": "Pt"
                         },
                         {
-                            "value": 9.977544823600779e-31,
-                            "color": "#d8a46f",
+                            "value": 42.313647253181536,
+                            "color": "#8cbfef",
                             "name": "Steel"
                         }
                     ]
                 },
                 {
                     "name": "LFP",
-                    "color": "#d8a46f",
+                    "color": "#8cbfef",
                     "children": [
                         {
-                            "value": 0.008076603234977274,
-                            "color": "#ceb973",
+                            "value": 2.5484507954205617,
+                            "color": "#8cbfef",
                             "name": "Aluminium"
                         },
                         {
                             "value": 0.0,
-                            "color": "#ceb973",
+                            "color": "#fd800b",
                             "name": "Co"
                         },
                         {
                             "value": 0.0,
-                            "color": "#d8a46f",
+                            "color": "#fd800b",
                             "name": "Concrete"
                         },
                         {
-                            "value": 0.008076603234977274,
-                            "color": "#fd800b",
+                            "value": 2.5484507954205617,
+                            "color": "#8cbfef",
                             "name": "Cu"
                         },
                         {
-                            "value": 0.016153206469954547,
-                            "color": "#fd800b",
+                            "value": 5.0969015908411235,
+                            "color": "#8cbfef",
                             "name": "Electrolyte"
                         },
                         {
                             "value": 0.0,
-                            "color": "#fd800b",
+                            "color": "#8cbfef",
                             "name": "Glass"
                         },
                         {
-                            "value": 0.04845961940986364,
-                            "color": "#437dfb",
+                            "value": 15.29070477252337,
+                            "color": "#ceb973",
                             "name": "Graphite & carbon"
                         },
                         {
-                            "value": 0.0028445898358790724,
+                            "value": 0.897567581195124,
                             "color": "#ceb973",
                             "name": "Li"
                         },
                         {
                             "value": 0.0,
-                            "color": "#8cbfef",
+                            "color": "#437dfb",
                             "name": "Mn"
                         },
                         {
                             "value": 0.0,
-                            "color": "#faf86b",
+                            "color": "#8cbfef",
                             "name": "Nd"
                         },
                         {
                             "value": 0.0,
-                            "color": "#fd800b",
+                            "color": "#8cbfef",
                             "name": "Ni"
                         },
                         {
                             "value": 0.0,
-                            "color": "#437dfb",
+                            "color": "#faf86b",
                             "name": "Pb"
                         },
                         {
-                            "value": 0.016153206469954547,
-                            "color": "#d8a46f",
+                            "value": 5.0969015908411235,
+                            "color": "#437dfb",
                             "name": "Plastics"
                         },
                         {
                             "value": 0.0,
-                            "color": "#ceb973",
+                            "color": "#d8a46f",
                             "name": "Pt"
                         },
                         {
-                            "value": 0.02275671852550051,
-                            "color": "#437dfb",
+                            "value": 7.1805405985919775,
+                            "color": "#d8a46f",
                             "name": "Steel"
                         }
                     ]
                 },
                 {
                     "name": "LMO",
-                    "color": "#d8a46f",
+                    "color": "#ceb973",
                     "children": [
                         {
-                            "value": 4.352685214052907e-05,
-                            "color": "#8cbfef",
+                            "value": 0.2225398838936782,
+                            "color": "#fd800b",
                             "name": "Aluminium"
                         },
                         {
                             "value": 0.0,
-                            "color": "#faf86b",
+                            "color": "#ceb973",
                             "name": "Co"
                         },
                         {
                             "value": 0.0,
-                            "color": "#d8a46f",
+                            "color": "#437dfb",
                             "name": "Concrete"
                         },
                         {
-                            "value": 0.00011673110346778248,
+                            "value": 0.5968115068057733,
                             "color": "#d8a46f",
                             "name": "Cu"
                         },
                         {
-                            "value": 0.00016002519169312153,
-                            "color": "#faf86b",
+                            "value": 0.8181613378444053,
+                            "color": "#ceb973",
                             "name": "Electrolyte"
                         },
                         {
                             "value": 0.0,
-                            "color": "#faf86b",
+                            "color": "#fd800b",
                             "name": "Glass"
                         },
                         {
-                            "value": 0.00015769755254122162,
-                            "color": "#ceb973",
+                            "value": 0.806260809293941,
+                            "color": "#437dfb",
                             "name": "Graphite & carbon"
                         },
                         {
-                            "value": 1.2364136366735579e-05,
-                            "color": "#8cbfef",
+                            "value": 0.06321416174584629,
+                            "color": "#faf86b",
                             "name": "Li"
                         },
                         {
-                            "value": 0.00019429356931589416,
-                            "color": "#fd800b",
+                            "value": 0.9933653878128079,
+                            "color": "#8cbfef",
                             "name": "Mn"
                         },
                         {
                             "value": 0.0,
-                            "color": "#d8a46f",
+                            "color": "#ceb973",
                             "name": "Nd"
                         },
                         {
                             "value": 0.0,
-                            "color": "#d8a46f",
+                            "color": "#ceb973",
                             "name": "Ni"
                         },
                         {
                             "value": 0.0,
-                            "color": "#437dfb",
+                            "color": "#fd800b",
                             "name": "Pb"
                         },
                         {
-                            "value": 9.77462966350985e-05,
-                            "color": "#437dfb",
+                            "value": 0.4997478208160507,
+                            "color": "#d8a46f",
                             "name": "Plastics"
                         },
                         {
                             "value": 0.0,
-                            "color": "#d8a46f",
+                            "color": "#fd800b",
                             "name": "Pt"
                         },
                         {
-                            "value": 0.0002498720629564596,
-                            "color": "#d8a46f",
+                            "value": 1.2775217398923182,
+                            "color": "#fd800b",
                             "name": "Steel"
                         }
                     ]
                 },
                 {
                     "name": "LTO",
-                    "color": "#8cbfef",
+                    "color": "#d8a46f",
                     "children": [
                         {
-                            "value": 2.7804757588317393,
-                            "color": "#ceb973",
+                            "value": 12.321352497013047,
+                            "color": "#d8a46f",
                             "name": "Aluminium"
                         },
                         {
                             "value": 0.0,
-                            "color": "#ceb973",
+                            "color": "#faf86b",
                             "name": "Co"
                         },
                         {
                             "value": 0.0,
-                            "color": "#437dfb",
+                            "color": "#ceb973",
                             "name": "Concrete"
                         },
                         {
                             "value": 0.0,
-                            "color": "#faf86b",
+                            "color": "#d8a46f",
                             "name": "Cu"
                         },
                         {
-                            "value": 3.3998146200352055,
-                            "color": "#d8a46f",
+                            "value": 15.065880083613143,
+                            "color": "#437dfb",
                             "name": "Electrolyte"
                         },
                         {
                             "value": 0.0,
-                            "color": "#faf86b",
+                            "color": "#d8a46f",
                             "name": "Glass"
                         },
                         {
-                            "value": 0.593309403305512,
-                            "color": "#437dfb",
+                            "value": 2.6291810941704674,
+                            "color": "#ceb973",
                             "name": "Graphite & carbon"
                         },
                         {
-                            "value": 0.46321002933173333,
-                            "color": "#fd800b",
+                            "value": 2.05266096401649,
+                            "color": "#437dfb",
                             "name": "Li"
                         },
                         {
-                            "value": 1.5388309923593584,
-                            "color": "#8cbfef",
+                            "value": 6.819149215727957,
+                            "color": "#fd800b",
                             "name": "Mn"
                         },
                         {
@@ -2636,58 +2636,58 @@
                         },
                         {
                             "value": 0.0,
-                            "color": "#fd800b",
+                            "color": "#d8a46f",
                             "name": "Ni"
                         },
                         {
                             "value": 0.0,
-                            "color": "#ceb973",
+                            "color": "#fd800b",
                             "name": "Pb"
                         },
                         {
-                            "value": 1.2301801740525278,
-                            "color": "#d8a46f",
+                            "value": 5.451399283447347,
+                            "color": "#8cbfef",
                             "name": "Plastics"
                         },
                         {
                             "value": 0.0,
-                            "color": "#437dfb",
+                            "color": "#d8a46f",
                             "name": "Pt"
                         },
                         {
-                            "value": 0.8946880579040012,
-                            "color": "#fd800b",
+                            "value": 3.964705285161353,
+                            "color": "#ceb973",
                             "name": "Steel"
                         }
                     ]
                 },
                 {
                     "name": "Lithium Ceramic ",
-                    "color": "#ceb973",
+                    "color": "#d8a46f",
                     "children": [
                         {
-                            "value": 1.6463492450991094e-20,
-                            "color": "#fd800b",
+                            "value": 2.904479033771848,
+                            "color": "#8cbfef",
                             "name": "Aluminium"
                         },
                         {
-                            "value": 1.8800727051142777e-21,
-                            "color": "#8cbfef",
+                            "value": 0.33168124990651143,
+                            "color": "#fd800b",
                             "name": "Co"
                         },
                         {
                             "value": 0.0,
-                            "color": "#437dfb",
+                            "color": "#faf86b",
                             "name": "Concrete"
                         },
                         {
-                            "value": 7.004597985133315e-21,
-                            "color": "#faf86b",
+                            "value": 1.2357467923882401,
+                            "color": "#d8a46f",
                             "name": "Cu"
                         },
                         {
-                            "value": 1.2817876875608407e-20,
-                            "color": "#437dfb",
+                            "value": 2.261321815738583,
+                            "color": "#8cbfef",
                             "name": "Electrolyte"
                         },
                         {
@@ -2696,94 +2696,94 @@
                             "name": "Glass"
                         },
                         {
-                            "value": 2.8125879377645274e-21,
-                            "color": "#437dfb",
+                            "value": 0.49619500359323176,
+                            "color": "#fd800b",
                             "name": "Graphite & carbon"
                         },
                         {
-                            "value": 2.8556955056997113e-21,
-                            "color": "#fd800b",
+                            "value": 0.503800013747508,
+                            "color": "#8cbfef",
                             "name": "Li"
                         },
                         {
-                            "value": 1.752610160980817e-21,
-                            "color": "#faf86b",
+                            "value": 0.3091943876487668,
+                            "color": "#fd800b",
                             "name": "Mn"
                         },
                         {
                             "value": 0.0,
-                            "color": "#d8a46f",
+                            "color": "#ceb973",
                             "name": "Nd"
                         },
                         {
-                            "value": 1.504058190963282e-20,
-                            "color": "#d8a46f",
+                            "value": 2.6534500466592585,
+                            "color": "#ceb973",
                             "name": "Ni"
                         },
                         {
                             "value": 0.0,
-                            "color": "#437dfb",
+                            "color": "#ceb973",
                             "name": "Pb"
                         },
                         {
-                            "value": 3.645615575382685e-21,
-                            "color": "#d8a46f",
+                            "value": 0.6431572180332655,
+                            "color": "#ceb973",
                             "name": "Plastics"
                         },
                         {
                             "value": 0.0,
-                            "color": "#437dfb",
+                            "color": "#8cbfef",
                             "name": "Pt"
                         },
                         {
-                            "value": 4.747361805780892e-22,
-                            "color": "#faf86b",
+                            "value": 0.08375265984216973,
+                            "color": "#8cbfef",
                             "name": "Steel"
                         }
                     ]
                 },
                 {
                     "name": "Lithium Sulfur",
-                    "color": "#d8a46f",
+                    "color": "#437dfb",
                     "children": [
                         {
-                            "value": 8.57713641001548e-09,
-                            "color": "#d8a46f",
+                            "value": 0.27946825730915026,
+                            "color": "#437dfb",
                             "name": "Aluminium"
                         },
                         {
                             "value": 0.0,
-                            "color": "#8cbfef",
+                            "color": "#437dfb",
                             "name": "Co"
                         },
                         {
                             "value": 0.0,
-                            "color": "#437dfb",
+                            "color": "#ceb973",
                             "name": "Concrete"
                         },
                         {
-                            "value": 3.649249549854246e-09,
-                            "color": "#fd800b",
+                            "value": 0.11890325202162974,
+                            "color": "#ceb973",
                             "name": "Cu"
                         },
                         {
-                            "value": 6.677846682661672e-09,
+                            "value": 0.2175838281879184,
                             "color": "#faf86b",
                             "name": "Electrolyte"
                         },
                         {
                             "value": 0.0,
-                            "color": "#8cbfef",
+                            "color": "#ceb973",
                             "name": "Glass"
                         },
                         {
-                            "value": 1.4652996913736996e-09,
-                            "color": "#faf86b",
+                            "value": 0.04774376104193316,
+                            "color": "#fd800b",
                             "name": "Graphite & carbon"
                         },
                         {
-                            "value": 1.3715485104829433e-09,
-                            "color": "#437dfb",
+                            "value": 0.04468907263641587,
+                            "color": "#8cbfef",
                             "name": "Li"
                         },
                         {
@@ -2793,63 +2793,63 @@
                         },
                         {
                             "value": 0.0,
-                            "color": "#fd800b",
+                            "color": "#437dfb",
                             "name": "Nd"
                         },
                         {
                             "value": 0.0,
-                            "color": "#fd800b",
+                            "color": "#ceb973",
                             "name": "Ni"
                         },
                         {
                             "value": 0.0,
-                            "color": "#437dfb",
+                            "color": "#ceb973",
                             "name": "Pb"
                         },
                         {
-                            "value": 1.8992897273538085e-09,
-                            "color": "#d8a46f",
+                            "value": 0.061884429121231856,
+                            "color": "#faf86b",
                             "name": "Plastics"
                         },
                         {
                             "value": 0.0,
-                            "color": "#d8a46f",
+                            "color": "#8cbfef",
                             "name": "Pt"
                         },
                         {
-                            "value": 2.473276549133952e-10,
-                            "color": "#ceb973",
+                            "value": 0.008058660303256237,
+                            "color": "#fd800b",
                             "name": "Steel"
                         }
                     ]
                 },
                 {
-                    "name": "Lithium air",
-                    "color": "#ceb973",
+                    "name": "Lithium-air",
+                    "color": "#437dfb",
                     "children": [
                         {
                             "value": 0.0,
-                            "color": "#8cbfef",
+                            "color": "#ceb973",
                             "name": "Aluminium"
                         },
                         {
-                            "value": 3.6910356672125565e-22,
-                            "color": "#faf86b",
+                            "value": 0.010586074705075246,
+                            "color": "#437dfb",
                             "name": "Co"
                         },
                         {
                             "value": 0.0,
-                            "color": "#fd800b",
+                            "color": "#faf86b",
                             "name": "Concrete"
                         },
                         {
-                            "value": 3.695844865034465e-21,
+                            "value": 0.10599867724705599,
                             "color": "#437dfb",
                             "name": "Cu"
                         },
                         {
-                            "value": 2.0780661936233163e-20,
-                            "color": "#ceb973",
+                            "value": 0.5959997667646744,
+                            "color": "#437dfb",
                             "name": "Electrolyte"
                         },
                         {
@@ -2859,27 +2859,27 @@
                         },
                         {
                             "value": 0.0,
-                            "color": "#fd800b",
+                            "color": "#437dfb",
                             "name": "Graphite & carbon"
                         },
                         {
-                            "value": 2.236011549059614e-21,
+                            "value": 0.0641299283830328,
                             "color": "#ceb973",
                             "name": "Li"
                         },
                         {
                             "value": 0.0,
-                            "color": "#faf86b",
+                            "color": "#d8a46f",
                             "name": "Mn"
                         },
                         {
                             "value": 0.0,
-                            "color": "#d8a46f",
+                            "color": "#fd800b",
                             "name": "Nd"
                         },
                         {
                             "value": 0.0,
-                            "color": "#437dfb",
+                            "color": "#faf86b",
                             "name": "Ni"
                         },
                         {
@@ -2888,84 +2888,84 @@
                             "name": "Pb"
                         },
                         {
-                            "value": 1.205658176489621e-20,
-                            "color": "#8cbfef",
+                            "value": 0.3457887887261353,
+                            "color": "#d8a46f",
                             "name": "Plastics"
                         },
                         {
                             "value": 0.0,
-                            "color": "#ceb973",
+                            "color": "#fd800b",
                             "name": "Pt"
                         },
                         {
                             "value": 0.0,
-                            "color": "#ceb973",
+                            "color": "#fd800b",
                             "name": "Steel"
                         }
                     ]
                 },
                 {
                     "name": "NCA",
-                    "color": "#8cbfef",
+                    "color": "#fd800b",
                     "children": [
                         {
-                            "value": 0.0005455051880300608,
-                            "color": "#d8a46f",
+                            "value": 0.9359543689922105,
+                            "color": "#8cbfef",
                             "name": "Aluminium"
                         },
                         {
-                            "value": 7.007534037334989e-05,
-                            "color": "#fd800b",
+                            "value": 0.12023225886797392,
+                            "color": "#ceb973",
                             "name": "Co"
                         },
                         {
                             "value": 0.0,
-                            "color": "#d8a46f",
+                            "color": "#8cbfef",
                             "name": "Concrete"
                         },
                         {
-                            "value": 0.0002791619245550374,
-                            "color": "#faf86b",
+                            "value": 0.4789740385185168,
+                            "color": "#437dfb",
                             "name": "Cu"
                         },
                         {
-                            "value": 0.0002535246046332898,
-                            "color": "#fd800b",
+                            "value": 0.43498662626921597,
+                            "color": "#d8a46f",
                             "name": "Electrolyte"
                         },
                         {
                             "value": 0.0,
-                            "color": "#fd800b",
+                            "color": "#ceb973",
                             "name": "Glass"
                         },
                         {
-                            "value": 0.00040036947403544694,
-                            "color": "#faf86b",
+                            "value": 0.6869367453457473,
+                            "color": "#d8a46f",
                             "name": "Graphite & carbon"
                         },
                         {
-                            "value": 4.230511155610127e-05,
-                            "color": "#ceb973",
+                            "value": 0.07258529315665073,
+                            "color": "#437dfb",
                             "name": "Li"
                         },
                         {
-                            "value": 6.530395099180868e-05,
-                            "color": "#fd800b",
+                            "value": 0.11204571392613107,
+                            "color": "#ceb973",
                             "name": "Mn"
                         },
                         {
                             "value": 0.0,
-                            "color": "#8cbfef",
+                            "color": "#ceb973",
                             "name": "Nd"
                         },
                         {
-                            "value": 0.00020930022804806033,
-                            "color": "#8cbfef",
+                            "value": 0.35910834061921504,
+                            "color": "#ceb973",
                             "name": "Ni"
                         },
                         {
                             "value": 0.0,
-                            "color": "#8cbfef",
+                            "color": "#faf86b",
                             "name": "Pb"
                         },
                         {
@@ -2975,73 +2975,73 @@
                         },
                         {
                             "value": 0.0,
-                            "color": "#8cbfef",
+                            "color": "#d8a46f",
                             "name": "Pt"
                         },
                         {
-                            "value": 1.6593042021348076e-05,
-                            "color": "#fd800b",
+                            "value": 0.028469628732286683,
+                            "color": "#ceb973",
                             "name": "Steel"
                         }
                     ]
                 },
                 {
                     "name": "NMC",
-                    "color": "#437dfb",
+                    "color": "#8cbfef",
                     "children": [
                         {
-                            "value": 0.05552876768795702,
+                            "value": 0.7672640897701305,
                             "color": "#fd800b",
                             "name": "Aluminium"
                         },
                         {
-                            "value": 0.1135066331595178,
+                            "value": 1.5683683827346548,
                             "color": "#d8a46f",
                             "name": "Co"
                         },
                         {
                             "value": 0.0,
-                            "color": "#fd800b",
+                            "color": "#d8a46f",
                             "name": "Concrete"
                         },
                         {
-                            "value": 0.1489180587995211,
-                            "color": "#437dfb",
+                            "value": 2.057662786201713,
+                            "color": "#8cbfef",
                             "name": "Cu"
                         },
                         {
-                            "value": 0.2041498812057243,
-                            "color": "#ceb973",
+                            "value": 2.8208238594490087,
+                            "color": "#fd800b",
                             "name": "Electrolyte"
                         },
                         {
                             "value": 0.0,
-                            "color": "#8cbfef",
+                            "color": "#d8a46f",
                             "name": "Glass"
                         },
                         {
-                            "value": 0.20118042838818653,
-                            "color": "#faf86b",
+                            "value": 2.7797936942206594,
+                            "color": "#8cbfef",
                             "name": "Graphite & carbon"
                         },
                         {
-                            "value": 0.01346688870510764,
+                            "value": 0.1860776050789435,
                             "color": "#fd800b",
                             "name": "Li"
                         },
                         {
-                            "value": 0.10581126797306678,
-                            "color": "#d8a46f",
+                            "value": 1.4620383197588185,
+                            "color": "#ceb973",
                             "name": "Mn"
                         },
                         {
                             "value": 0.0,
-                            "color": "#437dfb",
+                            "color": "#d8a46f",
                             "name": "Nd"
                         },
                         {
-                            "value": 0.1135066331595178,
-                            "color": "#faf86b",
+                            "value": 1.5683683827346548,
+                            "color": "#437dfb",
                             "name": "Ni"
                         },
                         {
@@ -3050,98 +3050,98 @@
                             "name": "Pb"
                         },
                         {
-                            "value": 0.12469845925647834,
-                            "color": "#ceb973",
+                            "value": 1.7230105010579897,
+                            "color": "#8cbfef",
                             "name": "Plastics"
                         },
                         {
                             "value": 0.0,
-                            "color": "#ceb973",
+                            "color": "#faf86b",
                             "name": "Pt"
                         },
                         {
-                            "value": 0.3187707599626837,
-                            "color": "#8cbfef",
+                            "value": 4.4045882372632885,
+                            "color": "#fd800b",
                             "name": "Steel"
                         }
                     ]
                 },
                 {
                     "name": "NiMH",
-                    "color": "#8cbfef",
+                    "color": "#ceb973",
                     "children": [
                         {
-                            "value": 0.0011197121139496001,
-                            "color": "#8cbfef",
+                            "value": 0.04377398995081099,
+                            "color": "#d8a46f",
                             "name": "Aluminium"
                         },
                         {
-                            "value": 0.0011197121139496001,
-                            "color": "#fd800b",
+                            "value": 0.04377398995081099,
+                            "color": "#ceb973",
                             "name": "Co"
                         },
                         {
                             "value": 0.0,
-                            "color": "#437dfb",
+                            "color": "#fd800b",
                             "name": "Concrete"
                         },
                         {
-                            "value": 0.007771926173952072,
-                            "color": "#ceb973",
+                            "value": 0.30383543591128476,
+                            "color": "#d8a46f",
                             "name": "Cu"
                         },
                         {
-                            "value": 0.03951925108057413,
-                            "color": "#faf86b",
+                            "value": 1.5449643512050935,
+                            "color": "#437dfb",
                             "name": "Electrolyte"
                         },
                         {
                             "value": 0.0,
-                            "color": "#ceb973",
+                            "color": "#8cbfef",
                             "name": "Glass"
                         },
                         {
-                            "value": 0.010275005280949273,
+                            "value": 0.40169073131332445,
                             "color": "#437dfb",
                             "name": "Graphite & carbon"
                         },
                         {
-                            "value": 0.00023052896463668235,
+                            "value": 0.009012292048696382,
                             "color": "#437dfb",
                             "name": "Li"
                         },
                         {
-                            "value": 0.0011197121139496001,
-                            "color": "#fd800b",
+                            "value": 0.04377398995081099,
+                            "color": "#ceb973",
                             "name": "Mn"
                         },
                         {
-                            "value": 0.020682605553124084,
-                            "color": "#d8a46f",
+                            "value": 0.8085651270178122,
+                            "color": "#8cbfef",
                             "name": "Nd"
                         },
                         {
-                            "value": 0.19433543988399077,
+                            "value": 7.5973435373149405,
                             "color": "#fd800b",
                             "name": "Ni"
                         },
                         {
                             "value": 0.0,
-                            "color": "#d8a46f",
+                            "color": "#faf86b",
                             "name": "Pb"
                         },
                         {
-                            "value": 0.09221158585467294,
+                            "value": 3.6049168194785524,
                             "color": "#faf86b",
                             "name": "Plastics"
                         },
                         {
                             "value": 0.0,
-                            "color": "#faf86b",
+                            "color": "#d8a46f",
                             "name": "Pt"
                         },
                         {
-                            "value": 0.0439102789784157,
+                            "value": 1.716627056894549,
                             "color": "#fd800b",
                             "name": "Steel"
                         }
@@ -3149,161 +3149,161 @@
                 },
                 {
                     "name": "PHS",
-                    "color": "#d8a46f",
+                    "color": "#faf86b",
                     "children": [
                         {
-                            "value": 19.254385338458277,
-                            "color": "#8cbfef",
+                            "value": 37.80461389027028,
+                            "color": "#fd800b",
                             "name": "Aluminium"
                         },
                         {
                             "value": 0.0,
-                            "color": "#fd800b",
+                            "color": "#8cbfef",
                             "name": "Co"
                         },
                         {
                             "value": 0.0,
-                            "color": "#ceb973",
+                            "color": "#8cbfef",
                             "name": "Concrete"
                         },
                         {
-                            "value": 129.72028735046777,
-                            "color": "#ceb973",
+                            "value": 254.6965426740554,
+                            "color": "#437dfb",
                             "name": "Cu"
                         },
                         {
                             "value": 0.0,
-                            "color": "#ceb973",
+                            "color": "#8cbfef",
                             "name": "Electrolyte"
                         },
                         {
                             "value": 0.0,
-                            "color": "#ceb973",
+                            "color": "#fd800b",
                             "name": "Glass"
                         },
                         {
                             "value": 0.0,
-                            "color": "#d8a46f",
+                            "color": "#faf86b",
                             "name": "Graphite & carbon"
                         },
                         {
                             "value": 0.0,
-                            "color": "#fd800b",
+                            "color": "#faf86b",
                             "name": "Li"
                         },
                         {
                             "value": 0.0,
-                            "color": "#ceb973",
+                            "color": "#8cbfef",
                             "name": "Mn"
                         },
                         {
                             "value": 0.0,
-                            "color": "#8cbfef",
+                            "color": "#fd800b",
                             "name": "Nd"
                         },
                         {
-                            "value": 115.5263120307497,
-                            "color": "#ceb973",
+                            "value": 226.82768334162174,
+                            "color": "#d8a46f",
                             "name": "Ni"
                         },
                         {
                             "value": 0.0,
-                            "color": "#437dfb",
+                            "color": "#d8a46f",
                             "name": "Pb"
                         },
                         {
                             "value": 0.0,
-                            "color": "#faf86b",
+                            "color": "#fd800b",
                             "name": "Plastics"
                         },
                         {
                             "value": 0.0,
-                            "color": "#d8a46f",
+                            "color": "#faf86b",
                             "name": "Pt"
                         },
                         {
-                            "value": 5659.230791609771,
-                            "color": "#faf86b",
+                            "value": 11111.496484149357,
+                            "color": "#fd800b",
                             "name": "Steel"
                         }
                     ]
                 },
                 {
-                    "name": "Sodium Sulfur",
-                    "color": "#fd800b",
+                    "name": "Sodium-Sulfur",
+                    "color": "#d8a46f",
                     "children": [
                         {
-                            "value": 0.4689784476354941,
-                            "color": "#8cbfef",
+                            "value": 16.9548292479847,
+                            "color": "#d8a46f",
                             "name": "Aluminium"
                         },
                         {
                             "value": 0.0,
-                            "color": "#faf86b",
+                            "color": "#ceb973",
                             "name": "Co"
                         },
                         {
                             "value": 0.0,
-                            "color": "#fd800b",
+                            "color": "#d8a46f",
                             "name": "Concrete"
                         },
                         {
-                            "value": 0.07024346792778324,
-                            "color": "#437dfb",
+                            "value": 2.5394898433104847,
+                            "color": "#d8a46f",
                             "name": "Cu"
                         },
                         {
-                            "value": 0.4235267919175168,
-                            "color": "#faf86b",
+                            "value": 15.31162993760733,
+                            "color": "#8cbfef",
                             "name": "Electrolyte"
                         },
                         {
-                            "value": 0.08883732708513765,
-                            "color": "#fd800b",
+                            "value": 3.2117077430103183,
+                            "color": "#ceb973",
                             "name": "Glass"
                         },
                         {
-                            "value": 0.041319687016343094,
+                            "value": 1.4938175548885206,
                             "color": "#8cbfef",
                             "name": "Graphite & carbon"
                         },
                         {
                             "value": 0.0,
-                            "color": "#ceb973",
+                            "color": "#d8a46f",
                             "name": "Li"
                         },
                         {
                             "value": 0.0,
-                            "color": "#8cbfef",
+                            "color": "#437dfb",
                             "name": "Mn"
                         },
                         {
                             "value": 0.0,
-                            "color": "#fd800b",
+                            "color": "#8cbfef",
                             "name": "Nd"
                         },
                         {
                             "value": 0.0,
-                            "color": "#d8a46f",
+                            "color": "#ceb973",
                             "name": "Ni"
                         },
                         {
                             "value": 0.0,
-                            "color": "#d8a46f",
+                            "color": "#ceb973",
                             "name": "Pb"
                         },
                         {
-                            "value": 0.16527874806537238,
-                            "color": "#fd800b",
+                            "value": 5.9752702195540826,
+                            "color": "#8cbfef",
                             "name": "Plastics"
                         },
                         {
                             "value": 0.0,
-                            "color": "#faf86b",
+                            "color": "#437dfb",
                             "name": "Pt"
                         },
                         {
-                            "value": 0.26444599690459586,
+                            "value": 9.56043235128653,
                             "color": "#fd800b",
                             "name": "Steel"
                         }
@@ -3311,7 +3311,7 @@
                 },
                 {
                     "name": "Vanadium Redox",
-                    "color": "#faf86b",
+                    "color": "#437dfb",
                     "children": [
                         {
                             "value": 0.0,
@@ -3320,7 +3320,7 @@
                         },
                         {
                             "value": 0.0,
-                            "color": "#d8a46f",
+                            "color": "#fd800b",
                             "name": "Co"
                         },
                         {
@@ -3329,43 +3329,43 @@
                             "name": "Concrete"
                         },
                         {
-                            "value": 0.15529983248329873,
-                            "color": "#8cbfef",
+                            "value": 4.289225644358784,
+                            "color": "#d8a46f",
                             "name": "Cu"
                         },
                         {
-                            "value": 14.287584588463485,
-                            "color": "#fd800b",
+                            "value": 394.60875928100813,
+                            "color": "#faf86b",
                             "name": "Electrolyte"
                         },
                         {
                             "value": 0.0,
-                            "color": "#d8a46f",
+                            "color": "#faf86b",
                             "name": "Glass"
                         },
                         {
-                            "value": 0.058237437181237035,
-                            "color": "#8cbfef",
+                            "value": 1.6084596166345444,
+                            "color": "#d8a46f",
                             "name": "Graphite & carbon"
                         },
                         {
                             "value": 0.0,
-                            "color": "#437dfb",
+                            "color": "#faf86b",
                             "name": "Li"
                         },
                         {
                             "value": 0.0,
-                            "color": "#ceb973",
+                            "color": "#d8a46f",
                             "name": "Mn"
                         },
                         {
                             "value": 0.0,
-                            "color": "#d8a46f",
+                            "color": "#faf86b",
                             "name": "Nd"
                         },
                         {
                             "value": 0.0,
-                            "color": "#faf86b",
+                            "color": "#8cbfef",
                             "name": "Ni"
                         },
                         {
@@ -3374,34 +3374,34 @@
                             "name": "Pb"
                         },
                         {
-                            "value": 0.8347365995977307,
-                            "color": "#fd800b",
+                            "value": 23.054587838428464,
+                            "color": "#8cbfef",
                             "name": "Plastics"
                         },
                         {
                             "value": 0.0,
-                            "color": "#437dfb",
+                            "color": "#d8a46f",
                             "name": "Pt"
                         },
                         {
-                            "value": 2.0577227804037084,
-                            "color": "#d8a46f",
+                            "value": 56.832239787753885,
+                            "color": "#437dfb",
                             "name": "Steel"
                         }
                     ]
                 },
                 {
                     "name": "ZEBRA",
-                    "color": "#faf86b",
+                    "color": "#8cbfef",
                     "children": [
                         {
-                            "value": 0.03573562245456182,
-                            "color": "#d8a46f",
+                            "value": 7.377396870122789,
+                            "color": "#ceb973",
                             "name": "Aluminium"
                         },
                         {
                             "value": 0.0,
-                            "color": "#faf86b",
+                            "color": "#fd800b",
                             "name": "Co"
                         },
                         {
@@ -3410,18 +3410,18 @@
                             "name": "Concrete"
                         },
                         {
-                            "value": 0.011234154218748668,
-                            "color": "#437dfb",
+                            "value": 2.319221227425221,
+                            "color": "#8cbfef",
                             "name": "Cu"
                         },
                         {
-                            "value": 0.1160859474159559,
-                            "color": "#ceb973",
+                            "value": 23.965221431938055,
+                            "color": "#faf86b",
                             "name": "Electrolyte"
                         },
                         {
                             "value": 0.0,
-                            "color": "#fd800b",
+                            "color": "#8cbfef",
                             "name": "Glass"
                         },
                         {
@@ -3431,48 +3431,48 @@
                         },
                         {
                             "value": 0.0,
-                            "color": "#ceb973",
+                            "color": "#8cbfef",
                             "name": "Li"
                         },
                         {
                             "value": 0.0,
-                            "color": "#fd800b",
+                            "color": "#437dfb",
                             "name": "Mn"
                         },
                         {
                             "value": 0.0,
-                            "color": "#8cbfef",
+                            "color": "#d8a46f",
                             "name": "Nd"
                         },
                         {
-                            "value": 0.056491746928564734,
-                            "color": "#faf86b",
+                            "value": 11.662369600766828,
+                            "color": "#437dfb",
                             "name": "Ni"
                         },
                         {
                             "value": 0.0,
-                            "color": "#d8a46f",
+                            "color": "#ceb973",
                             "name": "Pb"
                         },
                         {
-                            "value": 0.007061468366070593,
-                            "color": "#d8a46f",
+                            "value": 1.4577962000958535,
+                            "color": "#437dfb",
                             "name": "Plastics"
                         },
                         {
                             "value": 0.0,
-                            "color": "#ceb973",
+                            "color": "#437dfb",
                             "name": "Pt"
                         },
                         {
-                            "value": 0.09757665378570271,
+                            "value": 20.144092946779057,
                             "color": "#d8a46f",
                             "name": "Steel"
                         }
                     ]
                 },
                 {
-                    "name": "Zinc Bromide",
+                    "name": "Zinc-Bromide",
                     "color": "#fd800b",
                     "children": [
                         {
@@ -3482,22 +3482,22 @@
                         },
                         {
                             "value": 0.0,
-                            "color": "#8cbfef",
+                            "color": "#d8a46f",
                             "name": "Co"
                         },
                         {
                             "value": 0.0,
-                            "color": "#faf86b",
+                            "color": "#8cbfef",
                             "name": "Concrete"
                         },
                         {
-                            "value": 0.007797944928430236,
-                            "color": "#d8a46f",
+                            "value": 2.2258376402981095,
+                            "color": "#8cbfef",
                             "name": "Cu"
                         },
                         {
-                            "value": 0.5926438145606978,
-                            "color": "#d8a46f",
+                            "value": 169.16366066265635,
+                            "color": "#437dfb",
                             "name": "Electrolyte"
                         },
                         {
@@ -3506,48 +3506,48 @@
                             "name": "Glass"
                         },
                         {
-                            "value": 0.007797944928430236,
-                            "color": "#8cbfef",
+                            "value": 2.2258376402981095,
+                            "color": "#fd800b",
                             "name": "Graphite & carbon"
                         },
                         {
                             "value": 0.0,
-                            "color": "#437dfb",
+                            "color": "#faf86b",
                             "name": "Li"
                         },
                         {
                             "value": 0.0,
-                            "color": "#ceb973",
+                            "color": "#8cbfef",
                             "name": "Mn"
                         },
                         {
                             "value": 0.0,
-                            "color": "#437dfb",
+                            "color": "#faf86b",
                             "name": "Nd"
                         },
                         {
                             "value": 0.0,
-                            "color": "#faf86b",
+                            "color": "#fd800b",
                             "name": "Ni"
                         },
                         {
                             "value": 0.0,
-                            "color": "#ceb973",
+                            "color": "#8cbfef",
                             "name": "Pb"
                         },
                         {
-                            "value": 0.03353116319225,
-                            "color": "#fd800b",
+                            "value": 9.571101853281869,
+                            "color": "#faf86b",
                             "name": "Plastics"
                         },
                         {
                             "value": 0.0,
-                            "color": "#faf86b",
+                            "color": "#d8a46f",
                             "name": "Pt"
                         },
                         {
-                            "value": 0.11696917392645353,
-                            "color": "#8cbfef",
+                            "value": 33.38756460447164,
+                            "color": "#faf86b",
                             "name": "Steel"
                         }
                     ]
