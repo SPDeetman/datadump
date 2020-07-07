@@ -241,7 +241,7 @@
             "color": "#ceb973",
             "children": [
                 {
-                    "name": "<EMPTY>",
+                    "name": "EMPTY",
                     "color": "#8cbfef",
                     "children": [
                         {
@@ -307,7 +307,7 @@
                     ]
                 },
                 {
-                    "name": "Biomass + CCS",
+                    "name": "Biomass CCS",
                     "color": "#d8a46f",
                     "children": [
                         {
@@ -505,7 +505,7 @@
                     ]
                 },
                 {
-                    "name": "CHP Biomass + CCS",
+                    "name": "CHP Biomass CCS",
                     "color": "#faf86b",
                     "children": [
                         {
@@ -637,7 +637,7 @@
                     ]
                 },
                 {
-                    "name": "CHP Coal + CCS",
+                    "name": "CHP Coal CCS",
                     "color": "#437dfb",
                     "children": [
                         {
@@ -769,7 +769,7 @@
                     ]
                 },
                 {
-                    "name": "CHP Natural Gas + CCS",
+                    "name": "CHP Natural Gas CCS",
                     "color": "#ceb973",
                     "children": [
                         {
@@ -901,7 +901,7 @@
                     ]
                 },
                 {
-                    "name": "CHP Oil + CCS",
+                    "name": "CHP Oil CCS",
                     "color": "#d8a46f",
                     "children": [
                         {
@@ -1033,7 +1033,7 @@
                     ]
                 },
                 {
-                    "name": "Coal + CCS",
+                    "name": "Coal CCS",
                     "color": "#faf86b",
                     "children": [
                         {
@@ -1099,7 +1099,7 @@
                     ]
                 },
                 {
-                    "name": "Conv. Coal",
+                    "name": "Conv Coal",
                     "color": "#437dfb",
                     "children": [
                         {
@@ -1165,7 +1165,7 @@
                     ]
                 },
                 {
-                    "name": "Conv. Natural Gas",
+                    "name": "Conv Natural Gas",
                     "color": "#fd800b",
                     "children": [
                         {
@@ -1231,7 +1231,7 @@
                     ]
                 },
                 {
-                    "name": "Conv. Oil",
+                    "name": "Conv Oil",
                     "color": "#fd800b",
                     "children": [
                         {
@@ -1495,7 +1495,7 @@
                     ]
                 },
                 {
-                    "name": "Natural Gas + CCS",
+                    "name": "Natural Gas CCS",
                     "color": "#d8a46f",
                     "children": [
                         {
@@ -1693,7 +1693,7 @@
                     ]
                 },
                 {
-                    "name": "Oil/Coal + CCS",
+                    "name": "Oil Coal CCS",
                     "color": "#d8a46f",
                     "children": [
                         {
@@ -2176,7 +2176,7 @@
                     ]
                 },
                 {
-                    "name": "Deep-cycle Lead-Acid",
+                    "name": "Deep cycle Lead Acid",
                     "color": "#ceb973",
                     "children": [
                         {
@@ -2824,7 +2824,7 @@
                     ]
                 },
                 {
-                    "name": "Lithium-air",
+                    "name": "Lithium air",
                     "color": "#ceb973",
                     "children": [
                         {
@@ -3229,7 +3229,7 @@
                     ]
                 },
                 {
-                    "name": "Sodium-Sulfur",
+                    "name": "Sodium Sulfur",
                     "color": "#fd800b",
                     "children": [
                         {
@@ -3472,7 +3472,7 @@
                     ]
                 },
                 {
-                    "name": "Zinc-Bromide",
+                    "name": "Zinc Bromide",
                     "color": "#fd800b",
                     "children": [
                         {
