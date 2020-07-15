@@ -1,9 +1,9 @@
 {
-    "name": "vehicles",
-    "color": "#dee08b",
+    "name": "Vehicles",
+    "color": "#fffeb8",
     "children": [
         {
-            "name": "freight",
+            "name": "Freight",
             "color": "#d69a3a",
             "children": [
                 {
@@ -104,7 +104,7 @@
                     ]
                 },
                 {
-                    "name": "air_freight",
+                    "name": "Air cargo",
                     "color": "#ceb973",
                     "children": [
                         {
@@ -130,7 +130,7 @@
                     ]
                 },
                 {
-                    "name": "rail_freight",
+                    "name": "Rail cargo",
                     "color": "#d8a46f",
                     "children": [
                         {
@@ -153,7 +153,7 @@
             ]
         },
         {
-            "name": "passenger",
+            "name": "Passenger",
             "color": "#4184ba",
             "children": [
                 {
@@ -219,7 +219,7 @@
                 },
                 {
                     "name": "Cars",
-                    "color": "#faf86b",
+                    "color": "#78b2f0",
                     "children": [
                         {
                             "value": 177255.4002008932,
