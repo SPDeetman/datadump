@@ -1,0 +1,413 @@
+{
+    "name": "vehicles",
+    "color": "#d8a46f",
+    "children": [
+        {
+            "name": "freight",
+            "color": "#fd800b",
+            "children": [
+                {
+                    "name": "Ships",
+                    "color": "#faf86b",
+                    "children": [
+                        {
+                            "value": 2134.428906026418,
+                            "color": "#d8a46f",
+                            "name": "Aluminium"
+                        },
+                        {
+                            "value": 2134.428906026418,
+                            "color": "#faf86b",
+                            "name": "Cu"
+                        },
+                        {
+                            "value": 128.06573436158504,
+                            "color": "#d8a46f",
+                            "name": "Glass"
+                        },
+                        {
+                            "value": 4268.857812052836,
+                            "color": "#faf86b",
+                            "name": "Plastics"
+                        },
+                        {
+                            "value": 194233.03044840408,
+                            "color": "#ceb973",
+                            "name": "Steel"
+                        },
+                        {
+                            "value": 2134.428906026418,
+                            "color": "#fd800b",
+                            "name": "Wood"
+                        }
+                    ]
+                },
+                {
+                    "name": "Trucks",
+                    "color": "#faf86b",
+                    "children": [
+                        {
+                            "value": 14405.542321864294,
+                            "color": "#437dfb",
+                            "name": "Aluminium"
+                        },
+                        {
+                            "value": 1.071727399491765,
+                            "color": "#437dfb",
+                            "name": "Co"
+                        },
+                        {
+                            "value": 2229.8113620688937,
+                            "color": "#ceb973",
+                            "name": "Cu"
+                        },
+                        {
+                            "value": 1596.0981536841794,
+                            "color": "#ceb973",
+                            "name": "Glass"
+                        },
+                        {
+                            "value": 0.15625839725677598,
+                            "color": "#faf86b",
+                            "name": "Li"
+                        },
+                        {
+                            "value": 1.0045936354726666,
+                            "color": "#437dfb",
+                            "name": "Mn"
+                        },
+                        {
+                            "value": 0.13445903150600758,
+                            "color": "#faf86b",
+                            "name": "Nd"
+                        },
+                        {
+                            "value": 2.33334499764062,
+                            "color": "#faf86b",
+                            "name": "Ni"
+                        },
+                        {
+                            "value": 32683.94830677154,
+                            "color": "#fd800b",
+                            "name": "Plastics"
+                        },
+                        {
+                            "value": 19001.960379734788,
+                            "color": "#437dfb",
+                            "name": "Rubber"
+                        },
+                        {
+                            "value": 263706.3751077364,
+                            "color": "#437dfb",
+                            "name": "Steel"
+                        }
+                    ]
+                },
+                {
+                    "name": "air_freight",
+                    "color": "#8cbfef",
+                    "children": [
+                        {
+                            "value": 255.81841731301031,
+                            "color": "#d8a46f",
+                            "name": "Aluminium"
+                        },
+                        {
+                            "value": 19.750686630783886,
+                            "color": "#d8a46f",
+                            "name": "Plastics"
+                        },
+                        {
+                            "value": 33.85831993848665,
+                            "color": "#fd800b",
+                            "name": "Steel"
+                        },
+                        {
+                            "value": 22.572213292324435,
+                            "color": "#ceb973",
+                            "name": "Ti"
+                        }
+                    ]
+                },
+                {
+                    "name": "rail_freight",
+                    "color": "#fd800b",
+                    "children": [
+                        {
+                            "value": 6604.336307019613,
+                            "color": "#437dfb",
+                            "name": "Aluminium"
+                        },
+                        {
+                            "value": 183.1146850375124,
+                            "color": "#437dfb",
+                            "name": "Cu"
+                        },
+                        {
+                            "value": 115301.21334528695,
+                            "color": "#fd800b",
+                            "name": "Steel"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "passenger",
+            "color": "#d8a46f",
+            "children": [
+                {
+                    "name": "Buses",
+                    "color": "#ceb973",
+                    "children": [
+                        {
+                            "value": 35446.7878148226,
+                            "color": "#d8a46f",
+                            "name": "Aluminium"
+                        },
+                        {
+                            "value": 1.3744238213788038,
+                            "color": "#d8a46f",
+                            "name": "Co"
+                        },
+                        {
+                            "value": 439.47349001352325,
+                            "color": "#fd800b",
+                            "name": "Cu"
+                        },
+                        {
+                            "value": 4215.083160476218,
+                            "color": "#ceb973",
+                            "name": "Glass"
+                        },
+                        {
+                            "value": 0.20039168876528804,
+                            "color": "#faf86b",
+                            "name": "Li"
+                        },
+                        {
+                            "value": 1.2883289389204209,
+                            "color": "#fd800b",
+                            "name": "Mn"
+                        },
+                        {
+                            "value": 0.17243535621933115,
+                            "color": "#ceb973",
+                            "name": "Nd"
+                        },
+                        {
+                            "value": 2.9923700278383896,
+                            "color": "#ceb973",
+                            "name": "Ni"
+                        },
+                        {
+                            "value": 16114.763988214698,
+                            "color": "#d8a46f",
+                            "name": "Plastics"
+                        },
+                        {
+                            "value": 5039.4721413531115,
+                            "color": "#ceb973",
+                            "name": "Rubber"
+                        },
+                        {
+                            "value": 93866.40743822027,
+                            "color": "#ceb973",
+                            "name": "Steel"
+                        }
+                    ]
+                },
+                {
+                    "name": "Cars",
+                    "color": "#437dfb",
+                    "children": [
+                        {
+                            "value": 177255.4002008932,
+                            "color": "#fd800b",
+                            "name": "Aluminium"
+                        },
+                        {
+                            "value": 65.75815067375393,
+                            "color": "#faf86b",
+                            "name": "Co"
+                        },
+                        {
+                            "value": 34195.87089386721,
+                            "color": "#8cbfef",
+                            "name": "Cu"
+                        },
+                        {
+                            "value": 48645.53418149777,
+                            "color": "#8cbfef",
+                            "name": "Glass"
+                        },
+                        {
+                            "value": 3.2968277028153254,
+                            "color": "#fd800b",
+                            "name": "Li"
+                        },
+                        {
+                            "value": 21.195482518969886,
+                            "color": "#ceb973",
+                            "name": "Mn"
+                        },
+                        {
+                            "value": 289.34816963209005,
+                            "color": "#437dfb",
+                            "name": "Nd"
+                        },
+                        {
+                            "value": 49.23022738935441,
+                            "color": "#437dfb",
+                            "name": "Ni"
+                        },
+                        {
+                            "value": 14577.264357193835,
+                            "color": "#fd800b",
+                            "name": "Pb"
+                        },
+                        {
+                            "value": 227845.80165603623,
+                            "color": "#fd800b",
+                            "name": "Plastics"
+                        },
+                        {
+                            "value": 57103.5793776777,
+                            "color": "#d8a46f",
+                            "name": "Rubber"
+                        },
+                        {
+                            "value": 1156727.5667174573,
+                            "color": "#d8a46f",
+                            "name": "Steel"
+                        },
+                        {
+                            "value": 58.83410007732607,
+                            "color": "#faf86b",
+                            "name": "Wood"
+                        }
+                    ]
+                },
+                {
+                    "name": "air_pas",
+                    "color": "#faf86b",
+                    "children": [
+                        {
+                            "value": 440.8908802386661,
+                            "color": "#fd800b",
+                            "name": "Aluminium"
+                        },
+                        {
+                            "value": 2.98249713102627,
+                            "color": "#fd800b",
+                            "name": "Cu"
+                        },
+                        {
+                            "value": 34.03936943019112,
+                            "color": "#faf86b",
+                            "name": "Plastics"
+                        },
+                        {
+                            "value": 58.35320473747051,
+                            "color": "#ceb973",
+                            "name": "Steel"
+                        },
+                        {
+                            "value": 38.902136491647,
+                            "color": "#8cbfef",
+                            "name": "Ti"
+                        }
+                    ]
+                },
+                {
+                    "name": "bicycle",
+                    "color": "#ceb973",
+                    "children": [
+                        {
+                            "value": 16314.502162003335,
+                            "color": "#437dfb",
+                            "name": "Aluminium"
+                        },
+                        {
+                            "value": 4255.9570857399995,
+                            "color": "#8cbfef",
+                            "name": "Plastics"
+                        },
+                        {
+                            "value": 2482.6416333483335,
+                            "color": "#8cbfef",
+                            "name": "Rubber"
+                        },
+                        {
+                            "value": 12058.545076263335,
+                            "color": "#8cbfef",
+                            "name": "Steel"
+                        }
+                    ]
+                },
+                {
+                    "name": "rail_hst",
+                    "color": "#faf86b",
+                    "children": [
+                        {
+                            "value": 494.2567359309012,
+                            "color": "#fd800b",
+                            "name": "Aluminium"
+                        },
+                        {
+                            "value": 25.72412888635203,
+                            "color": "#fd800b",
+                            "name": "Cu"
+                        },
+                        {
+                            "value": 36.32796827461929,
+                            "color": "#437dfb",
+                            "name": "Glass"
+                        },
+                        {
+                            "value": 64.40850591391958,
+                            "color": "#437dfb",
+                            "name": "Plastics"
+                        },
+                        {
+                            "value": 1171.135150215294,
+                            "color": "#8cbfef",
+                            "name": "Steel"
+                        }
+                    ]
+                },
+                {
+                    "name": "rail_reg",
+                    "color": "#fd800b",
+                    "children": [
+                        {
+                            "value": 7219.645014300911,
+                            "color": "#fd800b",
+                            "name": "Aluminium"
+                        },
+                        {
+                            "value": 32.128108773112764,
+                            "color": "#d8a46f",
+                            "name": "Cu"
+                        },
+                        {
+                            "value": 84.9100017575123,
+                            "color": "#d8a46f",
+                            "name": "Glass"
+                        },
+                        {
+                            "value": 479.6267666843263,
+                            "color": "#faf86b",
+                            "name": "Plastics"
+                        },
+                        {
+                            "value": 13883.932719809445,
+                            "color": "#8cbfef",
+                            "name": "Steel"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
