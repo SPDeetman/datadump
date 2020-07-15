@@ -1,10 +1,10 @@
 {
     "name": "vehicles",
-    "color": "#ceb973",
+    "color": "#dee08b",
     "children": [
         {
             "name": "freight",
-            "color": "#ceb973",
+            "color": "#d69a3a",
             "children": [
                 {
                     "name": "Ships",
@@ -44,7 +44,7 @@
                 },
                 {
                     "name": "Trucks",
-                    "color": "#615958",
+                    "color": "#8a8a8a",
                     "children": [
                         {
                             "value": 14405.542321864294,
@@ -154,7 +154,7 @@
         },
         {
             "name": "passenger",
-            "color": "#615958",
+            "color": "#4184ba",
             "children": [
                 {
                     "name": "Buses",
