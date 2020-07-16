@@ -1,0 +1,126 @@
+Freight,Ships,Aluminium,2134.428906
+Freight,Trucks,Aluminium,14405.54232
+Freight,Air Cargo,Aluminium,255.8184173
+Freight,Rail Cargo,Aluminium,6604.336307
+Freight,Ships,Co,0
+Freight,Trucks,Co,1.071727399
+Freight,Air Cargo,Co,0
+Freight,Rail Cargo,Co,0
+Freight,Ships,Cu,2134.428906
+Freight,Trucks,Cu,2229.811362
+Freight,Air Cargo,Cu,0
+Freight,Rail Cargo,Cu,183.114685
+Freight,Ships,Glass,128.0657344
+Freight,Trucks,Glass,1596.098154
+Freight,Air Cargo,Glass,0
+Freight,Rail Cargo,Glass,0
+Freight,Ships,Li,0
+Freight,Trucks,Li,0.156258397
+Freight,Air Cargo,Li,0
+Freight,Rail Cargo,Li,0
+Freight,Ships,Mn,0
+Freight,Trucks,Mn,1.004593635
+Freight,Air Cargo,Mn,0
+Freight,Rail Cargo,Mn,0
+Freight,Ships,Nd,0
+Freight,Trucks,Nd,0.134459032
+Freight,Air Cargo,Nd,0
+Freight,Rail Cargo,Nd,0
+Freight,Ships,Ni,0
+Freight,Trucks,Ni,2.333344998
+Freight,Air Cargo,Ni,0
+Freight,Rail Cargo,Ni,0
+Freight,Ships,Pb,0
+Freight,Trucks,Pb,0
+Freight,Air Cargo,Pb,0
+Freight,Rail Cargo,Pb,0
+Freight,Ships,Plastics,4268.857812
+Freight,Trucks,Plastics,32683.94831
+Freight,Air Cargo,Plastics,19.75068663
+Freight,Rail Cargo,Plastics,0
+Freight,Ships,Rubber,0
+Freight,Trucks,Rubber,19001.96038
+Freight,Air Cargo,Rubber,0
+Freight,Rail Cargo,Rubber,0
+Freight,Ships,Steel,194233.0304
+Freight,Trucks,Steel,263706.3751
+Freight,Air Cargo,Steel,33.85831994
+Freight,Rail Cargo,Steel,115301.2133
+Freight,Ships,Ti,0
+Freight,Trucks,Ti,0
+Freight,Air Cargo,Ti,22.57221329
+Freight,Rail Cargo,Ti,0
+Freight,Ships,Wood,2134.428906
+Freight,Trucks,Wood,0
+Freight,Air Cargo,Wood,0
+Freight,Rail Cargo,Wood,0
+Passenger,Buses,Aluminium,35446.78781
+Passenger,Cars,Aluminium,177255.4002
+Passenger,Trains,Aluminium,7713.90175
+Passenger,Planes,Aluminium,440.8908802
+Passenger,bicycle,Aluminium,16314.50216
+Passenger,Buses,Co,1.374423821
+Passenger,Cars,Co,65.75815067
+Passenger,Trains,Co,0
+Passenger,Planes,Co,0
+Passenger,bicycle,Co,0
+Passenger,Buses,Cu,439.47349
+Passenger,Cars,Cu,34195.87089
+Passenger,Trains,Cu,57.85223766
+Passenger,Planes,Cu,2.982497131
+Passenger,bicycle,Cu,0
+Passenger,Buses,Glass,4215.08316
+Passenger,Cars,Glass,48645.53418
+Passenger,Trains,Glass,121.23797
+Passenger,Planes,Glass,0
+Passenger,bicycle,Glass,0
+Passenger,Buses,Li,0.200391689
+Passenger,Cars,Li,3.296827703
+Passenger,Trains,Li,0
+Passenger,Planes,Li,0
+Passenger,bicycle,Li,0
+Passenger,Buses,Mn,1.288328939
+Passenger,Cars,Mn,21.19548252
+Passenger,Trains,Mn,0
+Passenger,Planes,Mn,0
+Passenger,bicycle,Mn,0
+Passenger,Buses,Nd,0.172435356
+Passenger,Cars,Nd,289.3481696
+Passenger,Trains,Nd,0
+Passenger,Planes,Nd,0
+Passenger,bicycle,Nd,0
+Passenger,Buses,Ni,2.992370028
+Passenger,Cars,Ni,49.23022739
+Passenger,Trains,Ni,0
+Passenger,Planes,Ni,0
+Passenger,bicycle,Ni,0
+Passenger,Buses,Pb,0
+Passenger,Cars,Pb,14577.26436
+Passenger,Trains,Pb,0
+Passenger,Planes,Pb,0
+Passenger,bicycle,Pb,0
+Passenger,Buses,Plastics,16114.76399
+Passenger,Cars,Plastics,227845.8017
+Passenger,Trains,Plastics,544.0352726
+Passenger,Planes,Plastics,34.03936943
+Passenger,bicycle,Plastics,4255.957086
+Passenger,Buses,Rubber,5039.472141
+Passenger,Cars,Rubber,57103.57938
+Passenger,Trains,Rubber,0
+Passenger,Planes,Rubber,0
+Passenger,bicycle,Rubber,2482.641633
+Passenger,Buses,Steel,93866.40744
+Passenger,Cars,Steel,1156727.567
+Passenger,Trains,Steel,15055.06787
+Passenger,Planes,Steel,58.35320474
+Passenger,bicycle,Steel,12058.54508
+Passenger,Buses,Ti,0
+Passenger,Cars,Ti,0
+Passenger,Trains,Ti,0
+Passenger,Planes,Ti,38.90213649
+Passenger,bicycle,Ti,0
+Passenger,Buses,Wood,0
+Passenger,Cars,Wood,58.83410008
+Passenger,Trains,Wood,0
+Passenger,Planes,Wood,0
+Passenger,bicycle,Wood,0
