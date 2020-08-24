@@ -1,0 +1,149 @@
+{"tag": 1000 , "name": "transport, passenger car, medium size, petrol, EURO 4", "waarde": 56.9659308245,"color": 0, "children": [
+{"tag": 1 ,"name": "market for petrol, low-sulfur", "waarde": 7.08606793768e-05,"color": 0, "children": [
+{"tag": 2 ,"name": "petrol production, low-sulfur", "waarde": 0.0,"color": 0, "children": [
+{"tag": 3 ,"name": "market for petrol, unleaded", "waarde": 7.09003613572e-05,"color": 0, "children": [
+{"tag": 4 ,"name": "petroleum refinery operation", "waarde": 0.0264239048866,"color": 0, "children": [
+{"tag": 5 ,"name": "market for methyl tert-butyl ether", "waarde": 0.0,"color": 0, "children": [
+{"tag": 6 ,"name": "methyl tert-butyl ether production", "waarde": 0.0,"color": 0, "children": [
+{"tag": 7 ,"name": "market for butadiene", "waarde": 0.0,"color": 0, "children": [
+{"tag": 8 ,"name": "butadiene production", "waarde": 0.168177109476,"color": 0}]}]}]},
+{"tag": 9 ,"name": "refinery gas, burned in furnace", "waarde": 0.22121762015,"color": 0},
+{"tag": 10 ,"name": "market for waste refinery gas", "waarde": 0.0,"color": 0, "children": [
+{"tag": 11 ,"name": "treatment of waste refinery gas, burned in flare", "waarde": 0.660885255471,"color": 0}]},
+{"tag": 12 ,"name": "market for heavy fuel oil, burned in refinery furnace", "waarde": 0.0,"color": 0, "children": [
+{"tag": 13 ,"name": "heavy fuel oil, burned in refinery furnace", "waarde": 0.324104120545,"color": 0},
+{"tag": 14 ,"name": "heavy fuel oil, burned in refinery furnace", "waarde": 0.233085911538,"color": 0}]},
+{"tag": 15 ,"name": "market for petroleum", "waarde": 0.000824739923832,"color": 0, "children": [
+{"tag": 16 ,"name": "petroleum and gas production, on-shore", "waarde": 0.0,"color": 0, "children": [
+{"tag": 17 ,"name": "market for natural gas, vented", "waarde": 0.0,"color": 0, "children": [
+{"tag": 18 ,"name": "natural gas venting from petroleum/natural gas production", "waarde": 0.117709145175,"color": 0}]},
+{"tag": 19 ,"name": "market for waste natural gas, sweet", "waarde": 0.0,"color": 0, "children": [
+{"tag": 20 ,"name": "treatment of waste natural gas, sweet, burned in production flare", "waarde": 0.553231439161,"color": 0}]},
+{"tag": 21 ,"name": "market for sweet gas, burned in gas turbine", "waarde": 0.0,"color": 0, "children": [
+{"tag": 22 ,"name": "sweet gas, burned in gas turbine", "waarde": 4.17959185045,"color": 0}]}]},
+{"tag": 23 ,"name": "petroleum and gas production, off-shore", "waarde": 0.0544894240852,"color": 0, "children": [
+{"tag": 24 ,"name": "market for sweet gas, burned in gas turbine", "waarde": 0.0,"color": 0, "children": [
+{"tag": 25 ,"name": "sweet gas, burned in gas turbine", "waarde": 0.104831707408,"color": 0}]}]},
+{"tag": 26 ,"name": "petroleum and gas production, on-shore", "waarde": 0.0,"color": 0, "children": [
+{"tag": 27 ,"name": "market for natural gas, vented", "waarde": 0.0,"color": 0, "children": [
+{"tag": 28 ,"name": "natural gas venting from petroleum/natural gas production", "waarde": 0.178447480489,"color": 0}]},
+{"tag": 29 ,"name": "market for waste natural gas, sweet", "waarde": 0.0,"color": 0, "children": [
+{"tag": 30 ,"name": "treatment of waste natural gas, sweet, burned in production flare", "waarde": 0.139767340099,"color": 0}]}]},
+{"tag": 31 ,"name": "market for transport, freight, sea, transoceanic tanker", "waarde": 0.0,"color": 2, "children": [
+{"tag": 32 ,"name": "transport, freight, sea, transoceanic tanker", "waarde": 1.60091460206,"color": 2}]}]}]}]},
+{"tag": 33 ,"name": "market for heat, district or industrial, other than natural gas", "waarde": 0.0,"color": 0, "children": [
+{"tag": 34 ,"name": "heat production, at hard coal industrial furnace 1-10MW", "waarde": 0.326460298086,"color": 0}]}]}]},
+{"tag": 35 ,"name": "market for passenger car, petrol/natural gas", "waarde": 0.0,"color": 0, "children": [
+{"tag": 36 ,"name": "passenger car production, petrol/natural gas", "waarde": 0.0,"color": 0, "children": [
+{"tag": 37 ,"name": "market for internal combustion engine, passenger car", "waarde": 0.0,"color": 0, "children": [
+{"tag": 38 ,"name": "internal combustion engine production, passenger car", "waarde": 0.0,"color": 0, "children": [
+{"tag": 39 ,"name": "market for used internal combustion engine, passenger car", "waarde": 0.0,"color": 0, "children": [
+{"tag": 40 ,"name": "treatment of used internal combustion engine, shredding", "waarde": 0.0,"color": 0, "children": [
+{"tag": 41 ,"name": "market for residue from shredder fraction from manual dismantling", "waarde": 0.0,"color": 0, "children": [
+{"tag": 42 ,"name": "treatment of residue from shredder fraction from manual dismantling, municipal waste incineration", "waarde": 0.168773971777,"color": 0}]},
+{"tag": 43 ,"name": "market for waste plastic, mixture", "waarde": 0.0,"color": 0, "children": [
+{"tag": 44 ,"name": "treatment of waste plastic, mixture, municipal incineration", "waarde": 0.21306579602,"color": 0}]}]}]},
+{"tag": 45 ,"name": "market for aluminium, cast alloy", "waarde": 0.0,"color": 0, "children": [
+{"tag": 46 ,"name": "aluminium ingot, primary, to aluminium, cast alloy market", "waarde": 0.0,"color": 0, "children": [
+{"tag": 47 ,"name": "market for aluminium, primary, ingot", "waarde": 0.0,"color": 0, "children": [
+{"tag": 48 ,"name": "aluminium production, primary, ingot", "waarde": 0.0,"color": 0, "children": [
+{"tag": 49 ,"name": "market for aluminium, primary, liquid", "waarde": 0.0,"color": 0, "children": [
+{"tag": 50 ,"name": "aluminium production, primary, liquid, prebake", "waarde": 0.0858030846093,"color": 0, "children": [
+{"tag": 51 ,"name": "market for electricity, medium voltage, aluminium industry", "waarde": 0.0,"color": 1, "children": [
+{"tag": 52 ,"name": "electricity voltage transformation from high to medium voltage, aluminium industry", "waarde": 0.0,"color": 1, "children": [
+{"tag": 53 ,"name": "market for electricity, high voltage, aluminium industry", "waarde": 0.00123154778554,"color": 1, "children": [
+{"tag": 54 ,"name": "electricity production, lignite, aluminium industry", "waarde": 0.0,"color": 1, "children": [
+{"tag": 55 ,"name": "electricity production, lignite", "waarde": 0.270844982959,"color": 1}]},
+{"tag": 56 ,"name": "electricity production, hard coal, aluminium industry", "waarde": 0.0,"color": 1, "children": [
+{"tag": 57 ,"name": "electricity production, hard coal", "waarde": 0.161753591112,"color": 1}]}]}]}]}]}]}]}]}]}]},
+{"tag": 58 ,"name": "market for electricity, medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 59 ,"name": "electricity voltage transformation from high to medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 60 ,"name": "market for electricity, high voltage", "waarde": 0.00303532531802,"color": 1, "children": [
+{"tag": 61 ,"name": "electricity production, hard coal", "waarde": 0.161880949674,"color": 1}]}]}]}]}]},
+{"tag": 62 ,"name": "market for glider, passenger car", "waarde": 0.0,"color": 0, "children": [
+{"tag": 63 ,"name": "glider production, passenger car", "waarde": 0.0,"color": 0, "children": [
+{"tag": 64 ,"name": "market for used glider, passenger car", "waarde": 0.0,"color": 0, "children": [
+{"tag": 65 ,"name": "treatment of used glider, passenger car, shredding", "waarde": 0.0,"color": 0, "children": [
+{"tag": 66 ,"name": "market for residue from shredder fraction from manual dismantling", "waarde": 0.0,"color": 0, "children": [
+{"tag": 67 ,"name": "treatment of residue from shredder fraction from manual dismantling, municipal waste incineration", "waarde": 0.251183080332,"color": 0}]},
+{"tag": 68 ,"name": "market for waste plastic, mixture", "waarde": 0.0,"color": 0, "children": [
+{"tag": 69 ,"name": "treatment of waste plastic, mixture, municipal incineration", "waarde": 0.133603632392,"color": 0}]}]}]},
+{"tag": 70 ,"name": "market for epoxy resin, liquid", "waarde": 0.0,"color": 0, "children": [
+{"tag": 71 ,"name": "epoxy resin production, liquid", "waarde": 0.131157992387,"color": 0}]},
+{"tag": 72 ,"name": "market for polypropylene, granulate", "waarde": 0.0,"color": 0, "children": [
+{"tag": 73 ,"name": "polypropylene production, granulate", "waarde": 0.75432754733,"color": 0}]},
+{"tag": 74 ,"name": "market for reinforcing steel", "waarde": 0.0,"color": 3, "children": [
+{"tag": 75 ,"name": "reinforcing steel production", "waarde": 0.0,"color": 3, "children": [
+{"tag": 76 ,"name": "market for steel, low-alloyed", "waarde": 0.0,"color": 3, "children": [
+{"tag": 77 ,"name": "steel production, converter, low-alloyed", "waarde": 0.0150829031074,"color": 3, "children": [
+{"tag": 78 ,"name": "market for pig iron", "waarde": 0.0,"color": 3, "children": [
+{"tag": 79 ,"name": "pig iron production", "waarde": 1.05680695737,"color": 3}]}]}]},
+{"tag": 80 ,"name": "market for steel, unalloyed", "waarde": 0.0,"color": 3, "children": [
+{"tag": 81 ,"name": "steel production, converter, unalloyed", "waarde": 0.046938044402,"color": 3, "children": [
+{"tag": 82 ,"name": "market for pig iron", "waarde": 0.0,"color": 3, "children": [
+{"tag": 83 ,"name": "pig iron production", "waarde": 0.43058011844,"color": 3, "children": [
+{"tag": 84 ,"name": "market for blast furnace gas", "waarde": 0.0,"color": 0, "children": [
+{"tag": 85 ,"name": "treatment of blast furnace gas, in power plant", "waarde": 0.168680340001,"color": 0}]},
+{"tag": 86 ,"name": "market for sinter, iron", "waarde": 0.0,"color": 3, "children": [
+{"tag": 87 ,"name": "sinter production, iron", "waarde": 0.216108748357,"color": 3}]}]}]}]}]}]},
+{"tag": 88 ,"name": "reinforcing steel production", "waarde": 0.0,"color": 3, "children": [
+{"tag": 89 ,"name": "market for steel, unalloyed", "waarde": 0.0,"color": 3, "children": [
+{"tag": 90 ,"name": "steel production, converter, unalloyed", "waarde": 0.0231806939489,"color": 3, "children": [
+{"tag": 91 ,"name": "market for pig iron", "waarde": 0.0,"color": 3, "children": [
+{"tag": 92 ,"name": "pig iron production", "waarde": 0.296861704142,"color": 3}]}]}]}]}]},
+{"tag": 93 ,"name": "market for electricity, medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 94 ,"name": "electricity voltage transformation from high to medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 95 ,"name": "market for electricity, high voltage", "waarde": 0.00032334704024,"color": 1, "children": [
+{"tag": 96 ,"name": "electricity production, hard coal", "waarde": 0.205505776634,"color": 1}]}]}]},
+{"tag": 97 ,"name": "market for electricity, medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 98 ,"name": "electricity voltage transformation from high to medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 99 ,"name": "market for electricity, high voltage", "waarde": 0.000276701425913,"color": 1, "children": [
+{"tag": 100 ,"name": "electricity production, hard coal", "waarde": 0.23405159621,"color": 1}]}]}]},
+{"tag": 101 ,"name": "market for electricity, medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 102 ,"name": "electricity voltage transformation from high to medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 103 ,"name": "market for electricity, high voltage", "waarde": 0.000869256648769,"color": 1, "children": [
+{"tag": 104 ,"name": "electricity production, hard coal", "waarde": 0.355954788707,"color": 1}]}]}]},
+{"tag": 105 ,"name": "market for electricity, medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 106 ,"name": "electricity voltage transformation from high to medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 107 ,"name": "market for electricity, high voltage", "waarde": 0.00022882025908,"color": 1, "children": [
+{"tag": 108 ,"name": "electricity production, hard coal", "waarde": 0.29112571081,"color": 1}]}]}]},
+{"tag": 109 ,"name": "market for electricity, medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 110 ,"name": "electricity voltage transformation from high to medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 111 ,"name": "market for electricity, high voltage", "waarde": 0.00917341725622,"color": 1, "children": [
+{"tag": 112 ,"name": "electricity production, hard coal", "waarde": 0.509788895631,"color": 1, "children": [
+{"tag": 113 ,"name": "market for hard coal", "waarde": 0.0,"color": 0, "children": [
+{"tag": 114 ,"name": "hard coal mine operation", "waarde": 1.00041371101,"color": 0}]}]}]}]}]}]}]},
+{"tag": 115 ,"name": "market for waste rubber, unspecified", "waarde": 0.0,"color": 0, "children": [
+{"tag": 116 ,"name": "treatment of waste rubber, unspecified, municipal incineration", "waarde": 1.13937637066,"color": 0}]}]}]},
+{"tag": 117 ,"name": "market for road", "waarde": 0.0,"color": 0, "children": [
+{"tag": 118 ,"name": "road construction", "waarde": 0.0,"color": 0, "children": [
+{"tag": 119 ,"name": "market for concrete, for de-icing salt contact", "waarde": 0.0,"color": 4, "children": [
+{"tag": 120 ,"name": "concrete production, for de-icing salt contact", "waarde": 0.0,"color": 4, "children": [
+{"tag": 121 ,"name": "market for cement, Portland", "waarde": 0.0,"color": 4, "children": [
+{"tag": 122 ,"name": "cement production, Portland", "waarde": 0.0,"color": 4, "children": [
+{"tag": 123 ,"name": "clinker production", "waarde": 0.146235976101,"color": 4}]}]}]}]},
+{"tag": 124 ,"name": "market for diesel, burned in building machine", "waarde": 0.0,"color": 0, "children": [
+{"tag": 125 ,"name": "diesel, burned in building machine", "waarde": 0.195340642195,"color": 0}]}]}]},
+{"tag": 126 ,"name": "market for passenger car maintenance", "waarde": 0.0,"color": 0, "children": [
+{"tag": 127 ,"name": "maintenance, passenger car", "waarde": 0.0,"color": 0, "children": [
+{"tag": 128 ,"name": "market for used tyre", "waarde": 0.0,"color": 0, "children": [
+{"tag": 129 ,"name": "treatment of used tyre", "waarde": 0.0,"color": 0, "children": [
+{"tag": 130 ,"name": "treatment of waste rubber, unspecified, municipal incineration", "waarde": 0.212645117051,"color": 0}]}]},
+{"tag": 131 ,"name": "market for synthetic rubber", "waarde": 0.0,"color": 0, "children": [
+{"tag": 132 ,"name": "synthetic rubber production", "waarde": 0.0,"color": 0, "children": [
+{"tag": 133 ,"name": "market for carbon black", "waarde": 0.0,"color": 0, "children": [
+{"tag": 134 ,"name": "carbon black production", "waarde": 0.138361073392,"color": 0}]}]}]},
+{"tag": 135 ,"name": "market for electricity, low voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 136 ,"name": "electricity voltage transformation from medium to low voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 137 ,"name": "market for electricity, medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 138 ,"name": "electricity voltage transformation from high to medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 139 ,"name": "market for electricity, high voltage", "waarde": 0.00291068165016,"color": 1, "children": [
+{"tag": 140 ,"name": "electricity production, hard coal", "waarde": 0.108650436268,"color": 1}]}]}]}]}]},
+{"tag": 141 ,"name": "market for waste polyethylene", "waarde": 0.0,"color": 0, "children": [
+{"tag": 142 ,"name": "treatment of waste polyethylene, municipal incineration", "waarde": 0.107321527916,"color": 0}]},
+{"tag": 143 ,"name": "market for waste mineral oil", "waarde": 0.0,"color": 0, "children": [
+{"tag": 144 ,"name": "treatment of waste mineral oil, hazardous waste incineration", "waarde": 0.397686496047,"color": 0}]}]},
+{"tag": 145 ,"name": "maintenance, passenger car", "waarde": 0.0,"color": 0, "children": [
+{"tag": 146 ,"name": "market for used tyre", "waarde": 0.0,"color": 0, "children": [
+{"tag": 147 ,"name": "treatment of used tyre", "waarde": 0.0,"color": 0, "children": [
+{"tag": 148 ,"name": "treatment of waste rubber, unspecified, municipal incineration", "waarde": 0.109615261015,"color": 0}]}]}]}]}]}

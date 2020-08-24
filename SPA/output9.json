@@ -1,0 +1,161 @@
+{"tag": 1000 , "name": "market for diesel, low-sulfur", "waarde": 0.0,"color": 0, "children": [
+{"tag": 1 ,"name": "diesel production, low-sulfur", "waarde": 0.0,"color": 0, "children": [
+{"tag": 2 ,"name": "market for diesel", "waarde": 0.0,"color": 0, "children": [
+{"tag": 3 ,"name": "petroleum refinery operation", "waarde": 0.244666663936,"color": 0, "children": [
+{"tag": 4 ,"name": "refinery gas, burned in furnace", "waarde": 0.315150377659,"color": 0},
+{"tag": 5 ,"name": "market for waste refinery gas", "waarde": 0.0,"color": 0, "children": [
+{"tag": 6 ,"name": "treatment of waste refinery gas, burned in flare", "waarde": 0.1315115788,"color": 0}]},
+{"tag": 7 ,"name": "market for heavy fuel oil, burned in refinery furnace", "waarde": 0.0,"color": 0, "children": [
+{"tag": 8 ,"name": "heavy fuel oil, burned in refinery furnace", "waarde": 0.123035292288,"color": 0},
+{"tag": 9 ,"name": "heavy fuel oil, burned in refinery furnace", "waarde": 8.23518481407,"color": 0, "children": [
+{"tag": 10 ,"name": "market for heavy fuel oil", "waarde": 0.0,"color": 0, "children": [
+{"tag": 11 ,"name": "petroleum refinery operation", "waarde": 0.00404190727224,"color": 0, "children": [
+{"tag": 12 ,"name": "refinery gas, burned in furnace", "waarde": 0.424206778963,"color": 0},
+{"tag": 13 ,"name": "market for petroleum", "waarde": 0.000126155860798,"color": 0, "children": [
+{"tag": 14 ,"name": "petroleum and gas production, on-shore", "waarde": 0.0,"color": 0, "children": [
+{"tag": 15 ,"name": "market for natural gas, vented", "waarde": 0.0,"color": 0, "children": [
+{"tag": 16 ,"name": "natural gas venting from petroleum/natural gas production", "waarde": 0.28241786846,"color": 0}]},
+{"tag": 17 ,"name": "market for waste natural gas, sweet", "waarde": 0.0,"color": 0, "children": [
+{"tag": 18 ,"name": "treatment of waste natural gas, sweet, burned in production flare", "waarde": 0.259214301089,"color": 0}]}]}]}]}]}]}]},
+{"tag": 19 ,"name": "market for petroleum", "waarde": 0.007636485789,"color": 0, "children": [
+{"tag": 20 ,"name": "petroleum and gas production, on-shore", "waarde": 0.0,"color": 0, "children": [
+{"tag": 21 ,"name": "market for natural gas, vented", "waarde": 0.0,"color": 0, "children": [
+{"tag": 22 ,"name": "natural gas venting from petroleum/natural gas production", "waarde": 0.315150377659,"color": 0}]},
+{"tag": 23 ,"name": "market for waste natural gas, sweet", "waarde": 0.0,"color": 0, "children": [
+{"tag": 24 ,"name": "treatment of waste natural gas, sweet, burned in production flare", "waarde": 21.5000429218,"color": 0}]},
+{"tag": 25 ,"name": "market for sweet gas, burned in gas turbine", "waarde": 0.0,"color": 0, "children": [
+{"tag": 26 ,"name": "sweet gas, burned in gas turbine", "waarde": 0.102501862351,"color": 0}]}]},
+{"tag": 27 ,"name": "petroleum and gas production, off-shore", "waarde": 0.50453203568,"color": 0, "children": [
+{"tag": 28 ,"name": "market for drying, natural gas", "waarde": 0.0,"color": 0, "children": [
+{"tag": 29 ,"name": "drying, natural gas", "waarde": 1.67932810765,"color": 0}]},
+{"tag": 30 ,"name": "market for waste natural gas, sweet", "waarde": 0.0,"color": 0, "children": [
+{"tag": 31 ,"name": "treatment of waste natural gas, sweet, burned in production flare", "waarde": 0.868181968969,"color": 0}]},
+{"tag": 32 ,"name": "market for sweet gas, burned in gas turbine", "waarde": 0.0,"color": 0, "children": [
+{"tag": 33 ,"name": "sweet gas, burned in gas turbine", "waarde": 0.17253725481,"color": 0}]},
+{"tag": 34 ,"name": "market for offshore well, oil/gas", "waarde": 0.0,"color": 0, "children": [
+{"tag": 35 ,"name": "offshore well production, oil/gas", "waarde": 0.0,"color": 0, "children": [
+{"tag": 36 ,"name": "market for diesel, burned in diesel-electric generating set", "waarde": 0.0,"color": 0, "children": [
+{"tag": 37 ,"name": "diesel, burned in diesel-electric generating set", "waarde": 0.28241786846,"color": 0}]}]}]},
+{"tag": 38 ,"name": "market for diesel, burned in diesel-electric generating set", "waarde": 0.0,"color": 0, "children": [
+{"tag": 39 ,"name": "diesel, burned in diesel-electric generating set", "waarde": 0.259214301089,"color": 0}]}]},
+{"tag": 40 ,"name": "gas and petroleum production, off-shore", "waarde": 0.17347963599,"color": 0, "children": [
+{"tag": 41 ,"name": "market for sweet gas, burned in gas turbine", "waarde": 0.0,"color": 0, "children": [
+{"tag": 42 ,"name": "sweet gas, burned in gas turbine", "waarde": 0.55108839471,"color": 0}]},
+{"tag": 43 ,"name": "market for offshore well, oil/gas", "waarde": 0.0,"color": 0, "children": [
+{"tag": 44 ,"name": "offshore well production, oil/gas", "waarde": 0.0,"color": 0, "children": [
+{"tag": 45 ,"name": "market for diesel, burned in diesel-electric generating set", "waarde": 0.0,"color": 0, "children": [
+{"tag": 46 ,"name": "diesel, burned in diesel-electric generating set", "waarde": 0.188240180196,"color": 0}]}]}]}]},
+{"tag": 47 ,"name": "petroleum production, onshore", "waarde": 0.002273266878,"color": 0, "children": [
+{"tag": 48 ,"name": "market for natural gas, vented", "waarde": 0.0,"color": 0, "children": [
+{"tag": 49 ,"name": "natural gas venting from petroleum/natural gas production", "waarde": 2.50782556248,"color": 0}]},
+{"tag": 50 ,"name": "market for waste natural gas, sour", "waarde": 0.0,"color": 0, "children": [
+{"tag": 51 ,"name": "treatment of waste natural gas, sour, burned in production flare", "waarde": 0.195379440952,"color": 0}]},
+{"tag": 52 ,"name": "market for onshore well, oil/gas", "waarde": 0.0,"color": 0, "children": [
+{"tag": 53 ,"name": "onshore well production, oil/gas", "waarde": 0.0,"color": 0, "children": [
+{"tag": 54 ,"name": "market for diesel, burned in diesel-electric generating set", "waarde": 0.0,"color": 0, "children": [
+{"tag": 55 ,"name": "diesel, burned in diesel-electric generating set", "waarde": 0.124581246419,"color": 0}]}]}]},
+{"tag": 56 ,"name": "market for diesel, burned in diesel-electric generating set", "waarde": 0.0,"color": 0, "children": [
+{"tag": 57 ,"name": "diesel, burned in diesel-electric generating set", "waarde": 0.109188693582,"color": 0}]}]},
+{"tag": 58 ,"name": "petroleum production, onshore", "waarde": 0.00369245980124,"color": 0, "children": [
+{"tag": 59 ,"name": "market for natural gas, vented", "waarde": 0.0,"color": 0, "children": [
+{"tag": 60 ,"name": "natural gas venting from petroleum/natural gas production", "waarde": 0.150363280219,"color": 0}]},
+{"tag": 61 ,"name": "market for waste natural gas, sweet", "waarde": 0.0,"color": 0, "children": [
+{"tag": 62 ,"name": "treatment of waste natural gas, sweet, burned in production flare", "waarde": 0.211083630133,"color": 0}]},
+{"tag": 63 ,"name": "market for diesel, burned in diesel-electric generating set", "waarde": 0.0,"color": 0, "children": [
+{"tag": 64 ,"name": "diesel, burned in diesel-electric generating set", "waarde": 0.136168664515,"color": 0}]}]},
+{"tag": 65 ,"name": "petroleum production, onshore", "waarde": 0.00385300360685,"color": 0, "children": [
+{"tag": 66 ,"name": "market for natural gas, vented", "waarde": 0.0,"color": 0, "children": [
+{"tag": 67 ,"name": "natural gas venting from petroleum/natural gas production", "waarde": 0.553734382239,"color": 0}]},
+{"tag": 68 ,"name": "market for waste natural gas, sweet", "waarde": 0.0,"color": 0, "children": [
+{"tag": 69 ,"name": "treatment of waste natural gas, sweet, burned in production flare", "waarde": 1.9028325142,"color": 0}]},
+{"tag": 70 ,"name": "market for diesel, burned in diesel-electric generating set", "waarde": 0.0,"color": 0, "children": [
+{"tag": 71 ,"name": "diesel, burned in diesel-electric generating set", "waarde": 2.16714583192,"color": 0}]},
+{"tag": 72 ,"name": "market for electricity, low voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 73 ,"name": "electricity voltage transformation from medium to low voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 74 ,"name": "market for electricity, medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 75 ,"name": "electricity voltage transformation from high to medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 76 ,"name": "market for electricity, high voltage", "waarde": 0.00583654503066,"color": 1, "children": [
+{"tag": 77 ,"name": "electricity production, hard coal", "waarde": 0.100673305788,"color": 1}]}]}]}]}]},
+{"tag": 78 ,"name": "market for heat, district or industrial, other than natural gas", "waarde": 0.0,"color": 0, "children": [
+{"tag": 79 ,"name": "heat production, at hard coal industrial furnace 1-10MW", "waarde": 0.146580936067,"color": 0}]}]},
+{"tag": 80 ,"name": "petroleum and gas production, on-shore", "waarde": 0.0,"color": 0, "children": [
+{"tag": 81 ,"name": "market for natural gas, vented", "waarde": 0.0,"color": 0, "children": [
+{"tag": 82 ,"name": "natural gas venting from petroleum/natural gas production", "waarde": 0.750403260194,"color": 0}]},
+{"tag": 83 ,"name": "market for waste natural gas, sweet", "waarde": 0.0,"color": 0, "children": [
+{"tag": 84 ,"name": "treatment of waste natural gas, sweet, burned in production flare", "waarde": 0.338678984721,"color": 0}]},
+{"tag": 85 ,"name": "market for sweet gas, burned in gas turbine", "waarde": 0.0,"color": 0, "children": [
+{"tag": 86 ,"name": "sweet gas, burned in gas turbine", "waarde": 0.136538461413,"color": 0}]}]},
+{"tag": 87 ,"name": "petroleum and gas production, off-shore", "waarde": 0.0208446475319,"color": 0, "children": [
+{"tag": 88 ,"name": "market for sweet gas, burned in gas turbine", "waarde": 0.0,"color": 0, "children": [
+{"tag": 89 ,"name": "sweet gas, burned in gas turbine", "waarde": 0.180739056581,"color": 0}]}]},
+{"tag": 90 ,"name": "market for transport, freight, sea, transoceanic tanker", "waarde": 0.0,"color": 2, "children": [
+{"tag": 91 ,"name": "transport, freight, sea, transoceanic tanker", "waarde": 0.109696664208,"color": 2}]},
+{"tag": 92 ,"name": "market for transport, freight, inland waterways, barge tanker", "waarde": 0.0,"color": 2, "children": [
+{"tag": 93 ,"name": "transport, freight, inland waterways, barge tanker", "waarde": 0.102228807886,"color": 2}]}]},
+{"tag": 94 ,"name": "market for naphtha", "waarde": 0.0,"color": 0, "children": [
+{"tag": 95 ,"name": "petroleum refinery operation", "waarde": 0.0104521385021,"color": 0, "children": [
+{"tag": 96 ,"name": "refinery gas, burned in furnace", "waarde": 0.505681491451,"color": 0},
+{"tag": 97 ,"name": "market for heavy fuel oil, burned in refinery furnace", "waarde": 0.0,"color": 0, "children": [
+{"tag": 98 ,"name": "heavy fuel oil, burned in refinery furnace", "waarde": 0.239579511447,"color": 0}]},
+{"tag": 99 ,"name": "market for petroleum", "waarde": 0.000326229562575,"color": 0, "children": [
+{"tag": 100 ,"name": "petroleum and gas production, on-shore", "waarde": 0.0,"color": 0, "children": [
+{"tag": 101 ,"name": "market for natural gas, vented", "waarde": 0.0,"color": 0, "children": [
+{"tag": 102 ,"name": "natural gas venting from petroleum/natural gas production", "waarde": 0.267624192955,"color": 0}]},
+{"tag": 103 ,"name": "market for waste natural gas, sweet", "waarde": 0.0,"color": 0, "children": [
+{"tag": 104 ,"name": "treatment of waste natural gas, sweet, burned in production flare", "waarde": 0.372854269425,"color": 0}]},
+{"tag": 105 ,"name": "market for sweet gas, burned in gas turbine", "waarde": 0.0,"color": 0, "children": [
+{"tag": 106 ,"name": "sweet gas, burned in gas turbine", "waarde": 3.29587983671,"color": 0}]}]},
+{"tag": 107 ,"name": "petroleum and gas production, off-shore", "waarde": 0.0215535352062,"color": 0, "children": [
+{"tag": 108 ,"name": "market for sweet gas, burned in gas turbine", "waarde": 0.0,"color": 0, "children": [
+{"tag": 109 ,"name": "sweet gas, burned in gas turbine", "waarde": 0.73504266502,"color": 0}]}]},
+{"tag": 110 ,"name": "market for transport, freight, sea, transoceanic tanker", "waarde": 0.0,"color": 2, "children": [
+{"tag": 111 ,"name": "transport, freight, sea, transoceanic tanker", "waarde": 0.219149161225,"color": 2}]}]}]}]},
+{"tag": 112 ,"name": "market for electricity, medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 113 ,"name": "electricity voltage transformation from high to medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 114 ,"name": "market for electricity, high voltage", "waarde": 0.000639899439733,"color": 1, "children": [
+{"tag": 115 ,"name": "electricity production, hard coal", "waarde": 2.69561020289,"color": 1}]}]}]},
+{"tag": 116 ,"name": "market for electricity, medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 117 ,"name": "electricity voltage transformation from high to medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 118 ,"name": "market for electricity, high voltage", "waarde": 0.000573919509324,"color": 1, "children": [
+{"tag": 119 ,"name": "electricity production, natural gas, at conventional power plant", "waarde": 9.26309599724,"color": 1}]}]}]},
+{"tag": 120 ,"name": "market for electricity, medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 121 ,"name": "electricity voltage transformation from high to medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 122 ,"name": "market for electricity, high voltage", "waarde": 0.000956709259297,"color": 1, "children": [
+{"tag": 123 ,"name": "electricity production, hard coal", "waarde": 10.549788135,"color": 1},
+{"tag": 124 ,"name": "electricity production, lignite", "waarde": 0.17253725481,"color": 1}]}]}]}]},
+{"tag": 125 ,"name": "market for transport, pipeline, onshore, petroleum", "waarde": 0.0,"color": 2, "children": [
+{"tag": 126 ,"name": "transport, pipeline, onshore, petroleum", "waarde": 0.0,"color": 2, "children": [
+{"tag": 127 ,"name": "market for electricity, medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 128 ,"name": "electricity voltage transformation from high to medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 129 ,"name": "market for electricity, high voltage", "waarde": 0.00310472873023,"color": 1, "children": [
+{"tag": 130 ,"name": "electricity production, hard coal", "waarde": 0.107133943396,"color": 1}]}]}]}]}]},
+{"tag": 131 ,"name": "market for transport, freight, light commercial vehicle", "waarde": 0.0,"color": 2, "children": [
+{"tag": 132 ,"name": "transport, freight, light commercial vehicle", "waarde": 0.248627263541,"color": 2}]},
+{"tag": 133 ,"name": "market for transport, freight, lorry, unspecified", "waarde": 0.0,"color": 2, "children": [
+{"tag": 134 ,"name": "size-specific lorry transport to generic market for lorry transport", "waarde": 0.0,"color": 2, "children": [
+{"tag": 135 ,"name": "market for transport, freight, lorry 16-32 metric ton, EURO3", "waarde": 0.0,"color": 2, "children": [
+{"tag": 136 ,"name": "transport, freight, lorry 16-32 metric ton, EURO3", "waarde": 0.140799507409,"color": 2}]},
+{"tag": 137 ,"name": "market for transport, freight, lorry >32 metric ton, EURO3", "waarde": 0.0,"color": 2, "children": [
+{"tag": 138 ,"name": "transport, freight, lorry >32 metric ton, EURO3", "waarde": 0.11515607593,"color": 2}]}]}]}]},
+{"tag": 139 ,"name": "market for heavy fuel oil, burned in refinery furnace", "waarde": 0.0,"color": 0, "children": [
+{"tag": 140 ,"name": "heavy fuel oil, burned in refinery furnace", "waarde": 0.395718114164,"color": 0}]},
+{"tag": 141 ,"name": "market for heat, district or industrial, other than natural gas", "waarde": 0.0,"color": 0, "children": [
+{"tag": 142 ,"name": "heat production, at hard coal industrial furnace 1-10MW", "waarde": 1.18627351243,"color": 0, "children": [
+{"tag": 143 ,"name": "market for hard coal", "waarde": 0.0,"color": 0, "children": [
+{"tag": 144 ,"name": "hard coal mine operation", "waarde": 0.450685415205,"color": 0}]}]},
+{"tag": 145 ,"name": "heat production, light fuel oil, at industrial furnace 1MW", "waarde": 0.136114264866,"color": 0},
+{"tag": 146 ,"name": "heat production, heavy fuel oil, at industrial furnace 1MW", "waarde": 0.229693489272,"color": 0}]}]},
+{"tag": 147 ,"name": "market for transport, pipeline, onshore, petroleum", "waarde": 0.0,"color": 2, "children": [
+{"tag": 148 ,"name": "transport, pipeline, onshore, petroleum", "waarde": 0.0,"color": 2, "children": [
+{"tag": 149 ,"name": "market for electricity, medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 150 ,"name": "electricity voltage transformation from high to medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 151 ,"name": "market for electricity, high voltage", "waarde": 0.00310472873023,"color": 1, "children": [
+{"tag": 152 ,"name": "electricity production, hard coal", "waarde": 0.305258883392,"color": 1}]}]}]}]}]},
+{"tag": 153 ,"name": "market for transport, freight, light commercial vehicle", "waarde": 0.0,"color": 2, "children": [
+{"tag": 154 ,"name": "transport, freight, light commercial vehicle", "waarde": 0.405881126204,"color": 2}]},
+{"tag": 155 ,"name": "market for transport, freight, lorry, unspecified", "waarde": 0.0,"color": 2, "children": [
+{"tag": 156 ,"name": "size-specific lorry transport to generic market for lorry transport", "waarde": 0.0,"color": 2, "children": [
+{"tag": 157 ,"name": "market for transport, freight, lorry 16-32 metric ton, EURO3", "waarde": 0.0,"color": 2, "children": [
+{"tag": 158 ,"name": "transport, freight, lorry 16-32 metric ton, EURO3", "waarde": 0.153027699059,"color": 2}]},
+{"tag": 159 ,"name": "market for transport, freight, lorry >32 metric ton, EURO3", "waarde": 0.0,"color": 2, "children": [
+{"tag": 160 ,"name": "transport, freight, lorry >32 metric ton, EURO3", "waarde": 0.174284041139,"color": 2}]}]}]}]}

@@ -1,0 +1,371 @@
+{"tag": 1000 , "name": "Apple", "waarde": 0.0,"color": 0, "children": [
+{"tag": 1 ,"name": "apple production", "waarde": 1.67864213235,"color": 0, "children": [
+{"tag": 2 ,"name": "potassium sulfate, as K2O", "waarde": 0.0,"color": 0, "children": [
+{"tag": 3 ,"name": "potassium sulfate prod.", "waarde": 0.0,"color": 0, "children": [
+{"tag": 4 ,"name": "market for heat, district or industrial", "waarde": 0.0,"color": 0, "children": [
+{"tag": 5 ,"name": "heat production", "waarde": 0.20923588574,"color": 0}]}]}]},
+{"tag": 6 ,"name": "market for irrigation", "waarde": 0.0,"color": 0, "children": [
+{"tag": 7 ,"name": "irrigation", "waarde": 0.0132092360276,"color": 0, "children": [
+{"tag": 8 ,"name": "market for electricity, low V", "waarde": 0.0,"color": 1, "children": [
+{"tag": 9 ,"name": "elect. transformation (med. to low V)", "waarde": 0.0,"color": 1, "children": [
+{"tag": 10 ,"name": "market for electricity, medium V", "waarde": 0.0,"color": 1, "children": [
+{"tag": 11 ,"name": "elect. transformation (high to med V)", "waarde": 0.0,"color": 1, "children": [
+{"tag": 12 ,"name": "market for electricity, high V", "waarde": 0.000489232901308,"color": 1, "children": [
+{"tag": 13 ,"name": "electricity production, hard coal", "waarde": 0.423676845784,"color": 1}]}]}]}]}]}]}]},
+{"tag": 14 ,"name": "market for irrigation", "waarde": 0.0,"color": 0, "children": [
+{"tag": 15 ,"name": "irrigation", "waarde": 0.00703387702995,"color": 0, "children": [
+{"tag": 16 ,"name": "market for electricity, low V", "waarde": 0.0,"color": 1, "children": [
+{"tag": 17 ,"name": "elect. transformation (med. to low V)", "waarde": 0.0,"color": 1, "children": [
+{"tag": 18 ,"name": "market for electricity, medium V", "waarde": 0.0,"color": 1, "children": [
+{"tag": 19 ,"name": "elect. transformation (high to med V)", "waarde": 0.0,"color": 1, "children": [
+{"tag": 20 ,"name": "market for electricity, high V", "waarde": 0.00239003086004,"color": 1, "children": [
+{"tag": 21 ,"name": "electricity production, hard coal", "waarde": 0.108228309369,"color": 1}]}]}]}]}]}]}]},
+{"tag": 22 ,"name": "market for fertilising, by broadcaster", "waarde": 0.0,"color": 0, "children": [
+{"tag": 23 ,"name": "fertilising, by broadcaster", "waarde": 8.76276738782,"color": 0, "children": [
+{"tag": 24 ,"name": "market for shed", "waarde": 0.0,"color": 0, "children": [
+{"tag": 25 ,"name": "shed construction", "waarde": 0.0,"color": 0, "children": [
+{"tag": 26 ,"name": "market for waste wood", "waarde": 0.0,"color": 0, "children": [
+{"tag": 27 ,"name": "treatment of waste wood, municipal incineration", "waarde": 0.350653475232,"color": 0}]}]}]},
+{"tag": 28 ,"name": "market for tractor, 4-wheel", "waarde": 0.0,"color": 0, "children": [
+{"tag": 29 ,"name": "tractor production, 4-wheel", "waarde": 0.00235293477955,"color": 0, "children": [
+{"tag": 30 ,"name": "market for steel, unalloyed", "waarde": 0.0,"color": 3, "children": [
+{"tag": 31 ,"name": "steel production, unalloyed", "waarde": 0.0190352580097,"color": 3, "children": [
+{"tag": 32 ,"name": "market for pig iron", "waarde": 0.0,"color": 3, "children": [
+{"tag": 33 ,"name": "pig iron production", "waarde": 1.99905090325,"color": 3}]}]}]},
+{"tag": 34 ,"name": "market for heat, central or small-scale", "waarde": 0.0,"color": 0, "children": [
+{"tag": 35 ,"name": "heat production, anthracite", "waarde": 0.508738660995,"color": 0}]},
+{"tag": 36 ,"name": "market for waste mineral oil", "waarde": 0.0,"color": 0, "children": [
+{"tag": 37 ,"name": "treatment of waste mineral oil, incineration", "waarde": 0.199811006129,"color": 0}]},
+{"tag": 38 ,"name": "market for electricity, medium V", "waarde": 0.0,"color": 1, "children": [
+{"tag": 39 ,"name": "elect. transformation (high to med V)", "waarde": 0.0,"color": 1, "children": [
+{"tag": 40 ,"name": "market for electricity, high V", "waarde": 0.00207176429286,"color": 1, "children": [
+{"tag": 41 ,"name": "electricity production, hard coal", "waarde": 0.183884114395,"color": 1}]}]}]}]}]},
+{"tag": 42 ,"name": "market for diesel", "waarde": 0.0,"color": 0, "children": [
+{"tag": 43 ,"name": "petroleum refinery operation", "waarde": 0.00356511587066,"color": 0, "children": [
+{"tag": 44 ,"name": "refinery gas, burned in furnace", "waarde": 0.953864782065,"color": 0},
+{"tag": 45 ,"name": "market for heavy fuel oil, burned in refinery furnace", "waarde": 0.0,"color": 0, "children": [
+{"tag": 46 ,"name": "heavy fuel oil, burned in refinery furnace", "waarde": 0.875494862152,"color": 0}]},
+{"tag": 47 ,"name": "market for petroleum", "waarde": 0.000111273666156,"color": 0, "children": [
+{"tag": 48 ,"name": "petroleum and gas production, on-shore", "waarde": 0.0,"color": 0, "children": [
+{"tag": 49 ,"name": "market for natural gas, vented", "waarde": 0.0,"color": 0, "children": [
+{"tag": 50 ,"name": "natural gas venting from petroleum/natural gas production", "waarde": 0.168776120485,"color": 0}]},
+{"tag": 51 ,"name": "market for waste natural gas, sweet", "waarde": 0.0,"color": 0, "children": [
+{"tag": 52 ,"name": "treatment of waste natural gas, sweet, burned in production flare", "waarde": 0.203440886649,"color": 0}]}]}]}]}]}]}]},
+{"tag": 53 ,"name": "market for ammonium nitrate, as N", "waarde": 0.0,"color": 0, "children": [
+{"tag": 54 ,"name": "ammonium nitrate production", "waarde": 0.0,"color": 0, "children": [
+{"tag": 55 ,"name": "market for nitric acid", "waarde": 0.0,"color": 0, "children": [
+{"tag": 56 ,"name": "nitric acid production", "waarde": 0.100470758639,"color": 0},
+{"tag": 57 ,"name": "nitric acid production", "waarde": 0.135601877291,"color": 0}]},
+{"tag": 58 ,"name": "market for ammonia, liquid", "waarde": 0.0,"color": 0, "children": [
+{"tag": 59 ,"name": "ammonia production, steam reforming, liquid", "waarde": 0.274577066213,"color": 0}]}]},
+{"tag": 60 ,"name": "ammonium nitrate production", "waarde": 0.0,"color": 0, "children": [
+{"tag": 61 ,"name": "market for nitric acid", "waarde": 0.0,"color": 0, "children": [
+{"tag": 62 ,"name": "nitric acid production", "waarde": 0.633378616248,"color": 0},
+{"tag": 63 ,"name": "nitric acid production", "waarde": 0.586006879232,"color": 0, "children": [
+{"tag": 64 ,"name": "market for ammonia, liquid", "waarde": 0.0,"color": 0, "children": [
+{"tag": 65 ,"name": "ammonia production, steam reforming, liquid", "waarde": 0.581339970558,"color": 0}]}]}]},
+{"tag": 66 ,"name": "market for ammonia, liquid", "waarde": 0.0,"color": 0, "children": [
+{"tag": 67 ,"name": "ammonia production, partial oxidation, liquid", "waarde": 0.700740831792,"color": 0}]}]}]},
+{"tag": 68 ,"name": "market for electricity, low V", "waarde": 0.0,"color": 1, "children": [
+{"tag": 69 ,"name": "elect. transformation (med. to low V)", "waarde": 0.0,"color": 1, "children": [
+{"tag": 70 ,"name": "market for electricity, medium V", "waarde": 0.0,"color": 1, "children": [
+{"tag": 71 ,"name": "elect. transformation (high to med V)", "waarde": 0.0,"color": 1, "children": [
+{"tag": 72 ,"name": "market for electricity, high V", "waarde": 0.0129983159808,"color": 1, "children": [
+{"tag": 73 ,"name": "heat/power co-generation, wood chips", "waarde": 0.346065946424,"color": 0},
+{"tag": 74 ,"name": "heat/power co-generation, natural gas", "waarde": 0.112214868157,"color": 0},
+{"tag": 75 ,"name": "electricity production, oil", "waarde": 0.237569851279,"color": 1},
+{"tag": 76 ,"name": "electricity production, lignite", "waarde": 0.289403751104,"color": 1},
+{"tag": 77 ,"name": "electricity production, hard coal", "waarde": 3.75603344745,"color": 1, "children": [
+{"tag": 78 ,"name": "market for hard coal", "waarde": 0.0,"color": 0, "children": [
+{"tag": 79 ,"name": "hard coal mine operation", "waarde": 0.115968852934,"color": 0}]}]},
+{"tag": 80 ,"name": "electricity production, natural gas", "waarde": 0.491798547028,"color": 1}]}]}]}]}]},
+{"tag": 81 ,"name": "market for electricity, low V", "waarde": 0.0,"color": 1, "children": [
+{"tag": 82 ,"name": "elect. transformation (med. to low V)", "waarde": 0.0,"color": 1, "children": [
+{"tag": 83 ,"name": "market for electricity, medium V", "waarde": 0.0,"color": 1, "children": [
+{"tag": 84 ,"name": "elect. transformation (high to med V)", "waarde": 0.0,"color": 1, "children": [
+{"tag": 85 ,"name": "market for electricity, high V", "waarde": 0.0102791973734,"color": 1, "children": [
+{"tag": 86 ,"name": "electricity production, hard coal", "waarde": 0.242878282392,"color": 1}]}]}]}]}]},
+{"tag": 87 ,"name": "market for electricity, low V", "waarde": 0.0,"color": 1, "children": [
+{"tag": 88 ,"name": "elect. transformation (med. to low V)", "waarde": 0.0,"color": 1, "children": [
+{"tag": 89 ,"name": "market for electricity, medium V", "waarde": 0.0,"color": 1, "children": [
+{"tag": 90 ,"name": "elect. transformation (high to med V)", "waarde": 0.0,"color": 1, "children": [
+{"tag": 91 ,"name": "market for electricity, high V", "waarde": 0.00331962040583,"color": 1, "children": [
+{"tag": 92 ,"name": "electricity production, natural gas", "waarde": 0.143180950406,"color": 1},
+{"tag": 93 ,"name": "electricity production, hard coal", "waarde": 0.31328397178,"color": 1}]}]}]}]}]},
+{"tag": 94 ,"name": "market for electricity, low V", "waarde": 0.0,"color": 1, "children": [
+{"tag": 95 ,"name": "elect. transformation (med. to low V)", "waarde": 0.0,"color": 1, "children": [
+{"tag": 96 ,"name": "market for electricity, medium V", "waarde": 0.0,"color": 1, "children": [
+{"tag": 97 ,"name": "elect. transformation (high to med V)", "waarde": 0.0,"color": 1, "children": [
+{"tag": 98 ,"name": "market for electricity, high V", "waarde": 0.00095391464349,"color": 1, "children": [
+{"tag": 99 ,"name": "electricity production, hard coal", "waarde": 0.236911064705,"color": 1}]}]}]}]}]},
+{"tag": 100 ,"name": "market for electricity, low V", "waarde": 0.0,"color": 1, "children": [
+{"tag": 101 ,"name": "elect. transformation (med. to low V)", "waarde": 0.0,"color": 1, "children": [
+{"tag": 102 ,"name": "market for electricity, medium V", "waarde": 0.0,"color": 1, "children": [
+{"tag": 103 ,"name": "elect. transformation (high to med V)", "waarde": 0.0,"color": 1, "children": [
+{"tag": 104 ,"name": "market for electricity, high V", "waarde": 0.00153236177874,"color": 1, "children": [
+{"tag": 105 ,"name": "electricity production, hard coal", "waarde": 0.165934432997,"color": 1},
+{"tag": 106 ,"name": "electricity production, natural gas", "waarde": 0.104270715707,"color": 1}]}]}]}]}]},
+{"tag": 107 ,"name": "market for electricity, low V", "waarde": 0.0,"color": 1, "children": [
+{"tag": 108 ,"name": "elect. transformation (med. to low V)", "waarde": 0.0,"color": 1, "children": [
+{"tag": 109 ,"name": "market for electricity, medium V", "waarde": 0.0,"color": 1, "children": [
+{"tag": 110 ,"name": "elect. transformation (high to med V)", "waarde": 0.0,"color": 1, "children": [
+{"tag": 111 ,"name": "market for electricity, high V", "waarde": 0.000839981982174,"color": 1, "children": [
+{"tag": 112 ,"name": "electricity production, lignite", "waarde": 0.494951809593,"color": 1}]}]}]}]}]},
+{"tag": 113 ,"name": "market for electricity, low V", "waarde": 0.0,"color": 1, "children": [
+{"tag": 114 ,"name": "elect. transformation (med. to low V)", "waarde": 0.0,"color": 1, "children": [
+{"tag": 115 ,"name": "market for electricity, medium V", "waarde": 0.0,"color": 1, "children": [
+{"tag": 116 ,"name": "elect. transformation (high to med V)", "waarde": 0.0,"color": 1, "children": [
+{"tag": 117 ,"name": "market for electricity, high V", "waarde": 0.000623115041445,"color": 1, "children": [
+{"tag": 118 ,"name": "electricity production, natural gas", "waarde": 0.315599804443,"color": 1}]}]}]}]}]},
+{"tag": 119 ,"name": "market for electricity, low V", "waarde": 0.0,"color": 1, "children": [
+{"tag": 120 ,"name": "elect. transformation (med. to low V)", "waarde": 0.0,"color": 1, "children": [
+{"tag": 121 ,"name": "market for electricity, medium V", "waarde": 0.0,"color": 1, "children": [
+{"tag": 122 ,"name": "elect. transformation (high to med V)", "waarde": 0.0,"color": 1, "children": [
+{"tag": 123 ,"name": "market for electricity, high V", "waarde": 0.000934616083954,"color": 1, "children": [
+{"tag": 124 ,"name": "electricity production, hard coal", "waarde": 0.150986222604,"color": 1}]}]}]}]}]},
+{"tag": 125 ,"name": "market for electricity, low V", "waarde": 0.0,"color": 1, "children": [
+{"tag": 126 ,"name": "elect. transformation (med. to low V)", "waarde": 0.0,"color": 1, "children": [
+{"tag": 127 ,"name": "market for electricity, medium V", "waarde": 0.0,"color": 1, "children": [
+{"tag": 128 ,"name": "elect. transformation (high to med V)", "waarde": 0.0,"color": 1, "children": [
+{"tag": 129 ,"name": "market for electricity, high V", "waarde": 0.00482383614898,"color": 1, "children": [
+{"tag": 130 ,"name": "heat and power co-generation, wood chips, 6400kW thermal, with extensive emission control", "waarde": 0.133855377238,"color": 0},
+{"tag": 131 ,"name": "electricity production, natural gas", "waarde": 0.125597481782,"color": 1},
+{"tag": 132 ,"name": "electricity production, hard coal", "waarde": 0.23451788696,"color": 1}]}]}]}]}]},
+{"tag": 133 ,"name": "market for electricity, low V", "waarde": 0.0,"color": 1, "children": [
+{"tag": 134 ,"name": "elect. transformation (med. to low V)", "waarde": 0.0,"color": 1, "children": [
+{"tag": 135 ,"name": "market for electricity, medium V", "waarde": 0.0,"color": 1, "children": [
+{"tag": 136 ,"name": "elect. transformation (high to med V)", "waarde": 0.0,"color": 1, "children": [
+{"tag": 137 ,"name": "market for electricity, high V", "waarde": 0.00086600221571,"color": 1, "children": [
+{"tag": 138 ,"name": "electricity production, oil", "waarde": 0.117126253121,"color": 1},
+{"tag": 139 ,"name": "electricity production, natural gas", "waarde": 0.278480060944,"color": 1}]}]}]}]}]},
+{"tag": 140 ,"name": "market for electricity, low V", "waarde": 0.0,"color": 1, "children": [
+{"tag": 141 ,"name": "elect. transformation (med. to low V)", "waarde": 0.0,"color": 1, "children": [
+{"tag": 142 ,"name": "market for electricity, medium V", "waarde": 0.0,"color": 1, "children": [
+{"tag": 143 ,"name": "elect. transformation (high to med V)", "waarde": 0.0,"color": 1, "children": [
+{"tag": 144 ,"name": "market for electricity, high V", "waarde": 0.0418013478209,"color": 1, "children": [
+{"tag": 145 ,"name": "electricity production, lignite", "waarde": 0.109196662718,"color": 1},
+{"tag": 146 ,"name": "electricity production, hard coal", "waarde": 0.100126901566,"color": 1},
+{"tag": 147 ,"name": "heat and power co-generation, natural gas, conventional power plant, 100MW electrical", "waarde": 0.25150135516,"color": 0}]}]}]}]}]},
+{"tag": 148 ,"name": "market for electricity, low V", "waarde": 0.0,"color": 1, "children": [
+{"tag": 149 ,"name": "elect. transformation (med. to low V)", "waarde": 0.0,"color": 1, "children": [
+{"tag": 150 ,"name": "market for electricity, medium V", "waarde": 0.0,"color": 1, "children": [
+{"tag": 151 ,"name": "elect. transformation (high to med V)", "waarde": 0.0,"color": 1, "children": [
+{"tag": 152 ,"name": "market for electricity, high V", "waarde": 0.00412795611635,"color": 1, "children": [
+{"tag": 153 ,"name": "electricity production, natural gas", "waarde": 0.384465905828,"color": 1},
+{"tag": 154 ,"name": "electricity production, hard coal", "waarde": 0.225932658193,"color": 1}]}]}]}]}]},
+{"tag": 155 ,"name": "market for electricity, low V", "waarde": 0.0,"color": 1, "children": [
+{"tag": 156 ,"name": "elect. transformation (med. to low V)", "waarde": 0.0,"color": 1, "children": [
+{"tag": 157 ,"name": "market for electricity, medium V", "waarde": 0.0,"color": 1, "children": [
+{"tag": 158 ,"name": "elect. transformation (high to med V)", "waarde": 0.0,"color": 1, "children": [
+{"tag": 159 ,"name": "market for electricity, high V", "waarde": 0.0011702471344,"color": 1, "children": [
+{"tag": 160 ,"name": "electricity production, natural gas", "waarde": 0.475547144177,"color": 1}]}]}]}]}]},
+{"tag": 161 ,"name": "market for electricity, low V", "waarde": 0.0,"color": 1, "children": [
+{"tag": 162 ,"name": "elect. transformation (med. to low V)", "waarde": 0.0,"color": 1, "children": [
+{"tag": 163 ,"name": "market for electricity, medium V", "waarde": 0.0,"color": 1, "children": [
+{"tag": 164 ,"name": "elect. transformation (high to med V)", "waarde": 0.0,"color": 1, "children": [
+{"tag": 165 ,"name": "market for electricity, high V", "waarde": 0.000440651937903,"color": 1, "children": [
+{"tag": 166 ,"name": "electricity production, hard coal", "waarde": 0.187425317044,"color": 1}]}]}]}]}]},
+{"tag": 167 ,"name": "market for electricity, low V", "waarde": 0.0,"color": 1, "children": [
+{"tag": 168 ,"name": "elect. transformation (med. to low V)", "waarde": 0.0,"color": 1, "children": [
+{"tag": 169 ,"name": "market for electricity, medium V", "waarde": 0.0,"color": 1, "children": [
+{"tag": 170 ,"name": "elect. transformation (high to med V)", "waarde": 0.0,"color": 1, "children": [
+{"tag": 171 ,"name": "market for electricity, high V", "waarde": 0.0112389760363,"color": 1, "children": [
+{"tag": 172 ,"name": "electricity production, oil", "waarde": 0.109835563457,"color": 1},
+{"tag": 173 ,"name": "electricity production, natural gas", "waarde": 0.125384045366,"color": 1}]}]}]}]}]},
+{"tag": 174 ,"name": "market for electricity, low V", "waarde": 0.0,"color": 1, "children": [
+{"tag": 175 ,"name": "elect. transformation (med. to low V)", "waarde": 0.0,"color": 1, "children": [
+{"tag": 176 ,"name": "market for electricity, medium V", "waarde": 0.0,"color": 1, "children": [
+{"tag": 177 ,"name": "elect. transformation (high to med V)", "waarde": 0.0,"color": 1, "children": [
+{"tag": 178 ,"name": "market for electricity, high V", "waarde": 0.00100098255185,"color": 1, "children": [
+{"tag": 179 ,"name": "electricity production, hard coal", "waarde": 0.157337000079,"color": 1}]}]}]}]}]},
+{"tag": 180 ,"name": "market for electricity, low V", "waarde": 0.0,"color": 1, "children": [
+{"tag": 181 ,"name": "elect. transformation (med. to low V)", "waarde": 0.0,"color": 1, "children": [
+{"tag": 182 ,"name": "market for electricity, medium V", "waarde": 0.0,"color": 1, "children": [
+{"tag": 183 ,"name": "elect. transformation (high to med V)", "waarde": 0.0,"color": 1, "children": [
+{"tag": 184 ,"name": "market for electricity, high V", "waarde": 0.00182080953513,"color": 1, "children": [
+{"tag": 185 ,"name": "electricity production, hard coal", "waarde": 0.286870692717,"color": 1}]}]}]}]}]},
+{"tag": 186 ,"name": "market for electricity, low V", "waarde": 0.0,"color": 1, "children": [
+{"tag": 187 ,"name": "elect. transformation (med. to low V)", "waarde": 0.0,"color": 1, "children": [
+{"tag": 188 ,"name": "market for electricity, medium V", "waarde": 0.0,"color": 1, "children": [
+{"tag": 189 ,"name": "elect. transformation (high to med V)", "waarde": 0.0,"color": 1, "children": [
+{"tag": 190 ,"name": "market for electricity, high V", "waarde": 0.00440866400153,"color": 1, "children": [
+{"tag": 191 ,"name": "electricity production, natural gas", "waarde": 0.131563095971,"color": 1},
+{"tag": 192 ,"name": "electricity production, oil", "waarde": 0.24471611894,"color": 1},
+{"tag": 193 ,"name": "electricity production, hard coal", "waarde": 0.769743768746,"color": 1, "children": [
+{"tag": 194 ,"name": "market for hard coal", "waarde": 0.0,"color": 0, "children": [
+{"tag": 195 ,"name": "hard coal mine operation", "waarde": 0.126304657919,"color": 0}]}]}]}]}]}]}]},
+{"tag": 196 ,"name": "market for electricity, low V", "waarde": 0.0,"color": 1, "children": [
+{"tag": 197 ,"name": "elect. transformation (med. to low V)", "waarde": 0.0,"color": 1, "children": [
+{"tag": 198 ,"name": "market for electricity, medium V", "waarde": 0.0,"color": 1, "children": [
+{"tag": 199 ,"name": "elect. transformation (high to med V)", "waarde": 0.0,"color": 1, "children": [
+{"tag": 200 ,"name": "market for electricity, high V", "waarde": 0.00091626297009,"color": 1, "children": [
+{"tag": 201 ,"name": "electricity production, natural gas", "waarde": 0.16054051368,"color": 1},
+{"tag": 202 ,"name": "electricity production, oil", "waarde": 0.249039254785,"color": 1}]}]}]}]}]},
+{"tag": 203 ,"name": "market for electricity, low V", "waarde": 0.0,"color": 1, "children": [
+{"tag": 204 ,"name": "elect. transformation (med. to low V)", "waarde": 0.0,"color": 1, "children": [
+{"tag": 205 ,"name": "market for electricity, medium V", "waarde": 0.0,"color": 1, "children": [
+{"tag": 206 ,"name": "elect. transformation (high to med V)", "waarde": 0.0,"color": 1, "children": [
+{"tag": 207 ,"name": "market for electricity, high V", "waarde": 0.00348552308273,"color": 1, "children": [
+{"tag": 208 ,"name": "electricity production, oil", "waarde": 0.266516531761,"color": 1},
+{"tag": 209 ,"name": "electricity production, hard coal", "waarde": 2.4658646442,"color": 1, "children": [
+{"tag": 210 ,"name": "market for hard coal", "waarde": 0.0,"color": 0, "children": [
+{"tag": 211 ,"name": "hard coal mine operation", "waarde": 0.451802146313,"color": 0}]}]}]}]}]}]}]},
+{"tag": 212 ,"name": "market for electricity, low V", "waarde": 0.0,"color": 1, "children": [
+{"tag": 213 ,"name": "elect. transformation (med. to low V)", "waarde": 0.0,"color": 1, "children": [
+{"tag": 214 ,"name": "market for electricity, medium V", "waarde": 0.0,"color": 1, "children": [
+{"tag": 215 ,"name": "elect. transformation (high to med V)", "waarde": 0.0,"color": 1, "children": [
+{"tag": 216 ,"name": "market for electricity, high V", "waarde": 0.000629253084685,"color": 1, "children": [
+{"tag": 217 ,"name": "electricity production, lignite", "waarde": 0.528784738954,"color": 1},
+{"tag": 218 ,"name": "electricity production, oil", "waarde": 0.70423014101,"color": 1}]}]}]}]}]},
+{"tag": 219 ,"name": "market for electricity, low V", "waarde": 0.0,"color": 1, "children": [
+{"tag": 220 ,"name": "elect. transformation (med. to low V)", "waarde": 0.0,"color": 1, "children": [
+{"tag": 221 ,"name": "market for electricity, medium V", "waarde": 0.0,"color": 1, "children": [
+{"tag": 222 ,"name": "elect. transformation (high to med V)", "waarde": 0.0,"color": 1, "children": [
+{"tag": 223 ,"name": "market for electricity, high V", "waarde": 0.000935535211827,"color": 1, "children": [
+{"tag": 224 ,"name": "electricity production, natural gas", "waarde": 0.11960885702,"color": 1},
+{"tag": 225 ,"name": "electricity production, hard coal", "waarde": 0.167966613072,"color": 1}]}]}]}]}]},
+{"tag": 226 ,"name": "market for electricity, low V", "waarde": 0.0,"color": 1, "children": [
+{"tag": 227 ,"name": "elect. transformation (med. to low V)", "waarde": 0.0,"color": 1, "children": [
+{"tag": 228 ,"name": "market for electricity, medium V", "waarde": 0.0,"color": 1, "children": [
+{"tag": 229 ,"name": "elect. transformation (high to med V)", "waarde": 0.0,"color": 1, "children": [
+{"tag": 230 ,"name": "market for electricity, high V", "waarde": 0.136885155632,"color": 1, "children": [
+{"tag": 231 ,"name": "electricity production, hard coal", "waarde": 7.6070378539,"color": 1, "children": [
+{"tag": 232 ,"name": "market for hard coal", "waarde": 0.0,"color": 0, "children": [
+{"tag": 233 ,"name": "hard coal mine operation", "waarde": 2.9148607832,"color": 0, "children": [
+{"tag": 234 ,"name": "market for electricity, high V, internal", "waarde": 0.000120210118674,"color": 1, "children": [
+{"tag": 235 ,"name": "electricity production, hard coal, at coal mine power plant", "waarde": 0.116396990884,"color": 1},
+{"tag": 236 ,"name": "electricity production, hard coal, at coal mine power plant", "waarde": 0.157477662055,"color": 1}]}]}]}]}]}]}]}]}]},
+{"tag": 237 ,"name": "market for electricity, low V", "waarde": 0.0,"color": 1, "children": [
+{"tag": 238 ,"name": "elect. transformation (med. to low V)", "waarde": 0.0,"color": 1, "children": [
+{"tag": 239 ,"name": "market for electricity, medium V", "waarde": 0.0,"color": 1, "children": [
+{"tag": 240 ,"name": "elect. transformation (high to med V)", "waarde": 0.0,"color": 1, "children": [
+{"tag": 241 ,"name": "market for electricity, high V", "waarde": 0.000813902306209,"color": 1, "children": [
+{"tag": 242 ,"name": "electricity production, hard coal", "waarde": 1.99315897878,"color": 1}]}]}]}]}]},
+{"tag": 243 ,"name": "market for electricity, low V", "waarde": 0.0,"color": 1, "children": [
+{"tag": 244 ,"name": "elect. transformation (med. to low V)", "waarde": 0.0,"color": 1, "children": [
+{"tag": 245 ,"name": "market for electricity, medium V", "waarde": 0.0,"color": 1, "children": [
+{"tag": 246 ,"name": "elect. transformation (high to med V)", "waarde": 0.0,"color": 1, "children": [
+{"tag": 247 ,"name": "market for electricity, high V", "waarde": 0.0216677040764,"color": 1, "children": [
+{"tag": 248 ,"name": "heat and power co-generation, wood chips, 6400kW thermal, with extensive emission control", "waarde": 0.139268464897,"color": 0},
+{"tag": 249 ,"name": "electricity production, hydro, reservoir, tropical region", "waarde": 0.906582207586,"color": 1}]}]}]}]}]},
+{"tag": 250 ,"name": "market for electricity, low V", "waarde": 0.0,"color": 1, "children": [
+{"tag": 251 ,"name": "elect. transformation (med. to low V)", "waarde": 0.0,"color": 1, "children": [
+{"tag": 252 ,"name": "market for electricity, medium V", "waarde": 0.0,"color": 1, "children": [
+{"tag": 253 ,"name": "elect. transformation (high to med V)", "waarde": 0.0,"color": 1, "children": [
+{"tag": 254 ,"name": "market for electricity, high V", "waarde": 0.010390610192,"color": 1, "children": [
+{"tag": 255 ,"name": "electricity production, hard coal", "waarde": 0.45593813847,"color": 1},
+{"tag": 256 ,"name": "electricity production, lignite", "waarde": 0.342857437453,"color": 1}]}]}]}]}]},
+{"tag": 257 ,"name": "market for pesticide, unspecified", "waarde": 0.0,"color": 0, "children": [
+{"tag": 258 ,"name": "pesticide production, unspecified", "waarde": 0.0799988171051,"color": 0, "children": [
+{"tag": 259 ,"name": "market for heat, district", "waarde": 0.0,"color": 0, "children": [
+{"tag": 260 ,"name": "heat production, at hard coal industrial furnace 1-10MW", "waarde": 0.216065645495,"color": 0}]}]}]},
+{"tag": 261 ,"name": "market for electricity, low V", "waarde": 0.0,"color": 1, "children": [
+{"tag": 262 ,"name": "elect. transformation (med. to low V)", "waarde": 0.0,"color": 1, "children": [
+{"tag": 263 ,"name": "market for electricity, medium V", "waarde": 0.0,"color": 1, "children": [
+{"tag": 264 ,"name": "elect. transformation (high to med V)", "waarde": 0.0,"color": 1, "children": [
+{"tag": 265 ,"name": "market for electricity, high V", "waarde": 0.00163616753623,"color": 1, "children": [
+{"tag": 266 ,"name": "electricity production, hard coal", "waarde": 0.245123862257,"color": 1},
+{"tag": 267 ,"name": "electricity production, natural gas", "waarde": 1.9566737473,"color": 1}]}]}]}]}]},
+{"tag": 268 ,"name": "market for electricity, low V", "waarde": 0.0,"color": 1, "children": [
+{"tag": 269 ,"name": "elect. transformation (med. to low V)", "waarde": 0.0,"color": 1, "children": [
+{"tag": 270 ,"name": "market for electricity, medium V", "waarde": 0.0,"color": 1, "children": [
+{"tag": 271 ,"name": "elect. transformation (high to med V)", "waarde": 0.0,"color": 1, "children": [
+{"tag": 272 ,"name": "market for electricity, high V", "waarde": 0.000510329301929,"color": 1, "children": [
+{"tag": 273 ,"name": "electricity production, natural gas", "waarde": 0.320500242125,"color": 1}]}]}]}]}]},
+{"tag": 274 ,"name": "market for electricity, low V", "waarde": 0.0,"color": 1, "children": [
+{"tag": 275 ,"name": "elect. transformation (med. to low V)", "waarde": 0.0,"color": 1, "children": [
+{"tag": 276 ,"name": "market for electricity, medium V", "waarde": 0.0,"color": 1, "children": [
+{"tag": 277 ,"name": "elect. transformation (high to med V)", "waarde": 0.0,"color": 1, "children": [
+{"tag": 278 ,"name": "market for electricity, high V", "waarde": 0.000281414351088,"color": 1, "children": [
+{"tag": 279 ,"name": "electricity production, lignite", "waarde": 0.114495245321,"color": 1}]}]}]}]}]},
+{"tag": 280 ,"name": "market for electricity, low V", "waarde": 0.0,"color": 1, "children": [
+{"tag": 281 ,"name": "elect. transformation (med. to low V)", "waarde": 0.0,"color": 1, "children": [
+{"tag": 282 ,"name": "market for electricity, medium V", "waarde": 0.0,"color": 1, "children": [
+{"tag": 283 ,"name": "elect. transformation (high to med V)", "waarde": 0.0,"color": 1, "children": [
+{"tag": 284 ,"name": "market for electricity, high V", "waarde": 0.00146375173738,"color": 1, "children": [
+{"tag": 285 ,"name": "electricity production, natural gas", "waarde": 0.565474390823,"color": 1},
+{"tag": 286 ,"name": "electricity production, hard coal", "waarde": 0.115750016064,"color": 1}]}]}]}]}]},
+{"tag": 287 ,"name": "market for electricity, low V", "waarde": 0.0,"color": 1, "children": [
+{"tag": 288 ,"name": "elect. transformation (med. to low V)", "waarde": 0.0,"color": 1, "children": [
+{"tag": 289 ,"name": "market for electricity, medium V", "waarde": 0.0,"color": 1, "children": [
+{"tag": 290 ,"name": "elect. transformation (high to med V)", "waarde": 0.0,"color": 1, "children": [
+{"tag": 291 ,"name": "market for electricity, high V", "waarde": 0.000750970069243,"color": 1, "children": [
+{"tag": 292 ,"name": "electricity production, hard coal", "waarde": 0.159368792343,"color": 1}]}]}]}]}]},
+{"tag": 293 ,"name": "market for electricity, low V", "waarde": 0.0,"color": 1, "children": [
+{"tag": 294 ,"name": "elect. transformation (med. to low V)", "waarde": 0.0,"color": 1, "children": [
+{"tag": 295 ,"name": "market for electricity, medium V", "waarde": 0.0,"color": 1, "children": [
+{"tag": 296 ,"name": "elect. transformation (high to med V)", "waarde": 0.0,"color": 1, "children": [
+{"tag": 297 ,"name": "market for electricity, high V", "waarde": 0.000276251319498,"color": 1, "children": [
+{"tag": 298 ,"name": "electricity production, lignite", "waarde": 0.286415768794,"color": 1}]}]}]}]}]},
+{"tag": 299 ,"name": "market for electricity, low V", "waarde": 0.0,"color": 1, "children": [
+{"tag": 300 ,"name": "elect. transformation (med. to low V)", "waarde": 0.0,"color": 1, "children": [
+{"tag": 301 ,"name": "market for electricity, medium V", "waarde": 0.0,"color": 1, "children": [
+{"tag": 302 ,"name": "elect. transformation (high to med V)", "waarde": 0.0,"color": 1, "children": [
+{"tag": 303 ,"name": "market for electricity, high V", "waarde": 0.00121707940341,"color": 1, "children": [
+{"tag": 304 ,"name": "electricity production, hard coal", "waarde": 0.429689190842,"color": 1},
+{"tag": 305 ,"name": "electricity production, natural gas", "waarde": 0.344536552632,"color": 1}]}]}]}]}]},
+{"tag": 306 ,"name": "market for electricity, low V", "waarde": 0.0,"color": 1, "children": [
+{"tag": 307 ,"name": "elect. transformation (med. to low V)", "waarde": 0.0,"color": 1, "children": [
+{"tag": 308 ,"name": "market for electricity, medium V", "waarde": 0.0,"color": 1, "children": [
+{"tag": 309 ,"name": "elect. transformation (high to med V)", "waarde": 0.0,"color": 1, "children": [
+{"tag": 310 ,"name": "market for electricity, high V", "waarde": 0.00242361722828,"color": 1, "children": [
+{"tag": 311 ,"name": "electricity production, hard coal", "waarde": 0.805116910917,"color": 1},
+{"tag": 312 ,"name": "electricity production, lignite", "waarde": 0.421603143014,"color": 1},
+{"tag": 313 ,"name": "electricity production, natural gas", "waarde": 0.714829095718,"color": 1}]}]}]}]}]},
+{"tag": 314 ,"name": "market for electricity, low V", "waarde": 0.0,"color": 1, "children": [
+{"tag": 315 ,"name": "elect. transformation (med. to low V)", "waarde": 0.0,"color": 1, "children": [
+{"tag": 316 ,"name": "market for electricity, medium V", "waarde": 0.0,"color": 1, "children": [
+{"tag": 317 ,"name": "elect. transformation (high to med V)", "waarde": 0.0,"color": 1, "children": [
+{"tag": 318 ,"name": "market for electricity, high V", "waarde": 0.000610441201204,"color": 1, "children": [
+{"tag": 319 ,"name": "electricity production, lignite", "waarde": 0.800631494146,"color": 1},
+{"tag": 320 ,"name": "electricity production, hard coal", "waarde": 0.501167307951,"color": 1}]}]}]}]}]}]},
+{"tag": 321 ,"name": "market for transport, freight, aircraft", "waarde": 0.0,"color": 2, "children": [
+{"tag": 322 ,"name": "transport, freight, aircraft, intercontinental", "waarde": 0.438744870449,"color": 2},
+{"tag": 323 ,"name": "transport, freight, aircraft, intercontinental", "waarde": 0.213674766769,"color": 2}]},
+{"tag": 324 ,"name": "market for transport, freight, sea, transoceanic ship", "waarde": 0.0,"color": 2, "children": [
+{"tag": 325 ,"name": "transport, freight, sea, transoceanic ship", "waarde": 0.14801263053,"color": 2}]},
+{"tag": 326 ,"name": "market for transport, freight train", "waarde": 0.0,"color": 2, "children": [
+{"tag": 327 ,"name": "transport, freight train, diesel", "waarde": 0.100475526041,"color": 2}]},
+{"tag": 328 ,"name": "market for transport, freight train", "waarde": 0.0,"color": 2, "children": [
+{"tag": 329 ,"name": "transport, freight train, diesel", "waarde": 0.119997500297,"color": 2}]},
+{"tag": 330 ,"name": "market for transport, freight, inland waterways, barge", "waarde": 0.0,"color": 2, "children": [
+{"tag": 331 ,"name": "transport, freight, inland waterways, barge", "waarde": 0.207403571419,"color": 2},
+{"tag": 332 ,"name": "transport, freight, inland waterways, barge", "waarde": 0.407961888701,"color": 2}]},
+{"tag": 333 ,"name": "market for transport, freight, lorry, unspecified", "waarde": 0.0,"color": 2, "children": [
+{"tag": 334 ,"name": "size-specific lorry transport to generic market for lorry transport", "waarde": 0.0,"color": 2, "children": [
+{"tag": 335 ,"name": "market for transport, freight, lorry 3.5-7.5 ton", "waarde": 0.0,"color": 2, "children": [
+{"tag": 336 ,"name": "transport, freight, lorry 3.5-7.5 ton", "waarde": 0.100445310265,"color": 2},
+{"tag": 337 ,"name": "transport, freight, lorry 3.5-7.5 ton", "waarde": 0.128961169258,"color": 2}]},
+{"tag": 338 ,"name": "market for transport, freight, lorry 16-32 ton", "waarde": 0.0,"color": 2, "children": [
+{"tag": 339 ,"name": "transport, freight, lorry 16-32 ton", "waarde": 0.138132436434,"color": 2},
+{"tag": 340 ,"name": "transport, freight, lorry 16-32 ton", "waarde": 3.01559341408,"color": 2, "children": [
+{"tag": 341 ,"name": "market for diesel, low-sulfur", "waarde": 0.0,"color": 0, "children": [
+{"tag": 342 ,"name": "diesel production, low-sulfur", "waarde": 0.0,"color": 0, "children": [
+{"tag": 343 ,"name": "market for diesel", "waarde": 0.0,"color": 0, "children": [
+{"tag": 344 ,"name": "petroleum refinery operation", "waarde": 0.0014384768268,"color": 0, "children": [
+{"tag": 345 ,"name": "refinery gas, burned in furnace", "waarde": 0.126405914972,"color": 0}]}]}]}]}]}]},
+{"tag": 346 ,"name": "market for transport, freight, lorry >32 ton", "waarde": 0.0,"color": 2, "children": [
+{"tag": 347 ,"name": "transport, freight, lorry >32 ton", "waarde": 3.28553424933,"color": 2, "children": [
+{"tag": 348 ,"name": "market for diesel, low-sulfur", "waarde": 0.0,"color": 0, "children": [
+{"tag": 349 ,"name": "diesel production, low-sulfur", "waarde": 0.0,"color": 0, "children": [
+{"tag": 350 ,"name": "market for diesel", "waarde": 0.0,"color": 0, "children": [
+{"tag": 351 ,"name": "petroleum refinery operation", "waarde": 0.00157192255507,"color": 0, "children": [
+{"tag": 352 ,"name": "refinery gas, burned in furnace", "waarde": 0.372351621713,"color": 0}]}]}]}]},
+{"tag": 353 ,"name": "market for road", "waarde": 0.0,"color": 0, "children": [
+{"tag": 354 ,"name": "road construction", "waarde": 0.0,"color": 0, "children": [
+{"tag": 355 ,"name": "market for diesel, burned in building machine", "waarde": 0.0,"color": 0, "children": [
+{"tag": 356 ,"name": "diesel, burned in building machine", "waarde": 0.11096112812,"color": 0}]}]}]}]},
+{"tag": 357 ,"name": "transport, freight, lorry >32 ton", "waarde": 0.144448792068,"color": 2}]},
+{"tag": 358 ,"name": "market for transport, freight, lorry 7.5-16 ton", "waarde": 0.0,"color": 2, "children": [
+{"tag": 359 ,"name": "transport, freight, lorry 7.5-16 ton", "waarde": 0.13497552147,"color": 2},
+{"tag": 360 ,"name": "transport, freight, lorry 7.5-16 ton", "waarde": 0.153724322337,"color": 2}]}]},
+{"tag": 361 ,"name": "size-specific lorry transport to generic market for lorry transport", "waarde": 0.0,"color": 2, "children": [
+{"tag": 362 ,"name": "market for transport, freight, lorry 3.5-7.5 ton", "waarde": 0.0,"color": 2, "children": [
+{"tag": 363 ,"name": "transport, freight, lorry 3.5-7.5 ton", "waarde": 0.115132932621,"color": 2},
+{"tag": 364 ,"name": "transport, freight, lorry 3.5-7.5 ton", "waarde": 0.174617493182,"color": 2}]},
+{"tag": 365 ,"name": "market for transport, freight, lorry 16-32 ton", "waarde": 0.0,"color": 2, "children": [
+{"tag": 366 ,"name": "transport, freight, lorry 16-32 ton", "waarde": 0.132819772461,"color": 2},
+{"tag": 367 ,"name": "transport, freight, lorry 16-32 ton", "waarde": 0.346112214863,"color": 2}]},
+{"tag": 368 ,"name": "market for transport, freight, lorry >32 ton", "waarde": 0.0,"color": 2, "children": [
+{"tag": 369 ,"name": "transport, freight, lorry >32 ton", "waarde": 0.109839140574,"color": 2},
+{"tag": 370 ,"name": "transport, freight, lorry >32 ton", "waarde": 0.133622852005,"color": 2}]}]}]}]}

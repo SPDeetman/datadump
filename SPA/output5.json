@@ -1,0 +1,132 @@
+{"tag": 1000 , "name": "internet access, videoconference, 0.7 Mbit/s", "waarde": 0.0,"color": 0, "children": [
+{"tag": 1 ,"name": "market for electricity, low voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 2 ,"name": "heat and power co-generation, natural gas, mini-plant 2KW electrical", "waarde": 0.232765749626,"color": 0},
+{"tag": 3 ,"name": "heat and power co-generation, natural gas, 160kW electrical, lambda=1", "waarde": 0.846361105413,"color": 0},
+{"tag": 4 ,"name": "heat and power co-generation, natural gas, 160kW electrical, Jakobsberg", "waarde": 0.2204570521,"color": 0},
+{"tag": 5 ,"name": "electricity voltage transformation from medium to low voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 6 ,"name": "market for electricity, medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 7 ,"name": "electricity voltage transformation from high to medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 8 ,"name": "market for electricity, high voltage", "waarde": 0.957027412388,"color": 1, "children": [
+{"tag": 9 ,"name": "electricity, high voltage, import from IT", "waarde": 0.0,"color": 1, "children": [
+{"tag": 10 ,"name": "market for electricity, high voltage", "waarde": 0.0415319313429,"color": 1, "children": [
+{"tag": 11 ,"name": "electricity, high voltage, import from SI", "waarde": 0.0,"color": 1, "children": [
+{"tag": 12 ,"name": "market for electricity, high voltage", "waarde": 0.000595690724712,"color": 1, "children": [
+{"tag": 13 ,"name": "electricity production, lignite", "waarde": 0.178572591951,"color": 1}]}]},
+{"tag": 14 ,"name": "treatment of blast furnace gas, in power plant", "waarde": 0.128473506561,"color": 0},
+{"tag": 15 ,"name": "electricity production, natural gas, at conventional power plant", "waarde": 7.90148662242,"color": 1, "children": [
+{"tag": 16 ,"name": "market for natural gas, high pressure", "waarde": 0.0474921127113,"color": 0, "children": [
+{"tag": 17 ,"name": "natural gas, high pressure, import from RU", "waarde": 0.0028094375647,"color": 0, "children": [
+{"tag": 18 ,"name": "natural gas production", "waarde": 0.309103170281,"color": 0},
+{"tag": 19 ,"name": "transport, pipeline, long distance, natural gas", "waarde": 0.394445034083,"color": 2, "children": [
+{"tag": 20 ,"name": "market for electricity, medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 21 ,"name": "electricity voltage transformation from high to medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 22 ,"name": "market for electricity, high voltage", "waarde": 0.0102732694454,"color": 1, "children": [
+{"tag": 23 ,"name": "electricity production, hard coal", "waarde": 0.493968391107,"color": 1},
+{"tag": 24 ,"name": "heat and power co-generation, natural gas, conventional power plant, 100MW electrical", "waarde": 0.306982358682,"color": 0}]}]}]}]}]}]}]},
+{"tag": 25 ,"name": "electricity production, hydro, pumped storage", "waarde": 0.000212987993506,"color": 1, "children": [
+{"tag": 26 ,"name": "market for electricity, high voltage", "waarde": 0.0010007979814,"color": 1, "children": [
+{"tag": 27 ,"name": "electricity production, natural gas, at conventional power plant", "waarde": 0.29346339076,"color": 1}]}]},
+{"tag": 28 ,"name": "electricity production, hard coal", "waarde": 3.32329545977,"color": 1, "children": [
+{"tag": 29 ,"name": "market for hard coal", "waarde": 0.0,"color": 0, "children": [
+{"tag": 30 ,"name": "hard coal mine operation", "waarde": 0.86703432763,"color": 0}]}]},
+{"tag": 31 ,"name": "electricity production, oil", "waarde": 0.328861017226,"color": 1},
+{"tag": 32 ,"name": "heat and power co-generation, wood chips, 6400kW thermal, with extensive emission control", "waarde": 0.452838362744,"color": 0}]}]},
+{"tag": 33 ,"name": "electricity, high voltage, import from FR", "waarde": 0.0,"color": 1, "children": [
+{"tag": 34 ,"name": "market for electricity, high voltage", "waarde": 0.0765450161036,"color": 1, "children": [
+{"tag": 35 ,"name": "heat and power co-generation, wood chips, 6400kW thermal, with extensive emission control", "waarde": 0.162894747071,"color": 0},
+{"tag": 36 ,"name": "electricity production, oil", "waarde": 0.584158639357,"color": 1},
+{"tag": 37 ,"name": "electricity production, natural gas, at conventional power plant", "waarde": 0.836770826172,"color": 1},
+{"tag": 38 ,"name": "electricity production, hard coal", "waarde": 2.24078374862,"color": 1, "children": [
+{"tag": 39 ,"name": "market for hard coal", "waarde": 0.0,"color": 0, "children": [
+{"tag": 40 ,"name": "hard coal mine operation", "waarde": 0.209361439315,"color": 0}]}]}]}]},
+{"tag": 41 ,"name": "electricity, high voltage, import from DE", "waarde": 0.0,"color": 1, "children": [
+{"tag": 42 ,"name": "market for electricity, high voltage", "waarde": 0.0826432527397,"color": 1, "children": [
+{"tag": 43 ,"name": "treatment of municipal solid waste, incineration", "waarde": 0.138837202766,"color": 0},
+{"tag": 44 ,"name": "treatment of blast furnace gas, in power plant", "waarde": 0.883501930335,"color": 0},
+{"tag": 45 ,"name": "electricity production, oil", "waarde": 0.387842367769,"color": 1},
+{"tag": 46 ,"name": "electricity production, hydro, pumped storage", "waarde": 0.00362927717469,"color": 1, "children": [
+{"tag": 47 ,"name": "market for electricity, high voltage", "waarde": 0.00116842410039,"color": 1, "children": [
+{"tag": 48 ,"name": "electricity production, hard coal", "waarde": 0.10276064553,"color": 1},
+{"tag": 49 ,"name": "electricity production, lignite", "waarde": 0.16501669184,"color": 1}]}]},
+{"tag": 50 ,"name": "electricity production, hard coal", "waarde": 10.761680557,"color": 1, "children": [
+{"tag": 51 ,"name": "market for hard coal", "waarde": 0.0,"color": 0, "children": [
+{"tag": 52 ,"name": "hard coal mine operation", "waarde": 2.05216315852,"color": 0}]}]},
+{"tag": 53 ,"name": "heat and power co-generation, wood chips, 6400kW thermal, with extensive emission control", "waarde": 0.101834052415,"color": 0},
+{"tag": 54 ,"name": "electricity production, lignite", "waarde": 16.8774289177,"color": 1, "children": [
+{"tag": 55 ,"name": "market for lignite", "waarde": 0.0,"color": 0, "children": [
+{"tag": 56 ,"name": "lignite mine operation", "waarde": 0.105336756918,"color": 0}]},
+{"tag": 57 ,"name": "market for SOx retained, in lignite flue gas desulfurisation", "waarde": 0.0,"color": 0, "children": [
+{"tag": 58 ,"name": "desulfurisation of lignite flue gas", "waarde": 0.109216814547,"color": 0}]}]},
+{"tag": 59 ,"name": "electricity, high voltage, import from CZ", "waarde": 0.0,"color": 1, "children": [
+{"tag": 60 ,"name": "market for electricity, high voltage", "waarde": 0.00110124357068,"color": 1, "children": [
+{"tag": 61 ,"name": "electricity production, lignite", "waarde": 0.321846189793,"color": 1}]}]},
+{"tag": 62 ,"name": "electricity production, natural gas, at conventional power plant", "waarde": 3.5555412839,"color": 1, "children": [
+{"tag": 63 ,"name": "market for natural gas, high pressure", "waarde": 0.03156402663,"color": 0, "children": [
+{"tag": 64 ,"name": "natural gas, high pressure, import from RU", "waarde": 0.00138580759085,"color": 0, "children": [
+{"tag": 65 ,"name": "transport, pipeline, long distance, natural gas", "waarde": 0.194567385756,"color": 2, "children": [
+{"tag": 66 ,"name": "market for electricity, medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 67 ,"name": "electricity voltage transformation from high to medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 68 ,"name": "market for electricity, high voltage", "waarde": 0.00506748217483,"color": 1, "children": [
+{"tag": 69 ,"name": "heat and power co-generation, natural gas, conventional power plant, 100MW electrical", "waarde": 0.205221180306,"color": 0}]}]}]}]}]}]}]},
+{"tag": 70 ,"name": "electricity, high voltage, import from DK", "waarde": 0.0,"color": 1, "children": [
+{"tag": 71 ,"name": "market for electricity, high voltage", "waarde": 0.00126911724526,"color": 1, "children": [
+{"tag": 72 ,"name": "electricity production, hard coal", "waarde": 0.150678363128,"color": 1}]}]}]}]},
+{"tag": 73 ,"name": "electricity, high voltage, import from AT", "waarde": 0.0,"color": 1, "children": [
+{"tag": 74 ,"name": "market for electricity, high voltage", "waarde": 0.00893737921067,"color": 1, "children": [
+{"tag": 75 ,"name": "electricity, high voltage, import from DE", "waarde": 0.0,"color": 1, "children": [
+{"tag": 76 ,"name": "market for electricity, high voltage", "waarde": 0.00139739448936,"color": 1, "children": [
+{"tag": 77 ,"name": "electricity production, hard coal", "waarde": 0.228255975355,"color": 1},
+{"tag": 78 ,"name": "electricity production, lignite", "waarde": 0.285376305777,"color": 1}]}]},
+{"tag": 79 ,"name": "heat and power co-generation, wood chips, 6400kW thermal, with extensive emission control", "waarde": 0.181966616851,"color": 0},
+{"tag": 80 ,"name": "electricity production, natural gas, at conventional power plant", "waarde": 0.273533433598,"color": 1},
+{"tag": 81 ,"name": "electricity, high voltage, import from CZ", "waarde": 0.0,"color": 1, "children": [
+{"tag": 82 ,"name": "market for electricity, high voltage", "waarde": 0.000588246065291,"color": 1, "children": [
+{"tag": 83 ,"name": "electricity production, lignite", "waarde": 0.427313398525,"color": 1}]}]},
+{"tag": 84 ,"name": "electricity production, hard coal", "waarde": 0.107802574685,"color": 1}]}]},
+{"tag": 85 ,"name": "heat and power co-generation, wood chips, 6400kW thermal, with extensive emission control", "waarde": 0.114974925375,"color": 0},
+{"tag": 86 ,"name": "heat and power co-generation, natural gas, 500kW electrical, lean burn", "waarde": 1.8341019924,"color": 0},
+{"tag": 87 ,"name": "heat and power co-generation, natural gas, 200kW electrical, lean burn", "waarde": 0.238615906882,"color": 0},
+{"tag": 88 ,"name": "heat and power co-generation, natural gas, 1MW electrical, lean burn", "waarde": 0.152150435839,"color": 0},
+{"tag": 89 ,"name": "heat and power co-generation, diesel, 200kW electrical, SCR-NOx reduction", "waarde": 0.388803433744,"color": 0},
+{"tag": 90 ,"name": "electricity production, hydro, reservoir, alpine region", "waarde": 0.046916171034,"color": 1, "children": [
+{"tag": 91 ,"name": "market for hydropower plant, reservoir, alpine region", "waarde": 0.0,"color": 0, "children": [
+{"tag": 92 ,"name": "hydropower plant construction, reservoir, alpine region", "waarde": 0.0,"color": 0, "children": [
+{"tag": 93 ,"name": "market for cement, Portland", "waarde": 0.0,"color": 4, "children": [
+{"tag": 94 ,"name": "cement production, Portland", "waarde": 0.0,"color": 4, "children": [
+{"tag": 95 ,"name": "clinker production", "waarde": 0.498109058533,"color": 4}]}]}]}]}]},
+{"tag": 96 ,"name": "electricity production, hydro, pumped storage", "waarde": 0.00386382443126,"color": 1, "children": [
+{"tag": 97 ,"name": "market for electricity, high voltage", "waarde": 0.0182501509979,"color": 1, "children": [
+{"tag": 98 ,"name": "electricity, high voltage, import from IT", "waarde": 0.0,"color": 1, "children": [
+{"tag": 99 ,"name": "market for electricity, high voltage", "waarde": 0.000791998231638,"color": 1, "children": [
+{"tag": 100 ,"name": "electricity production, natural gas, at conventional power plant", "waarde": 0.190402699949,"color": 1}]}]},
+{"tag": 101 ,"name": "electricity, high voltage, import from DE", "waarde": 0.0,"color": 1, "children": [
+{"tag": 102 ,"name": "market for electricity, high voltage", "waarde": 0.0015759755906,"color": 1, "children": [
+{"tag": 103 ,"name": "electricity production, hard coal", "waarde": 0.107522881869,"color": 1},
+{"tag": 104 ,"name": "electricity production, lignite", "waarde": 0.113552926069,"color": 1}]}]},
+{"tag": 105 ,"name": "electricity, high voltage, natural gas, import from Germany", "waarde": 0.0,"color": 1, "children": [
+{"tag": 106 ,"name": "electricity production, natural gas, at conventional power plant", "waarde": 0.229736438925,"color": 1}]}]}]},
+{"tag": 107 ,"name": "electricity, high voltage, natural gas, import from Germany", "waarde": 0.0,"color": 1, "children": [
+{"tag": 108 ,"name": "electricity production, natural gas, at conventional power plant", "waarde": 5.52379889429,"color": 1, "children": [
+{"tag": 109 ,"name": "market for natural gas, high pressure", "waarde": 0.0490370724108,"color": 0, "children": [
+{"tag": 110 ,"name": "natural gas, high pressure, import from RU", "waarde": 0.00215295557746,"color": 0, "children": [
+{"tag": 111 ,"name": "transport, pipeline, long distance, natural gas", "waarde": 0.302274963075,"color": 2, "children": [
+{"tag": 112 ,"name": "market for electricity, medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 113 ,"name": "electricity voltage transformation from high to medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 114 ,"name": "market for electricity, high voltage", "waarde": 0.00787271197241,"color": 1, "children": [
+{"tag": 115 ,"name": "heat and power co-generation, natural gas, conventional power plant, 100MW electrical", "waarde": 0.121729799965,"color": 0}]}]}]}]}]}]}]}]},
+{"tag": 116 ,"name": "treatment of municipal solid waste, incineration", "waarde": 2.24694788448,"color": 0, "children": [
+{"tag": 117 ,"name": "market for electricity, medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 118 ,"name": "electricity voltage transformation from high to medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 119 ,"name": "market for electricity, high voltage", "waarde": 0.00196530646277,"color": 1, "children": [
+{"tag": 120 ,"name": "electricity production, hard coal", "waarde": 0.17074235573,"color": 1}]}]}]}]},
+{"tag": 121 ,"name": "electricity production, hydro, run-of-river", "waarde": 0.0,"color": 1, "children": [
+{"tag": 122 ,"name": "market for hydropower plant, run-of-river", "waarde": 0.0,"color": 0, "children": [
+{"tag": 123 ,"name": "hydropower plant construction, run-of-river", "waarde": 0.0,"color": 0, "children": [
+{"tag": 124 ,"name": "market for cement, Portland", "waarde": 0.0,"color": 4, "children": [
+{"tag": 125 ,"name": "cement production, Portland", "waarde": 0.0,"color": 4, "children": [
+{"tag": 126 ,"name": "clinker production", "waarde": 0.109902895874,"color": 4}]}]}]}]}]}]}]}]}]},
+{"tag": 127 ,"name": "heat and power co-generation, natural gas, 50kW electrical, lean burn", "waarde": 0.22280533472,"color": 0},
+{"tag": 128 ,"name": "market for distribution network, electricity, low voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 129 ,"name": "distribution network construction, electricity, low voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 130 ,"name": "market for copper", "waarde": 0.0,"color": 0, "children": [
+{"tag": 131 ,"name": "treatment of used cable", "waarde": 0.11205321338,"color": 0}]}]}]}]}]}

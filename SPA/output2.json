@@ -1,0 +1,317 @@
+{"tag": 1000 , "name": "operation, computer, desktop, with liquid crystal display, standby mode", "waarde": 0.0,"color": 0, "children": [
+{"tag": 1 ,"name": "market for computer, desktop, without screen", "waarde": 0.0,"color": 0, "children": [
+{"tag": 2 ,"name": "computer production, desktop, without screen", "waarde": 0.0,"color": 0, "children": [
+{"tag": 3 ,"name": "market for integrated circuit, memory type", "waarde": 0.0,"color": 0, "children": [
+{"tag": 4 ,"name": "integrated circuit production, memory type", "waarde": 0.0,"color": 0, "children": [
+{"tag": 5 ,"name": "market for electricity, medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 6 ,"name": "electricity voltage transformation from high to medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 7 ,"name": "market for electricity, high voltage", "waarde": 0.00346721520925,"color": 1, "children": [
+{"tag": 8 ,"name": "electricity production, hard coal", "waarde": 0.213687109503,"color": 1}]}]}]}]}]},
+{"tag": 9 ,"name": "market for used desktop computer", "waarde": 0.0,"color": 0, "children": [
+{"tag": 10 ,"name": "treatment of used desktop computer, manual dismantling", "waarde": 0.0,"color": 0, "children": [
+{"tag": 11 ,"name": "market for shredder fraction after manual dismantling of used electronic product", "waarde": 0.0,"color": 0, "children": [
+{"tag": 12 ,"name": "treatment of shredder fraction from manual dismantling, shredding", "waarde": 0.0,"color": 0, "children": [
+{"tag": 13 ,"name": "market for residue from shredder fraction from manual dismantling", "waarde": 0.0,"color": 0, "children": [
+{"tag": 14 ,"name": "treatment of residue from shredder fraction from manual dismantling, municipal waste incineration", "waarde": 0.117960714368,"color": 0}]}]}]}]},
+{"tag": 15 ,"name": "treatment of used desktop computer, mechanical treatment", "waarde": 0.0,"color": 0, "children": [
+{"tag": 16 ,"name": "market for residue from mechanical treatment, desktop computer", "waarde": 0.0,"color": 0, "children": [
+{"tag": 17 ,"name": "treatment of residue from mechanical treatment, desktop computer, municipal waste incineration", "waarde": 0.118342265859,"color": 0}]}]}]},
+{"tag": 18 ,"name": "market for printed wiring board, mounted mainboard, desktop computer, Pb containing", "waarde": 0.0,"color": 0, "children": [
+{"tag": 19 ,"name": "printed wiring board production, mounted mainboard, desktop computer, Pb containing", "waarde": 0.0,"color": 0, "children": [
+{"tag": 20 ,"name": "market for integrated circuit, logic type", "waarde": 0.0,"color": 0, "children": [
+{"tag": 21 ,"name": "integrated circuit production, logic type", "waarde": 0.0,"color": 0, "children": [
+{"tag": 22 ,"name": "market for gold", "waarde": 0.0,"color": 0, "children": [
+{"tag": 23 ,"name": "gold-silver mine operation with refinery", "waarde": 0.00128709282866,"color": 0, "children": [
+{"tag": 24 ,"name": "market for diesel, burned in building machine", "waarde": 0.0,"color": 0, "children": [
+{"tag": 25 ,"name": "diesel, burned in building machine", "waarde": 0.239628483158,"color": 0}]}]}]},
+{"tag": 26 ,"name": "market for electricity, medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 27 ,"name": "electricity voltage transformation from high to medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 28 ,"name": "market for electricity, high voltage", "waarde": 0.0028294498344,"color": 1, "children": [
+{"tag": 29 ,"name": "electricity production, hard coal", "waarde": 0.195708346819,"color": 1}]}]}]}]}]},
+{"tag": 30 ,"name": "market for printed wiring board, for surface mounting, Pb containing surface", "waarde": 0.0,"color": 0, "children": [
+{"tag": 31 ,"name": "printed wiring board production, for surface mounting, Pb containing surface", "waarde": 0.0,"color": 0, "children": [
+{"tag": 32 ,"name": "market for electricity, medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 33 ,"name": "electricity voltage transformation from high to medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 34 ,"name": "market for electricity, high voltage", "waarde": 0.00185420241883,"color": 1, "children": [
+{"tag": 35 ,"name": "electricity production, hard coal", "waarde": 0.56730371418,"color": 1}]}]}]}]}]}]}]},
+{"tag": 36 ,"name": "market for hard disk drive, for desktop computer", "waarde": 0.0,"color": 0, "children": [
+{"tag": 37 ,"name": "hard disk drive production, for desktop computer", "waarde": 0.0,"color": 0, "children": [
+{"tag": 38 ,"name": "market for aluminium, wrought alloy", "waarde": 0.0,"color": 0, "children": [
+{"tag": 39 ,"name": "aluminium production, primary", "waarde": 0.0,"color": 0, "children": [
+{"tag": 40 ,"name": "market for aluminium, primary, liquid", "waarde": 0.0,"color": 0, "children": [
+{"tag": 41 ,"name": "aluminium production, primary, liquid, prebake", "waarde": 0.0224488225467,"color": 0, "children": [
+{"tag": 42 ,"name": "market for electricity, medium voltage, aluminium industry", "waarde": 0.0,"color": 1, "children": [
+{"tag": 43 ,"name": "electricity voltage transformation from high to medium voltage, aluminium industry", "waarde": 0.0,"color": 1, "children": [
+{"tag": 44 ,"name": "market for electricity, high voltage, aluminium industry", "waarde": 0.000322212165462,"color": 1, "children": [
+{"tag": 45 ,"name": "electricity production, hard coal, aluminium industry", "waarde": 0.0,"color": 1, "children": [
+{"tag": 46 ,"name": "electricity production, hard coal", "waarde": 0.124715889006,"color": 1}]}]}]}]}]}]}]},
+{"tag": 47 ,"name": "aluminium ingot, primary, to aluminium, wrought alloy market", "waarde": 0.0,"color": 0, "children": [
+{"tag": 48 ,"name": "market for aluminium, primary, ingot", "waarde": 0.0,"color": 0, "children": [
+{"tag": 49 ,"name": "aluminium production, primary, ingot", "waarde": 0.0,"color": 0, "children": [
+{"tag": 50 ,"name": "market for aluminium, primary, liquid", "waarde": 0.0,"color": 0, "children": [
+{"tag": 51 ,"name": "aluminium production, primary, liquid, prebake", "waarde": 0.0318061736615,"color": 0, "children": [
+{"tag": 52 ,"name": "market for electricity, medium voltage, aluminium industry", "waarde": 0.0,"color": 1, "children": [
+{"tag": 53 ,"name": "electricity voltage transformation from high to medium voltage, aluminium industry", "waarde": 0.0,"color": 1, "children": [
+{"tag": 54 ,"name": "market for electricity, high voltage, aluminium industry", "waarde": 0.00045651998314,"color": 1, "children": [
+{"tag": 55 ,"name": "electricity production, hard coal, aluminium industry", "waarde": 0.0,"color": 1, "children": [
+{"tag": 56 ,"name": "electricity production, hard coal", "waarde": 0.218906632318,"color": 1}]}]}]}]}]}]}]}]}]}]}]}]},
+{"tag": 57 ,"name": "market for printed wiring board, surface mounted, unspecified, Pb containing", "waarde": 0.0,"color": 0, "children": [
+{"tag": 58 ,"name": "printed wiring board production, surface mounted, unspecified, Pb containing", "waarde": 0.0,"color": 0, "children": [
+{"tag": 59 ,"name": "market for integrated circuit, logic type", "waarde": 0.0,"color": 0, "children": [
+{"tag": 60 ,"name": "integrated circuit production, logic type", "waarde": 0.0,"color": 0, "children": [
+{"tag": 61 ,"name": "market for electricity, medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 62 ,"name": "electricity voltage transformation from high to medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 63 ,"name": "market for electricity, high voltage", "waarde": 0.00243205696429,"color": 1, "children": [
+{"tag": 64 ,"name": "electricity production, hard coal", "waarde": 0.196789296463,"color": 1}]}]}]}]}]}]}]},
+{"tag": 65 ,"name": "market for printed wiring board, surface mounted, unspecified, Pb free", "waarde": 0.0,"color": 0, "children": [
+{"tag": 66 ,"name": "printed wiring board production, surface mounted, unspecified, Pb free", "waarde": 0.0,"color": 0, "children": [
+{"tag": 67 ,"name": "market for integrated circuit, logic type", "waarde": 0.0,"color": 0, "children": [
+{"tag": 68 ,"name": "integrated circuit production, logic type", "waarde": 0.0,"color": 0, "children": [
+{"tag": 69 ,"name": "market for gold", "waarde": 0.0,"color": 0, "children": [
+{"tag": 70 ,"name": "gold-silver mine operation with refinery", "waarde": 0.00258142207243,"color": 0, "children": [
+{"tag": 71 ,"name": "market for diesel, burned in building machine", "waarde": 0.0,"color": 0, "children": [
+{"tag": 72 ,"name": "diesel, burned in building machine", "waarde": 0.216155221569,"color": 0}]}]}]},
+{"tag": 73 ,"name": "market for electricity, medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 74 ,"name": "electricity voltage transformation from high to medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 75 ,"name": "market for electricity, high voltage", "waarde": 0.000537735995605,"color": 1, "children": [
+{"tag": 76 ,"name": "electricity production, hard coal", "waarde": 0.106749825232,"color": 1}]}]}]},
+{"tag": 77 ,"name": "market for electricity, medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 78 ,"name": "electricity voltage transformation from high to medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 79 ,"name": "market for electricity, high voltage", "waarde": 0.000141552240883,"color": 1, "children": [
+{"tag": 80 ,"name": "electricity production, hard coal", "waarde": 0.21107356697,"color": 1}]}]}]},
+{"tag": 81 ,"name": "market for electricity, medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 82 ,"name": "electricity voltage transformation from high to medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 83 ,"name": "market for electricity, high voltage", "waarde": 0.00567480766943,"color": 1, "children": [
+{"tag": 84 ,"name": "electricity production, hard coal", "waarde": 0.315362732765,"color": 1, "children": [
+{"tag": 85 ,"name": "market for hard coal", "waarde": 0.0,"color": 0, "children": [
+{"tag": 86 ,"name": "hard coal mine operation", "waarde": 0.134381070579,"color": 0}]}]}]}]}]},
+{"tag": 87 ,"name": "market for heat, district or industrial, other than natural gas", "waarde": 0.0,"color": 0, "children": [
+{"tag": 88 ,"name": "heat production, at hard coal industrial furnace 1-10MW", "waarde": 0.387693269513,"color": 0}]}]}]},
+{"tag": 89 ,"name": "market for printed wiring board, for surface mounting, Pb free surface", "waarde": 0.0,"color": 0, "children": [
+{"tag": 90 ,"name": "printed wiring board production, for surface mounting, Pb free surface", "waarde": 0.0,"color": 0, "children": [
+{"tag": 91 ,"name": "market for electricity, medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 92 ,"name": "electricity voltage transformation from high to medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 93 ,"name": "market for electricity, high voltage", "waarde": 0.000351565802827,"color": 1, "children": [
+{"tag": 94 ,"name": "electricity production, hard coal", "waarde": 0.436830692129,"color": 1}]}]}]},
+{"tag": 95 ,"name": "market for electricity, medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 96 ,"name": "electricity voltage transformation from high to medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 97 ,"name": "market for electricity, high voltage", "waarde": 0.00371014451674,"color": 1, "children": [
+{"tag": 98 ,"name": "electricity production, hard coal", "waarde": 1.39463476245,"color": 1}]}]}]},
+{"tag": 99 ,"name": "market for hazardous waste, for incineration", "waarde": 0.0,"color": 0, "children": [
+{"tag": 100 ,"name": "treatment of hazardous waste, hazardous waste incineration", "waarde": 0.114331483557,"color": 0}]}]}]}]}]},
+{"tag": 101 ,"name": "market for steel, low-alloyed, hot rolled", "waarde": 0.0,"color": 3, "children": [
+{"tag": 102 ,"name": "steel production, low-alloyed, hot rolled", "waarde": 0.0,"color": 3, "children": [
+{"tag": 103 ,"name": "market for steel, low-alloyed", "waarde": 0.0,"color": 3, "children": [
+{"tag": 104 ,"name": "steel production, converter, low-alloyed", "waarde": 0.0298010164242,"color": 3, "children": [
+{"tag": 105 ,"name": "market for pig iron", "waarde": 0.0,"color": 3, "children": [
+{"tag": 106 ,"name": "pig iron production", "waarde": 0.897694063226,"color": 3}]}]}]}]}]},
+{"tag": 107 ,"name": "market for aluminium, wrought alloy", "waarde": 0.0,"color": 0, "children": [
+{"tag": 108 ,"name": "aluminium production, primary", "waarde": 0.0,"color": 0, "children": [
+{"tag": 109 ,"name": "market for aluminium, primary, liquid", "waarde": 0.0,"color": 0, "children": [
+{"tag": 110 ,"name": "aluminium production, primary, liquid, prebake", "waarde": 0.0281771479828,"color": 0, "children": [
+{"tag": 111 ,"name": "market for electricity, medium voltage, aluminium industry", "waarde": 0.0,"color": 1, "children": [
+{"tag": 112 ,"name": "electricity voltage transformation from high to medium voltage, aluminium industry", "waarde": 0.0,"color": 1, "children": [
+{"tag": 113 ,"name": "market for electricity, high voltage, aluminium industry", "waarde": 0.000404431896114,"color": 1, "children": [
+{"tag": 114 ,"name": "electricity production, hard coal, aluminium industry", "waarde": 0.0,"color": 1, "children": [
+{"tag": 115 ,"name": "electricity production, hard coal", "waarde": 4.26117053136,"color": 1}]}]}]}]}]}]}]},
+{"tag": 116 ,"name": "aluminium ingot, primary, to aluminium, wrought alloy market", "waarde": 0.0,"color": 0, "children": [
+{"tag": 117 ,"name": "market for aluminium, primary, ingot", "waarde": 0.0,"color": 0, "children": [
+{"tag": 118 ,"name": "aluminium production, primary, ingot", "waarde": 0.0,"color": 0, "children": [
+{"tag": 119 ,"name": "market for aluminium, primary, liquid", "waarde": 0.0,"color": 0, "children": [
+{"tag": 120 ,"name": "aluminium production, primary, liquid, prebake", "waarde": 0.0399222391358,"color": 0, "children": [
+{"tag": 121 ,"name": "market for electricity, medium voltage, aluminium industry", "waarde": 0.0,"color": 1, "children": [
+{"tag": 122 ,"name": "electricity voltage transformation from high to medium voltage, aluminium industry", "waarde": 0.0,"color": 1, "children": [
+{"tag": 123 ,"name": "market for electricity, high voltage, aluminium industry", "waarde": 0.000573011394931,"color": 1, "children": [
+{"tag": 124 ,"name": "electricity production, hard coal, aluminium industry", "waarde": 0.0,"color": 1, "children": [
+{"tag": 125 ,"name": "electricity production, hard coal", "waarde": 0.147486894585,"color": 1}]}]}]}]}]}]}]}]}]}]}]},
+{"tag": 126 ,"name": "market for transport, freight, aircraft", "waarde": 0.0,"color": 2, "children": [
+{"tag": 127 ,"name": "transport, freight, aircraft, intercontinental", "waarde": 0.211265780076,"color": 2}]}]},
+{"tag": 128 ,"name": "market for display, liquid crystal, 17 inches", "waarde": 0.0,"color": 0, "children": [
+{"tag": 129 ,"name": "display production, liquid crystal, 17 inches", "waarde": 0.0,"color": 0, "children": [
+{"tag": 130 ,"name": "market for assembly of liquid crystal display, auxilliaries and energy use", "waarde": 0.0,"color": 0, "children": [
+{"tag": 131 ,"name": "assembly of liquid crystal display, auxilliaries and energy use", "waarde": 0.0,"color": 0, "children": [
+{"tag": 132 ,"name": "market for wastewater from liquid crystal display production", "waarde": 0.0,"color": 0, "children": [
+{"tag": 133 ,"name": "treatment of wastewater from liquid crystal display production, capacity 1.1E10l/year", "waarde": 0.565747408762,"color": 0}]},
+{"tag": 134 ,"name": "market for electricity, medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 135 ,"name": "electricity voltage transformation from high to medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 136 ,"name": "market for electricity, high voltage", "waarde": 0.000537136083374,"color": 1, "children": [
+{"tag": 137 ,"name": "electricity production, hard coal", "waarde": 0.223064330965,"color": 1}]}]}]},
+{"tag": 138 ,"name": "market for electricity, medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 139 ,"name": "electricity voltage transformation from high to medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 140 ,"name": "market for electricity, high voltage", "waarde": 0.000141393823872,"color": 1, "children": [
+{"tag": 141 ,"name": "electricity production, hard coal", "waarde": 0.518124959628,"color": 1}]}]}]},
+{"tag": 142 ,"name": "market for electricity, medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 143 ,"name": "electricity voltage transformation from high to medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 144 ,"name": "market for electricity, high voltage", "waarde": 0.00566849662612,"color": 1, "children": [
+{"tag": 145 ,"name": "electricity production, hard coal", "waarde": 0.315012012885,"color": 1, "children": [
+{"tag": 146 ,"name": "market for hard coal", "waarde": 0.0,"color": 0, "children": [
+{"tag": 147 ,"name": "hard coal mine operation", "waarde": 1.99494734142,"color": 0}]}]}]}]}]},
+{"tag": 148 ,"name": "market for heat, district or industrial, other than natural gas", "waarde": 0.0,"color": 0, "children": [
+{"tag": 149 ,"name": "heat production, at hard coal industrial furnace 1-10MW", "waarde": 0.138747589368,"color": 0}]},
+{"tag": 150 ,"name": "market for spent solvent mixture", "waarde": 0.0,"color": 0, "children": [
+{"tag": 151 ,"name": "treatment of spent solvent mixture, hazardous waste incineration", "waarde": 0.653084924461,"color": 0}]}]}]},
+{"tag": 152 ,"name": "market for polystyrene, expandable", "waarde": 0.0,"color": 0, "children": [
+{"tag": 153 ,"name": "polystyrene production, expandable", "waarde": 0.415768373714,"color": 0}]},
+{"tag": 154 ,"name": "market for liquid crystal display, unmounted", "waarde": 0.0,"color": 0, "children": [
+{"tag": 155 ,"name": "liquid crystal display production, unmounted", "waarde": 0.0,"color": 0, "children": [
+{"tag": 156 ,"name": "market for backlight, for liquid crystal display", "waarde": 0.0,"color": 0, "children": [
+{"tag": 157 ,"name": "backlight production, for liquid crystal display", "waarde": 0.0,"color": 0, "children": [
+{"tag": 158 ,"name": "market for polymethyl methacrylate, sheet", "waarde": 0.0,"color": 0, "children": [
+{"tag": 159 ,"name": "polymethyl methacrylate production, sheet", "waarde": 0.162293967083,"color": 0},
+{"tag": 160 ,"name": "polymethyl methacrylate production, sheet", "waarde": 0.195218346458,"color": 0}]},
+{"tag": 161 ,"name": "market for polycarbonate", "waarde": 0.0,"color": 0, "children": [
+{"tag": 162 ,"name": "polycarbonate production", "waarde": 0.27036608039,"color": 0}]}]}]},
+{"tag": 163 ,"name": "market for glass, for liquid crystal display", "waarde": 0.0,"color": 0, "children": [
+{"tag": 164 ,"name": "glass production, for liquid crystal display", "waarde": 0.0,"color": 0, "children": [
+{"tag": 165 ,"name": "market for heat, district or industrial, other than natural gas", "waarde": 0.0,"color": 0, "children": [
+{"tag": 166 ,"name": "heat production, at hard coal industrial furnace 1-10MW", "waarde": 1.19955334325,"color": 0}]}]}]},
+{"tag": 167 ,"name": "market for liquid crystal display, minor components, auxilliaries and assembly effort", "waarde": 0.0,"color": 0, "children": [
+{"tag": 168 ,"name": "liquid crystal display production, minor components, auxilliaries and assembly effort", "waarde": 0.0,"color": 0, "children": [
+{"tag": 169 ,"name": "market for wastewater from liquid crystal display production", "waarde": 0.0,"color": 0, "children": [
+{"tag": 170 ,"name": "treatment of wastewater from liquid crystal display production, capacity 1.1E10l/year", "waarde": 0.107967398027,"color": 0}]},
+{"tag": 171 ,"name": "market for polarizer, liquid crystals and colour filters, for liquid crystal display", "waarde": 0.0,"color": 0, "children": [
+{"tag": 172 ,"name": "polarizer, liquid crystals and colour filters production, for liquid crystal display", "waarde": 0.0,"color": 0, "children": [
+{"tag": 173 ,"name": "market for electricity, medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 174 ,"name": "electricity voltage transformation from high to medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 175 ,"name": "market for electricity, high voltage", "waarde": 0.00329884421913,"color": 1, "children": [
+{"tag": 176 ,"name": "electricity production, hard coal", "waarde": 0.112025344851,"color": 1}]}]}]},
+{"tag": 177 ,"name": "market for heat, district or industrial, other than natural gas", "waarde": 0.0,"color": 0, "children": [
+{"tag": 178 ,"name": "heat production, at hard coal industrial furnace 1-10MW", "waarde": 0.391483378237,"color": 0}]}]}]},
+{"tag": 179 ,"name": "market for waste plastic, consumer electronics", "waarde": 0.0,"color": 0, "children": [
+{"tag": 180 ,"name": "treatment of waste plastic, consumer electronics, municipal incineration", "waarde": 0.792705526024,"color": 0}]},
+{"tag": 181 ,"name": "market for heat, district or industrial, natural gas", "waarde": 0.0,"color": 0, "children": [
+{"tag": 182 ,"name": "heat and power co-generation, natural gas, conventional power plant, 100MW electrical", "waarde": 0.10003033201,"color": 0},
+{"tag": 183 ,"name": "heat and power co-generation, natural gas, conventional power plant, 100MW electrical", "waarde": 0.155212498139,"color": 0}]},
+{"tag": 184 ,"name": "market for electricity, medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 185 ,"name": "electricity voltage transformation from high to medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 186 ,"name": "market for electricity, high voltage", "waarde": 0.000618214688226,"color": 1, "children": [
+{"tag": 187 ,"name": "electricity production, hard coal", "waarde": 0.273375794518,"color": 1}]}]}]},
+{"tag": 188 ,"name": "market for electricity, medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 189 ,"name": "electricity voltage transformation from high to medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 190 ,"name": "market for electricity, high voltage", "waarde": 0.000529031746621,"color": 1, "children": [
+{"tag": 191 ,"name": "electricity production, hard coal", "waarde": 0.109970533265,"color": 1}]}]}]},
+{"tag": 192 ,"name": "market for electricity, medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 193 ,"name": "electricity voltage transformation from high to medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 194 ,"name": "market for electricity, high voltage", "waarde": 0.00166194718426,"color": 1, "children": [
+{"tag": 195 ,"name": "electricity production, hard coal", "waarde": 0.153412099219,"color": 1},
+{"tag": 196 ,"name": "electricity production, natural gas, at conventional power plant", "waarde": 0.115104126831,"color": 1}]}]}]},
+{"tag": 197 ,"name": "market for electricity, medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 198 ,"name": "electricity voltage transformation from high to medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 199 ,"name": "market for electricity, high voltage", "waarde": 0.000425438950997,"color": 1, "children": [
+{"tag": 200 ,"name": "electricity production, hard coal", "waarde": 0.192681501677,"color": 1}]}]}]},
+{"tag": 201 ,"name": "market for electricity, medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 202 ,"name": "electricity voltage transformation from high to medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 203 ,"name": "market for electricity, high voltage", "waarde": 0.00528154903839,"color": 1, "children": [
+{"tag": 204 ,"name": "heat and power co-generation, natural gas, conventional power plant, 100MW electrical", "waarde": 0.107887005202,"color": 0}]}]}]},
+{"tag": 205 ,"name": "market for electricity, medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 206 ,"name": "electricity voltage transformation from high to medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 207 ,"name": "market for electricity, high voltage", "waarde": 0.000437487162059,"color": 1, "children": [
+{"tag": 208 ,"name": "electricity production, hard coal", "waarde": 0.463069428383,"color": 1}]}]}]},
+{"tag": 209 ,"name": "market for electricity, medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 210 ,"name": "electricity voltage transformation from high to medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 211 ,"name": "market for electricity, high voltage", "waarde": 0.0175388967245,"color": 1, "children": [
+{"tag": 212 ,"name": "electricity production, hard coal", "waarde": 0.97467874207,"color": 1, "children": [
+{"tag": 213 ,"name": "market for hard coal", "waarde": 0.0,"color": 0, "children": [
+{"tag": 214 ,"name": "hard coal mine operation", "waarde": 0.125761314236,"color": 0}]}]}]}]}]},
+{"tag": 215 ,"name": "market for heat, district or industrial, other than natural gas", "waarde": 0.0,"color": 0, "children": [
+{"tag": 216 ,"name": "heat production, at hard coal industrial furnace 1-10MW", "waarde": 0.116909192041,"color": 0}]},
+{"tag": 217 ,"name": "market for spent solvent mixture", "waarde": 0.0,"color": 0, "children": [
+{"tag": 218 ,"name": "treatment of spent solvent mixture, hazardous waste incineration", "waarde": 0.140532671844,"color": 0}]},
+{"tag": 219 ,"name": "market for electronic component factory", "waarde": 0.0,"color": 0, "children": [
+{"tag": 220 ,"name": "electronic component factory construction", "waarde": 0.0,"color": 0, "children": [
+{"tag": 221 ,"name": "market for concrete, high exacting requirements", "waarde": 0.0,"color": 4, "children": [
+{"tag": 222 ,"name": "concrete production, high exacting requirements", "waarde": 0.0,"color": 4, "children": [
+{"tag": 223 ,"name": "market for cement, Portland", "waarde": 0.0,"color": 4, "children": [
+{"tag": 224 ,"name": "cement production, Portland", "waarde": 0.0,"color": 4, "children": [
+{"tag": 225 ,"name": "clinker production", "waarde": 0.188758794604,"color": 4}]}]}]}]},
+{"tag": 226 ,"name": "market for concrete, sole plate and foundation", "waarde": 0.0,"color": 4, "children": [
+{"tag": 227 ,"name": "concrete production, sole plate and foundation", "waarde": 0.0,"color": 4, "children": [
+{"tag": 228 ,"name": "market for cement, blast furnace slag 36-65%", "waarde": 0.0,"color": 4, "children": [
+{"tag": 229 ,"name": "cement production, blast furnace slag 36-65%, non-US", "waarde": 0.0,"color": 4, "children": [
+{"tag": 230 ,"name": "clinker production", "waarde": 0.30950422637,"color": 4}]}]}]}]}]}]}]}]},
+{"tag": 231 ,"name": "market for polycarbonate", "waarde": 0.0,"color": 0, "children": [
+{"tag": 232 ,"name": "polycarbonate production", "waarde": 0.114545550235,"color": 0},
+{"tag": 233 ,"name": "polycarbonate production", "waarde": 0.103182910133,"color": 0}]},
+{"tag": 234 ,"name": "market for integrated circuit, logic type", "waarde": 0.0,"color": 0, "children": [
+{"tag": 235 ,"name": "integrated circuit production, logic type", "waarde": 0.0,"color": 0, "children": [
+{"tag": 236 ,"name": "market for gold", "waarde": 0.0,"color": 0, "children": [
+{"tag": 237 ,"name": "gold-silver mine operation with refinery", "waarde": 0.00233466650619,"color": 0, "children": [
+{"tag": 238 ,"name": "market for diesel, burned in building machine", "waarde": 0.0,"color": 0, "children": [
+{"tag": 239 ,"name": "diesel, burned in building machine", "waarde": 0.102367665111,"color": 0}]}]}]},
+{"tag": 240 ,"name": "market for electricity, medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 241 ,"name": "electricity voltage transformation from high to medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 242 ,"name": "market for electricity, high voltage", "waarde": 0.000486334347074,"color": 1, "children": [
+{"tag": 243 ,"name": "electricity production, hard coal", "waarde": 0.480241380592,"color": 1}]}]}]},
+{"tag": 244 ,"name": "market for electricity, medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 245 ,"name": "electricity voltage transformation from high to medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 246 ,"name": "market for electricity, high voltage", "waarde": 0.00513235845328,"color": 1, "children": [
+{"tag": 247 ,"name": "electricity production, hard coal", "waarde": 0.285217523067,"color": 1, "children": [
+{"tag": 248 ,"name": "market for hard coal", "waarde": 0.0,"color": 0, "children": [
+{"tag": 249 ,"name": "hard coal mine operation", "waarde": 0.255439822061,"color": 0}]}]}]}]}]},
+{"tag": 250 ,"name": "market for heat, district or industrial, other than natural gas", "waarde": 0.0,"color": 0, "children": [
+{"tag": 251 ,"name": "heat production, at hard coal industrial furnace 1-10MW", "waarde": 0.250764000536,"color": 0}]}]}]}]}]},
+{"tag": 252 ,"name": "market for printed wiring board, surface mounted, unspecified, Pb free", "waarde": 0.0,"color": 0, "children": [
+{"tag": 253 ,"name": "printed wiring board production, surface mounted, unspecified, Pb free", "waarde": 0.0,"color": 0, "children": [
+{"tag": 254 ,"name": "market for integrated circuit, logic type", "waarde": 0.0,"color": 0, "children": [
+{"tag": 255 ,"name": "integrated circuit production, logic type", "waarde": 0.0,"color": 0, "children": [
+{"tag": 256 ,"name": "market for electricity, medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 257 ,"name": "electricity voltage transformation from high to medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 258 ,"name": "market for electricity, high voltage", "waarde": 0.00210372726607,"color": 1, "children": [
+{"tag": 259 ,"name": "electricity production, hard coal", "waarde": 0.117289328691,"color": 1}]}]}]}]}]}]}]},
+{"tag": 260 ,"name": "market for aluminium, wrought alloy", "waarde": 0.0,"color": 0, "children": [
+{"tag": 261 ,"name": "aluminium ingot, primary, to aluminium, wrought alloy market", "waarde": 0.0,"color": 0, "children": [
+{"tag": 262 ,"name": "market for aluminium, primary, ingot", "waarde": 0.0,"color": 0, "children": [
+{"tag": 263 ,"name": "aluminium production, primary, ingot", "waarde": 0.0,"color": 0, "children": [
+{"tag": 264 ,"name": "market for aluminium, primary, liquid", "waarde": 0.0,"color": 0, "children": [
+{"tag": 265 ,"name": "aluminium production, primary, liquid, prebake", "waarde": 0.0282051980477,"color": 0, "children": [
+{"tag": 266 ,"name": "market for electricity, medium voltage, aluminium industry", "waarde": 0.0,"color": 1, "children": [
+{"tag": 267 ,"name": "electricity voltage transformation from high to medium voltage, aluminium industry", "waarde": 0.0,"color": 1, "children": [
+{"tag": 268 ,"name": "market for electricity, high voltage, aluminium industry", "waarde": 0.000404834503962,"color": 1, "children": [
+{"tag": 269 ,"name": "electricity production, hard coal, aluminium industry", "waarde": 0.0,"color": 1, "children": [
+{"tag": 270 ,"name": "electricity production, hard coal", "waarde": 0.120706138214,"color": 1}]}]}]}]}]}]}]}]}]}]}]}]},
+{"tag": 271 ,"name": "market for keyboard", "waarde": 0.0,"color": 0, "children": [
+{"tag": 272 ,"name": "keyboard production", "waarde": 0.0,"color": 0, "children": [
+{"tag": 273 ,"name": "market for used IT accessory", "waarde": 0.0,"color": 0, "children": [
+{"tag": 274 ,"name": "treatment of used IT accessory, mechanical treatment", "waarde": 0.0,"color": 0, "children": [
+{"tag": 275 ,"name": "market for residue from mechanical treatment, IT accessory", "waarde": 0.0,"color": 0, "children": [
+{"tag": 276 ,"name": "treatment of residue from mechanical treatment, IT accessory, municipal waste incineration", "waarde": 0.206181668509,"color": 0}]}]}]},
+{"tag": 277 ,"name": "market for acrylonitrile-butadiene-styrene copolymer", "waarde": 0.0,"color": 0, "children": [
+{"tag": 278 ,"name": "acrylonitrile-butadiene-styrene copolymer production", "waarde": 0.101589537933,"color": 0},
+{"tag": 279 ,"name": "acrylonitrile-butadiene-styrene copolymer production", "waarde": 0.100142405549,"color": 0}]}]}]},
+{"tag": 280 ,"name": "market for electricity, low voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 281 ,"name": "heat and power co-generation, natural gas, 160kW electrical, Jakobsberg", "waarde": 0.155385850627,"color": 0},
+{"tag": 282 ,"name": "electricity voltage transformation from medium to low voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 283 ,"name": "market for electricity, medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 284 ,"name": "electricity voltage transformation from high to medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 285 ,"name": "market for electricity, high voltage", "waarde": 0.241627858559,"color": 1, "children": [
+{"tag": 286 ,"name": "electricity, high voltage, import from IT", "waarde": 0.0,"color": 1, "children": [
+{"tag": 287 ,"name": "market for electricity, high voltage", "waarde": 0.0104858768958,"color": 1, "children": [
+{"tag": 288 ,"name": "electricity production, natural gas, at conventional power plant", "waarde": 0.208709088627,"color": 1},
+{"tag": 289 ,"name": "electricity production, hard coal", "waarde": 0.839057225433,"color": 1, "children": [
+{"tag": 290 ,"name": "market for hard coal", "waarde": 0.0,"color": 0, "children": [
+{"tag": 291 ,"name": "hard coal mine operation", "waarde": 0.135155264315,"color": 0}]}]},
+{"tag": 292 ,"name": "electricity production, oil", "waarde": 0.103042495176,"color": 1}]}]},
+{"tag": 293 ,"name": "electricity, high voltage, import from FR", "waarde": 0.0,"color": 1, "children": [
+{"tag": 294 ,"name": "market for electricity, high voltage", "waarde": 0.0193258919076,"color": 1, "children": [
+{"tag": 295 ,"name": "electricity production, natural gas, at conventional power plant", "waarde": 0.157239343424,"color": 1},
+{"tag": 296 ,"name": "electricity production, hard coal", "waarde": 0.104062010671,"color": 1}]}]},
+{"tag": 297 ,"name": "electricity, high voltage, import from DE", "waarde": 0.0,"color": 1, "children": [
+{"tag": 298 ,"name": "market for electricity, high voltage", "waarde": 0.0208655592571,"color": 1, "children": [
+{"tag": 299 ,"name": "electricity production, oil", "waarde": 0.130597533887,"color": 1},
+{"tag": 300 ,"name": "electricity production, hard coal", "waarde": 2.71708186601,"color": 1, "children": [
+{"tag": 301 ,"name": "market for hard coal", "waarde": 0.0,"color": 0, "children": [
+{"tag": 302 ,"name": "hard coal mine operation", "waarde": 0.109289501201,"color": 0}]}]},
+{"tag": 303 ,"name": "heat and power co-generation, wood chips, 6400kW thermal, with extensive emission control", "waarde": 0.373476890223,"color": 0},
+{"tag": 304 ,"name": "electricity production, lignite", "waarde": 0.183324720151,"color": 1},
+{"tag": 305 ,"name": "electricity, high voltage, import from CZ", "waarde": 0.0,"color": 1, "children": [
+{"tag": 306 ,"name": "market for electricity, high voltage", "waarde": 0.000278039189149,"color": 1, "children": [
+{"tag": 307 ,"name": "electricity production, lignite", "waarde": 0.120840526874,"color": 1}]}]},
+{"tag": 308 ,"name": "electricity production, natural gas, at conventional power plant", "waarde": 0.130727542407,"color": 1}]}]},
+{"tag": 309 ,"name": "electricity, high voltage, import from AT", "waarde": 0.0,"color": 1, "children": [
+{"tag": 310 ,"name": "market for electricity, high voltage", "waarde": 0.00225648687995,"color": 1, "children": [
+{"tag": 311 ,"name": "electricity production, natural gas, at conventional power plant", "waarde": 0.182877725379,"color": 1}]}]},
+{"tag": 312 ,"name": "heat and power co-generation, wood chips, 6400kW thermal, with extensive emission control", "waarde": 0.504601964961,"color": 0},
+{"tag": 313 ,"name": "heat and power co-generation, natural gas, 1MW electrical, lean burn", "waarde": 0.185034552878,"color": 0},
+{"tag": 314 ,"name": "electricity, high voltage, natural gas, import from Germany", "waarde": 0.0,"color": 1, "children": [
+{"tag": 315 ,"name": "electricity production, natural gas, at conventional power plant", "waarde": 0.104047466587,"color": 1}]},
+{"tag": 316 ,"name": "treatment of municipal solid waste, incineration", "waarde": 0.147417611077,"color": 0}]}]}]}]}]}]}

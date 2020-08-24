@@ -1,0 +1,210 @@
+{"tag": 1000 , "name": "market for transport, passenger train", "waarde": 0.0,"color": 0, "children": [
+{"tag": 1 ,"name": "transport, passenger train", "waarde": 7.64571742049,"color": 2, "children": [
+{"tag": 2 ,"name": "market for diesel", "waarde": 0.0,"color": 0, "children": [
+{"tag": 3 ,"name": "petroleum refinery operation", "waarde": 0.00371422427419,"color": 0, "children": [
+{"tag": 4 ,"name": "refinery gas, burned in furnace", "waarde": 0.140936055317,"color": 0},
+{"tag": 5 ,"name": "market for heavy fuel oil, burned in refinery furnace", "waarde": 0.0,"color": 0, "children": [
+{"tag": 6 ,"name": "heavy fuel oil, burned in refinery furnace", "waarde": 0.147308871079,"color": 0}]},
+{"tag": 7 ,"name": "market for petroleum", "waarde": 0.000115927607099,"color": 0, "children": [
+{"tag": 8 ,"name": "petroleum and gas production, on-shore", "waarde": 0.0,"color": 0, "children": [
+{"tag": 9 ,"name": "market for natural gas, vented", "waarde": 0.0,"color": 0, "children": [
+{"tag": 10 ,"name": "natural gas venting from petroleum/natural gas production", "waarde": 0.699245150619,"color": 0}]},
+{"tag": 11 ,"name": "market for waste natural gas, sweet", "waarde": 0.0,"color": 0, "children": [
+{"tag": 12 ,"name": "treatment of waste natural gas, sweet, burned in production flare", "waarde": 0.44586488728,"color": 0}]}]}]}]}]},
+{"tag": 13 ,"name": "market for maintenance, train, passenger, long distance", "waarde": 0.0,"color": 0, "children": [
+{"tag": 14 ,"name": "maintenance, train, passenger, long distance", "waarde": 0.0,"color": 0, "children": [
+{"tag": 15 ,"name": "market for heat, district or industrial, other than natural gas", "waarde": 0.0,"color": 0, "children": [
+{"tag": 16 ,"name": "heat production, at hard coal industrial furnace 1-10MW", "waarde": 0.193040725603,"color": 0}]}]}]},
+{"tag": 17 ,"name": "market for railway track", "waarde": 0.0,"color": 0, "children": [
+{"tag": 18 ,"name": "railway track construction", "waarde": 0.0,"color": 0, "children": [
+{"tag": 19 ,"name": "market for used railway track", "waarde": 0.0,"color": 0, "children": [
+{"tag": 20 ,"name": "market for transport, freight, lorry, unspecified", "waarde": 0.0,"color": 2, "children": [
+{"tag": 21 ,"name": "size-specific lorry transport to generic market for lorry transport", "waarde": 0.0,"color": 2, "children": [
+{"tag": 22 ,"name": "market for transport, freight, lorry 16-32 metric ton, EURO3", "waarde": 0.0,"color": 2, "children": [
+{"tag": 23 ,"name": "transport, freight, lorry 16-32 metric ton, EURO3", "waarde": 0.90561941091,"color": 2}]},
+{"tag": 24 ,"name": "market for transport, freight, lorry >32 metric ton, EURO3", "waarde": 0.0,"color": 2, "children": [
+{"tag": 25 ,"name": "transport, freight, lorry >32 metric ton, EURO3", "waarde": 0.120836741351,"color": 2}]}]},
+{"tag": 26 ,"name": "size-specific lorry transport to generic market for lorry transport", "waarde": 0.0,"color": 2, "children": [
+{"tag": 27 ,"name": "market for transport, freight, lorry >32 metric ton, EURO3", "waarde": 0.0,"color": 2, "children": [
+{"tag": 28 ,"name": "transport, freight, lorry >32 metric ton, EURO3", "waarde": 0.105786031108,"color": 2}]}]}]}]},
+{"tag": 29 ,"name": "market for concrete, high exacting requirements", "waarde": 0.0,"color": 4, "children": [
+{"tag": 30 ,"name": "concrete production, high exacting requirements", "waarde": 0.0,"color": 4, "children": [
+{"tag": 31 ,"name": "market for cement, Portland", "waarde": 0.0,"color": 4, "children": [
+{"tag": 32 ,"name": "cement production, Portland", "waarde": 0.0,"color": 4, "children": [
+{"tag": 33 ,"name": "clinker production", "waarde": 0.272213171021,"color": 4}]}]},
+{"tag": 34 ,"name": "market for cement, Portland", "waarde": 0.0,"color": 4, "children": [
+{"tag": 35 ,"name": "cement production, Portland", "waarde": 0.0,"color": 4, "children": [
+{"tag": 36 ,"name": "clinker production", "waarde": 0.173573309312,"color": 4}]}]},
+{"tag": 37 ,"name": "market for cement, Portland", "waarde": 0.0,"color": 4, "children": [
+{"tag": 38 ,"name": "cement production, Portland", "waarde": 0.0,"color": 4, "children": [
+{"tag": 39 ,"name": "clinker production", "waarde": 0.104682269577,"color": 4}]}]}]}]},
+{"tag": 40 ,"name": "market for reinforcing steel", "waarde": 0.0,"color": 3, "children": [
+{"tag": 41 ,"name": "reinforcing steel production", "waarde": 0.0,"color": 3, "children": [
+{"tag": 42 ,"name": "market for steel, unalloyed", "waarde": 0.0,"color": 3, "children": [
+{"tag": 43 ,"name": "steel production, converter, unalloyed", "waarde": 0.0307241992183,"color": 3, "children": [
+{"tag": 44 ,"name": "market for pig iron", "waarde": 0.0,"color": 3, "children": [
+{"tag": 45 ,"name": "pig iron production", "waarde": 0.110515782191,"color": 3}]}]}]}]},
+{"tag": 46 ,"name": "reinforcing steel production", "waarde": 0.0,"color": 3, "children": [
+{"tag": 47 ,"name": "market for steel, unalloyed", "waarde": 0.0,"color": 3, "children": [
+{"tag": 48 ,"name": "steel production, converter, unalloyed", "waarde": 0.0151733688094,"color": 3, "children": [
+{"tag": 49 ,"name": "market for pig iron", "waarde": 0.0,"color": 3, "children": [
+{"tag": 50 ,"name": "pig iron production", "waarde": 0.178970466195,"color": 3}]}]}]}]}]},
+{"tag": 51 ,"name": "market for electricity, medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 52 ,"name": "electricity voltage transformation from high to medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 53 ,"name": "market for electricity, high voltage", "waarde": 0.000395775517941,"color": 1, "children": [
+{"tag": 54 ,"name": "electricity production, hard coal", "waarde": 0.425521221801,"color": 1}]}]}]},
+{"tag": 55 ,"name": "market for electricity, medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 56 ,"name": "electricity voltage transformation from high to medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 57 ,"name": "market for electricity, high voltage", "waarde": 0.000338680821686,"color": 1, "children": [
+{"tag": 58 ,"name": "electricity production, hard coal", "waarde": 0.112585636911,"color": 1}]}]}]},
+{"tag": 59 ,"name": "market for electricity, medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 60 ,"name": "electricity voltage transformation from high to medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 61 ,"name": "market for electricity, high voltage", "waarde": 0.0010639638237,"color": 1, "children": [
+{"tag": 62 ,"name": "electricity production, hard coal", "waarde": 0.131104146602,"color": 1}]}]}]},
+{"tag": 63 ,"name": "market for electricity, medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 64 ,"name": "electricity voltage transformation from high to medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 65 ,"name": "market for electricity, high voltage", "waarde": 0.0002800751216,"color": 1, "children": [
+{"tag": 66 ,"name": "electricity production, hard coal", "waarde": 0.173555112934,"color": 1}]}]}]},
+{"tag": 67 ,"name": "market for electricity, medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 68 ,"name": "electricity voltage transformation from high to medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 69 ,"name": "market for electricity, high voltage", "waarde": 0.0112282025993,"color": 1, "children": [
+{"tag": 70 ,"name": "electricity production, hard coal", "waarde": 0.623978267109,"color": 1, "children": [
+{"tag": 71 ,"name": "market for hard coal", "waarde": 0.0,"color": 0, "children": [
+{"tag": 72 ,"name": "hard coal mine operation", "waarde": 0.365301939848,"color": 0}]}]}]}]}]}]}]},
+{"tag": 73 ,"name": "market for train, passenger, long-distance", "waarde": 0.0,"color": 0, "children": [
+{"tag": 74 ,"name": "train production, passenger, long-distance", "waarde": 0.0,"color": 0, "children": [
+{"tag": 75 ,"name": "market for aluminium, wrought alloy", "waarde": 0.0,"color": 0, "children": [
+{"tag": 76 ,"name": "aluminium ingot, primary, to aluminium, wrought alloy market", "waarde": 0.0,"color": 0, "children": [
+{"tag": 77 ,"name": "market for aluminium, primary, ingot", "waarde": 0.0,"color": 0, "children": [
+{"tag": 78 ,"name": "aluminium production, primary, ingot", "waarde": 0.0,"color": 0, "children": [
+{"tag": 79 ,"name": "market for aluminium, primary, liquid", "waarde": 0.0,"color": 0, "children": [
+{"tag": 80 ,"name": "aluminium production, primary, liquid, prebake", "waarde": 0.0271826996548,"color": 0, "children": [
+{"tag": 81 ,"name": "market for electricity, medium voltage, aluminium industry", "waarde": 0.0,"color": 1, "children": [
+{"tag": 82 ,"name": "electricity voltage transformation from high to medium voltage, aluminium industry", "waarde": 0.0,"color": 1, "children": [
+{"tag": 83 ,"name": "market for electricity, high voltage, aluminium industry", "waarde": 0.000390158392524,"color": 1, "children": [
+{"tag": 84 ,"name": "electricity production, hard coal, aluminium industry", "waarde": 0.0,"color": 1, "children": [
+{"tag": 85 ,"name": "electricity production, hard coal", "waarde": 0.156323136093,"color": 1}]}]}]}]}]}]}]}]}]}]}]}]},
+{"tag": 86 ,"name": "market for electricity, high voltage", "waarde": 0.0627739631178,"color": 1, "children": [
+{"tag": 87 ,"name": "heat and power co-generation, wood chips, 6400kW thermal, with multicyclone emission control", "waarde": 0.107037841655,"color": 0},
+{"tag": 88 ,"name": "heat and power co-generation, wood chips, 6400kW thermal, with extensive emission control", "waarde": 0.126716266541,"color": 0},
+{"tag": 89 ,"name": "heat and power co-generation, natural gas, conventional power plant, 100MW electrical", "waarde": 0.112339082119,"color": 0},
+{"tag": 90 ,"name": "heat and power co-generation, natural gas, 1MW electrical, lean burn", "waarde": 0.118521128325,"color": 0},
+{"tag": 91 ,"name": "electricity production, hydro, reservoir, tropical region", "waarde": 0.216098172503,"color": 1},
+{"tag": 92 ,"name": "electricity production, natural gas, combined cycle power plant", "waarde": 0.197737936178,"color": 1},
+{"tag": 93 ,"name": "electricity production, oil", "waarde": 0.302278668442,"color": 1},
+{"tag": 94 ,"name": "electricity production, lignite", "waarde": 0.103472920774,"color": 1},
+{"tag": 95 ,"name": "heat and power co-generation, natural gas, combined cycle power plant, 400MW electrical", "waarde": 0.192466522624,"color": 0},
+{"tag": 96 ,"name": "electricity production, hard coal", "waarde": 18.1393578559,"color": 1, "children": [
+{"tag": 97 ,"name": "market for hard coal", "waarde": 0.0,"color": 0, "children": [
+{"tag": 98 ,"name": "hard coal mine operation", "waarde": 0.10191984191,"color": 0}]}]},
+{"tag": 99 ,"name": "electricity production, natural gas, at conventional power plant", "waarde": 3.86656332703,"color": 1, "children": [
+{"tag": 100 ,"name": "market for natural gas, high pressure", "waarde": 0.0188556959285,"color": 0, "children": [
+{"tag": 101 ,"name": "natural gas, high pressure, import from RU", "waarde": 0.000946626328846,"color": 0, "children": [
+{"tag": 102 ,"name": "transport, pipeline, long distance, natural gas", "waarde": 0.126234248013,"color": 2}]}]}]}]},
+{"tag": 103 ,"name": "market for electricity, high voltage", "waarde": 0.00830290066814,"color": 1, "children": [
+{"tag": 104 ,"name": "electricity production, hard coal", "waarde": 0.195821492862,"color": 1}]},
+{"tag": 105 ,"name": "market for electricity, high voltage", "waarde": 0.00253265824843,"color": 1, "children": [
+{"tag": 106 ,"name": "electricity production, natural gas, at conventional power plant", "waarde": 0.607883680407,"color": 1},
+{"tag": 107 ,"name": "electricity production, hard coal", "waarde": 0.210474000303,"color": 1}]},
+{"tag": 108 ,"name": "market for electricity, high voltage", "waarde": 0.000623881805787,"color": 1, "children": [
+{"tag": 109 ,"name": "electricity production, hard coal", "waarde": 0.356798148511,"color": 1}]},
+{"tag": 110 ,"name": "market for electricity, high voltage", "waarde": 0.000752547049401,"color": 1, "children": [
+{"tag": 111 ,"name": "electricity production, hard coal", "waarde": 0.415446026076,"color": 1}]},
+{"tag": 112 ,"name": "market for electricity, high voltage", "waarde": 0.00116443082275,"color": 1, "children": [
+{"tag": 113 ,"name": "electricity production, hard coal", "waarde": 0.531963412696,"color": 1},
+{"tag": 114 ,"name": "electricity production, natural gas, at conventional power plant", "waarde": 0.135770713229,"color": 1}]},
+{"tag": 115 ,"name": "market for electricity, high voltage", "waarde": 0.000666465945103,"color": 1, "children": [
+{"tag": 116 ,"name": "electricity production, lignite", "waarde": 0.186221542187,"color": 1}]},
+{"tag": 117 ,"name": "market for electricity, high voltage", "waarde": 0.000706647218742,"color": 1, "children": [
+{"tag": 118 ,"name": "electricity production, hard coal", "waarde": 0.13043107992,"color": 1}]},
+{"tag": 119 ,"name": "market for electricity, high voltage", "waarde": 0.00363416463713,"color": 1, "children": [
+{"tag": 120 ,"name": "electricity production, natural gas, at conventional power plant", "waarde": 1.5010327442,"color": 1},
+{"tag": 121 ,"name": "electricity production, hard coal", "waarde": 0.104882013061,"color": 1}]},
+{"tag": 122 ,"name": "market for electricity, high voltage", "waarde": 0.000658976400673,"color": 1, "children": [
+{"tag": 123 ,"name": "electricity production, oil", "waarde": 0.724119613285,"color": 1},
+{"tag": 124 ,"name": "electricity production, natural gas, at conventional power plant", "waarde": 0.364174087852,"color": 1}]},
+{"tag": 125 ,"name": "market for electricity, high voltage", "waarde": 0.0333882306156,"color": 1, "children": [
+{"tag": 126 ,"name": "electricity production, lignite", "waarde": 0.273852490092,"color": 1},
+{"tag": 127 ,"name": "electricity production, hard coal", "waarde": 0.164413160607,"color": 1},
+{"tag": 128 ,"name": "heat and power co-generation, natural gas, conventional power plant, 100MW electrical", "waarde": 0.186524742707,"color": 0}]},
+{"tag": 129 ,"name": "market for electricity, high voltage", "waarde": 0.00310873209977,"color": 1, "children": [
+{"tag": 130 ,"name": "electricity production, natural gas, at conventional power plant", "waarde": 1.47411195556,"color": 1},
+{"tag": 131 ,"name": "electricity production, hard coal", "waarde": 0.241457340207,"color": 1}]},
+{"tag": 132 ,"name": "market for electricity, high voltage", "waarde": 0.000479831121623,"color": 1, "children": [
+{"tag": 133 ,"name": "electricity production, lignite", "waarde": 0.427545504946,"color": 1},
+{"tag": 134 ,"name": "electricity production, hard coal", "waarde": 0.126447798956,"color": 1}]},
+{"tag": 135 ,"name": "market for electricity, high voltage", "waarde": 0.00100893857591,"color": 1, "children": [
+{"tag": 136 ,"name": "electricity production, natural gas, at conventional power plant", "waarde": 0.217645306699,"color": 1}]},
+{"tag": 137 ,"name": "market for electricity, high voltage", "waarde": 0.000756125112121,"color": 1, "children": [
+{"tag": 138 ,"name": "electricity production, hard coal", "waarde": 0.326517761643,"color": 1}]},
+{"tag": 139 ,"name": "market for electricity, high voltage", "waarde": 0.00143054069055,"color": 1, "children": [
+{"tag": 140 ,"name": "electricity production, hard coal", "waarde": 0.271806254221,"color": 1}]},
+{"tag": 141 ,"name": "market for electricity, high voltage", "waarde": 0.00348161947877,"color": 1, "children": [
+{"tag": 142 ,"name": "electricity production, natural gas, at conventional power plant", "waarde": 0.194829925716,"color": 1},
+{"tag": 143 ,"name": "electricity production, oil", "waarde": 0.614252756673,"color": 1},
+{"tag": 144 ,"name": "electricity production, hard coal", "waarde": 0.321656258,"color": 1}]},
+{"tag": 145 ,"name": "market for electricity, high voltage", "waarde": 0.000720464662535,"color": 1, "children": [
+{"tag": 146 ,"name": "electricity production, natural gas, at conventional power plant", "waarde": 0.577394786855,"color": 1},
+{"tag": 147 ,"name": "electricity production, oil", "waarde": 0.429276283115,"color": 1}]},
+{"tag": 148 ,"name": "market for electricity, high voltage", "waarde": 0.00281259588855,"color": 1, "children": [
+{"tag": 149 ,"name": "electricity production, oil", "waarde": 2.42033338408,"color": 1},
+{"tag": 150 ,"name": "electricity production, hard coal", "waarde": 1.9897962502,"color": 1, "children": [
+{"tag": 151 ,"name": "market for hard coal", "waarde": 0.0,"color": 0, "children": [
+{"tag": 152 ,"name": "hard coal mine operation", "waarde": 2.11887096424,"color": 0}]}]}]},
+{"tag": 153 ,"name": "market for electricity, high voltage", "waarde": 0.000494900595778,"color": 1, "children": [
+{"tag": 154 ,"name": "electricity production, lignite", "waarde": 0.36444126196,"color": 1},
+{"tag": 155 ,"name": "electricity production, oil", "waarde": 0.165292876283,"color": 1}]},
+{"tag": 156 ,"name": "market for electricity, high voltage", "waarde": 0.00128640416927,"color": 1, "children": [
+{"tag": 157 ,"name": "electricity production, hard coal", "waarde": 0.164047403835,"color": 1},
+{"tag": 158 ,"name": "electricity production, natural gas, at conventional power plant", "waarde": 1.0319192077,"color": 1}]},
+{"tag": 159 ,"name": "market for electricity, high voltage", "waarde": 0.000704733717038,"color": 1, "children": [
+{"tag": 160 ,"name": "electricity production, natural gas, at conventional power plant", "waarde": 0.714811012716,"color": 1},
+{"tag": 161 ,"name": "electricity production, hard coal", "waarde": 0.105400427191,"color": 1}]},
+{"tag": 162 ,"name": "market for electricity, high voltage", "waarde": 0.00102144258876,"color": 1, "children": [
+{"tag": 163 ,"name": "electricity production, hard coal", "waarde": 0.326386848259,"color": 1},
+{"tag": 164 ,"name": "electricity production, natural gas, at conventional power plant", "waarde": 0.113693835368,"color": 1}]},
+{"tag": 165 ,"name": "market for electricity, high voltage", "waarde": 0.106942751903,"color": 1, "children": [
+{"tag": 166 ,"name": "electricity production, hard coal", "waarde": 5.94306634765,"color": 1, "children": [
+{"tag": 167 ,"name": "market for hard coal", "waarde": 0.0,"color": 0, "children": [
+{"tag": 168 ,"name": "hard coal mine operation", "waarde": 2.27726105239,"color": 0, "children": [
+{"tag": 169 ,"name": "market for electricity, high voltage, for internal use in coal mining", "waarde": 9.39152301671e-05,"color": 1, "children": [
+{"tag": 170 ,"name": "electricity production, hard coal, at coal mine power plant", "waarde": 0.300464124169,"color": 1}]}]}]}]}]},
+{"tag": 171 ,"name": "market for electricity, high voltage", "waarde": 0.000694812054598,"color": 1, "children": [
+{"tag": 172 ,"name": "electricity production, hard coal", "waarde": 0.697599839786,"color": 1}]},
+{"tag": 173 ,"name": "market for electricity, high voltage", "waarde": 0.0180720700201,"color": 1, "children": [
+{"tag": 174 ,"name": "electricity production, hydro, reservoir, tropical region", "waarde": 0.134053349306,"color": 1}]},
+{"tag": 175 ,"name": "market for electricity, high voltage", "waarde": 0.00798177447978,"color": 1, "children": [
+{"tag": 176 ,"name": "electricity production, hard coal", "waarde": 0.12501630932,"color": 1},
+{"tag": 177 ,"name": "electricity production, lignite", "waarde": 0.13290633657,"color": 1}]},
+{"tag": 178 ,"name": "market for electricity, high voltage", "waarde": 0.00877243599172,"color": 1, "children": [
+{"tag": 179 ,"name": "electricity production, oil", "waarde": 0.104394048022,"color": 1}]},
+{"tag": 180 ,"name": "market for electricity, high voltage", "waarde": 0.000290148189189,"color": 1, "children": [
+{"tag": 181 ,"name": "electricity production, lignite", "waarde": 0.198141663011,"color": 1}]}]},
+{"tag": 182 ,"name": "transport, passenger train", "waarde": 0.111915860194,"color": 2, "children": [
+{"tag": 183 ,"name": "market for electricity, high voltage", "waarde": 0.00223663204322,"color": 1, "children": [
+{"tag": 184 ,"name": "electricity production, natural gas, at conventional power plant", "waarde": 0.307446265702,"color": 1},
+{"tag": 185 ,"name": "electricity production, hard coal", "waarde": 0.163530013803,"color": 1},
+{"tag": 186 ,"name": "electricity production, oil", "waarde": 0.160536871872,"color": 1}]}]},
+{"tag": 187 ,"name": "transport, passenger train", "waarde": 0.14062077544,"color": 2},
+{"tag": 188 ,"name": "transport, passenger train, high-speed", "waarde": 0.0,"color": 2, "children": [
+{"tag": 189 ,"name": "market for electricity, high voltage", "waarde": 0.000550232765127,"color": 1, "children": [
+{"tag": 190 ,"name": "electricity production, natural gas, at conventional power plant", "waarde": 0.160153731399,"color": 1}]}]},
+{"tag": 191 ,"name": "transport, passenger train, high-speed", "waarde": 0.0,"color": 2, "children": [
+{"tag": 192 ,"name": "market for electricity, high voltage", "waarde": 0.00133293892105,"color": 1, "children": [
+{"tag": 193 ,"name": "electricity production, hard coal", "waarde": 0.105776415354,"color": 1},
+{"tag": 194 ,"name": "electricity production, lignite", "waarde": 0.122488362963,"color": 1}]}]},
+{"tag": 195 ,"name": "transport, passenger train, high-speed", "waarde": 0.0,"color": 2, "children": [
+{"tag": 196 ,"name": "market for electricity, high voltage", "waarde": 0.00313403153248,"color": 1, "children": [
+{"tag": 197 ,"name": "electricity production, oil", "waarde": 1.01786238613,"color": 1},
+{"tag": 198 ,"name": "electricity production, lignite", "waarde": 0.100125773851,"color": 1},
+{"tag": 199 ,"name": "electricity production, hard coal", "waarde": 0.344877665485,"color": 1},
+{"tag": 200 ,"name": "electricity production, natural gas, at conventional power plant", "waarde": 0.316542375691,"color": 1}]},
+{"tag": 201 ,"name": "market for electricity, high voltage", "waarde": 0.00533919096184,"color": 1, "children": [
+{"tag": 202 ,"name": "electricity production, hard coal", "waarde": 0.296711703826,"color": 1, "children": [
+{"tag": 203 ,"name": "market for hard coal", "waarde": 0.0,"color": 0, "children": [
+{"tag": 204 ,"name": "hard coal mine operation", "waarde": 0.23909566579,"color": 0}]}]}]}]},
+{"tag": 205 ,"name": "transport, passenger train", "waarde": 0.257866915301,"color": 2, "children": [
+{"tag": 206 ,"name": "market for electricity, high voltage", "waarde": 0.00342397494259,"color": 1, "children": [
+{"tag": 207 ,"name": "electricity production, hard coal", "waarde": 0.139190948884,"color": 1},
+{"tag": 208 ,"name": "electricity production, lignite", "waarde": 0.281844493245,"color": 1},
+{"tag": 209 ,"name": "electricity production, natural gas, at conventional power plant", "waarde": 0.125988391071,"color": 1}]}]}]}

@@ -1,0 +1,133 @@
+{"tag": 1000 , "name": "paper production, woodfree, coated, at integrated mill", "waarde": 57.9852971724,"color": 0, "children": [
+{"tag": 1 ,"name": "market for optical brighteners, for paper production", "waarde": 0.0,"color": 0, "children": [
+{"tag": 2 ,"name": "optical brighteners production, for paper production", "waarde": 0.0,"color": 0, "children": [
+{"tag": 3 ,"name": "market for fluorescent whitening agent, DAS1, triazinylaminostilben type", "waarde": 0.0,"color": 0, "children": [
+{"tag": 4 ,"name": "fluorescent whitening agent production, DAS1, triazinylaminostilben type", "waarde": 0.496699910447,"color": 0}]},
+{"tag": 5 ,"name": "market for fluorescent whitening agent, distyrylbiphenyl type", "waarde": 0.0,"color": 0, "children": [
+{"tag": 6 ,"name": "fluorescent whitening agent production, distyrylbiphenyl type", "waarde": 0.212618247707,"color": 0},
+{"tag": 7 ,"name": "fluorescent whitening agent production, distyrylbiphenyl type", "waarde": 1.03403127258,"color": 0}]}]},
+{"tag": 8 ,"name": "optical brighteners production, for paper production", "waarde": 0.0,"color": 0, "children": [
+{"tag": 9 ,"name": "market for fluorescent whitening agent, distyrylbiphenyl type", "waarde": 0.0,"color": 0, "children": [
+{"tag": 10 ,"name": "fluorescent whitening agent production, distyrylbiphenyl type", "waarde": 0.329846061671,"color": 0}]}]}]},
+{"tag": 11 ,"name": "market for lignite briquettes", "waarde": 0.0,"color": 0, "children": [
+{"tag": 12 ,"name": "lignite briquettes production", "waarde": 0.0,"color": 0, "children": [
+{"tag": 13 ,"name": "market for electricity, high voltage", "waarde": 0.000871930664694,"color": 1, "children": [
+{"tag": 14 ,"name": "electricity production, hard coal", "waarde": 0.183624796524,"color": 1}]}]}]},
+{"tag": 15 ,"name": "market for sulfate pulp", "waarde": 0.0,"color": 0, "children": [
+{"tag": 16 ,"name": "sulfate pulp production, totally chlorine free bleached", "waarde": 0.244010592263,"color": 0},
+{"tag": 17 ,"name": "sulfate pulp production, from eucalyptus ssp. from sustainable forest management, unbleached", "waarde": 0.0468672528296,"color": 0, "children": [
+{"tag": 18 ,"name": "market for roundwood, eucalyptus ssp. from sustainable forest management, under bark", "waarde": 0.0,"color": 0, "children": [
+{"tag": 19 ,"name": "hardwood forestry, eucalyptus ssp., sustainable forest management", "waarde": 0.196436027855,"color": 0}]}]},
+{"tag": 20 ,"name": "sulfate pulp production, elementary chlorine free bleached", "waarde": 0.395252901772,"color": 0},
+{"tag": 21 ,"name": "sulfate pulp production, elementary chlorine free bleached", "waarde": 0.23206859958,"color": 0}]},
+{"tag": 22 ,"name": "market for sodium chlorate, powder", "waarde": 0.0,"color": 0, "children": [
+{"tag": 23 ,"name": "sodium chlorate production, powder", "waarde": 0.0,"color": 0, "children": [
+{"tag": 24 ,"name": "market for electricity, medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 25 ,"name": "electricity voltage transformation from high to medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 26 ,"name": "market for electricity, high voltage", "waarde": 0.000393905025543,"color": 1, "children": [
+{"tag": 27 ,"name": "electricity production, hard coal", "waarde": 0.162542731111,"color": 1}]}]}]},
+{"tag": 28 ,"name": "market for electricity, medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 29 ,"name": "electricity voltage transformation from high to medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 30 ,"name": "market for electricity, high voltage", "waarde": 0.00415696699648,"color": 1, "children": [
+{"tag": 31 ,"name": "electricity production, hard coal", "waarde": 0.103610959518,"color": 1}]}]}]}]}]},
+{"tag": 32 ,"name": "market for pulpwood, hardwood, measured as solid wood under bark", "waarde": 0.0,"color": 0, "children": [
+{"tag": 33 ,"name": "hardwood forestry", "waarde": 0.0,"color": 0, "children": [
+{"tag": 34 ,"name": "market for wood fuel, hardwood, wet, measured as solid wood under bark", "waarde": 0.0,"color": 0, "children": [
+{"tag": 35 ,"name": "treatment of wood fuel, hardwood, wet, air drying", "waarde": 0.0,"color": 0, "children": [
+{"tag": 36 ,"name": "market for log, hardwood, piled in forest, air-dried", "waarde": 0.0,"color": 0, "children": [
+{"tag": 37 ,"name": "log production, energy wood, split, at forest", "waarde": 0.0,"color": 0, "children": [
+{"tag": 38 ,"name": "market for log, energy wood, split", "waarde": 0.0,"color": 0, "children": [
+{"tag": 39 ,"name": "heat production, mixed logs, at wood heater 6kW", "waarde": 0.491820081595,"color": 0},
+{"tag": 40 ,"name": "heat production, mixed logs, at furnace 30kW", "waarde": 0.313602897422,"color": 0},
+{"tag": 41 ,"name": "heat production, mixed logs, at furnace 100kW", "waarde": 0.15003623502,"color": 0}]}]}]}]}]}]},
+{"tag": 42 ,"name": "hardwood forestry", "waarde": 0.0,"color": 0, "children": [
+{"tag": 43 ,"name": "market for wood fuel, hardwood, wet, measured as solid wood under bark", "waarde": 0.0,"color": 0, "children": [
+{"tag": 44 ,"name": "treatment of wood fuel, hardwood, wet, air drying", "waarde": 0.0,"color": 0, "children": [
+{"tag": 45 ,"name": "market for log, hardwood, piled in forest, air-dried", "waarde": 0.0,"color": 0, "children": [
+{"tag": 46 ,"name": "log production, energy wood, split, at forest", "waarde": 0.0,"color": 0, "children": [
+{"tag": 47 ,"name": "market for log, energy wood, split", "waarde": 0.0,"color": 0, "children": [
+{"tag": 48 ,"name": "heat production, mixed logs, at wood heater 6kW", "waarde": 0.133013174921,"color": 0},
+{"tag": 49 ,"name": "heat production, mixed logs, at furnace 30kW", "waarde": 0.123326610737,"color": 0},
+{"tag": 50 ,"name": "heat production, mixed logs, at furnace 100kW", "waarde": 0.227419208533,"color": 0}]}]}]}]},
+{"tag": 51 ,"name": "treatment of wood fuel, hardwood, wet, air drying", "waarde": 0.0,"color": 0, "children": [
+{"tag": 52 ,"name": "market for log, hardwood, piled in forest, air-dried", "waarde": 0.0,"color": 0, "children": [
+{"tag": 53 ,"name": "log production, energy wood, split, at forest", "waarde": 0.0,"color": 0, "children": [
+{"tag": 54 ,"name": "market for log, energy wood, split", "waarde": 0.0,"color": 0, "children": [
+{"tag": 55 ,"name": "heat production, mixed logs, at wood heater 6kW", "waarde": 0.115602084003,"color": 0},
+{"tag": 56 ,"name": "heat production, mixed logs, at furnace 30kW", "waarde": 0.274856187581,"color": 0},
+{"tag": 57 ,"name": "heat production, mixed logs, at furnace 100kW", "waarde": 0.107446718117,"color": 0}]}]}]}]}]},
+{"tag": 58 ,"name": "market for diesel, burned in building machine", "waarde": 0.0,"color": 0, "children": [
+{"tag": 59 ,"name": "diesel, burned in building machine", "waarde": 0.247600954883,"color": 0}]}]},
+{"tag": 60 ,"name": "market for transport, freight, light commercial vehicle", "waarde": 0.0,"color": 2, "children": [
+{"tag": 61 ,"name": "transport, freight, light commercial vehicle", "waarde": 0.378503429306,"color": 2}]}]},
+{"tag": 62 ,"name": "market for quicklime, milled, loose", "waarde": 0.0,"color": 0, "children": [
+{"tag": 63 ,"name": "quicklime production, milled, loose", "waarde": 0.0,"color": 0, "children": [
+{"tag": 64 ,"name": "market for quicklime, in pieces, loose", "waarde": 0.0,"color": 0, "children": [
+{"tag": 65 ,"name": "quicklime production, in pieces, loose", "waarde": 0.223313327997,"color": 0}]}]}]},
+{"tag": 66 ,"name": "market for lime", "waarde": 0.0,"color": 0, "children": [
+{"tag": 67 ,"name": "market for transport, freight, sea, transoceanic ship", "waarde": 0.0,"color": 2, "children": [
+{"tag": 68 ,"name": "transport, freight, sea, transoceanic ship", "waarde": 0.133117713695,"color": 2}]}]},
+{"tag": 69 ,"name": "market for pulpwood, softwood, measured as solid wood under bark", "waarde": 0.0,"color": 0, "children": [
+{"tag": 70 ,"name": "softwood forestry", "waarde": 0.0,"color": 0, "children": [
+{"tag": 71 ,"name": "market for wood fuel, softwood, wet, measured as solid wood under bark", "waarde": 0.0,"color": 0, "children": [
+{"tag": 72 ,"name": "treatment of wood fuel, softwood, wet, air drying", "waarde": 0.0,"color": 0, "children": [
+{"tag": 73 ,"name": "market for log, softwood, piled in forest, air-dried", "waarde": 0.0,"color": 0, "children": [
+{"tag": 74 ,"name": "log production, energy wood, split, at forest", "waarde": 0.0,"color": 0, "children": [
+{"tag": 75 ,"name": "market for log, energy wood, split", "waarde": 0.0,"color": 0, "children": [
+{"tag": 76 ,"name": "heat production, mixed logs, at wood heater 6kW", "waarde": 0.230236442525,"color": 0},
+{"tag": 77 ,"name": "heat production, mixed logs, at furnace 30kW", "waarde": 0.153517117381,"color": 0},
+{"tag": 78 ,"name": "heat production, mixed logs, at furnace 100kW", "waarde": 0.251955772216,"color": 0}]}]}]}]}]},
+{"tag": 79 ,"name": "market for diesel, burned in building machine", "waarde": 0.0,"color": 0, "children": [
+{"tag": 80 ,"name": "diesel, burned in building machine", "waarde": 0.151729964795,"color": 0}]}]},
+{"tag": 81 ,"name": "softwood forestry", "waarde": 0.0,"color": 0, "children": [
+{"tag": 82 ,"name": "market for wood fuel, softwood, wet, measured as solid wood under bark", "waarde": 0.0,"color": 0, "children": [
+{"tag": 83 ,"name": "treatment of wood fuel, softwood, wet, air drying", "waarde": 0.0,"color": 0, "children": [
+{"tag": 84 ,"name": "market for log, softwood, piled in forest, air-dried", "waarde": 0.0,"color": 0, "children": [
+{"tag": 85 ,"name": "log production, energy wood, split, at forest", "waarde": 0.0,"color": 0, "children": [
+{"tag": 86 ,"name": "market for log, energy wood, split", "waarde": 0.0,"color": 0, "children": [
+{"tag": 87 ,"name": "heat production, mixed logs, at wood heater 6kW", "waarde": 0.151729964795,"color": 0},
+{"tag": 88 ,"name": "heat production, mixed logs, at furnace 30kW", "waarde": 0.307234452961,"color": 0},
+{"tag": 89 ,"name": "heat production, mixed logs, at furnace 100kW", "waarde": 0.150265519004,"color": 0}]}]}]}]}]}]},
+{"tag": 90 ,"name": "market for transport, freight, light commercial vehicle", "waarde": 0.0,"color": 2, "children": [
+{"tag": 91 ,"name": "transport, freight, light commercial vehicle", "waarde": 0.231012670101,"color": 2}]}]},
+{"tag": 92 ,"name": "market for electricity, medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 93 ,"name": "electricity voltage transformation from high to medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 94 ,"name": "market for electricity, high voltage", "waarde": 0.00161079308723,"color": 1, "children": [
+{"tag": 95 ,"name": "electricity production, hard coal", "waarde": 0.113824010221,"color": 1},
+{"tag": 96 ,"name": "electricity production, natural gas, at conventional power plant", "waarde": 0.421078448317,"color": 1}]}]}]},
+{"tag": 97 ,"name": "market for electricity, medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 98 ,"name": "electricity voltage transformation from high to medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 99 ,"name": "market for electricity, high voltage", "waarde": 0.000276904510658,"color": 1, "children": [
+{"tag": 100 ,"name": "electricity production, lignite", "waarde": 0.433711235972,"color": 1}]}]}]},
+{"tag": 101 ,"name": "market for electricity, medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 102 ,"name": "electricity voltage transformation from high to medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 103 ,"name": "market for electricity, high voltage", "waarde": 0.00144470387122,"color": 1, "children": [
+{"tag": 104 ,"name": "electricity production, natural gas, at conventional power plant", "waarde": 0.384143550632,"color": 1},
+{"tag": 105 ,"name": "electricity production, hard coal", "waarde": 1.38379944391,"color": 1}]}]}]},
+{"tag": 106 ,"name": "market for electricity, medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 107 ,"name": "electricity voltage transformation from high to medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 108 ,"name": "market for electricity, high voltage", "waarde": 0.000728238775272,"color": 1, "children": [
+{"tag": 109 ,"name": "electricity production, hard coal", "waarde": 1.42531485417,"color": 1}]}]}]},
+{"tag": 110 ,"name": "market for electricity, medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 111 ,"name": "electricity voltage transformation from high to medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 112 ,"name": "market for electricity, high voltage", "waarde": 0.000271256544811,"color": 1, "children": [
+{"tag": 113 ,"name": "electricity production, lignite", "waarde": 1.26241947046,"color": 1}]}]}]},
+{"tag": 114 ,"name": "market for electricity, medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 115 ,"name": "electricity voltage transformation from high to medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 116 ,"name": "market for electricity, high voltage", "waarde": 0.00120942168271,"color": 1, "children": [
+{"tag": 117 ,"name": "electricity production, hard coal", "waarde": 0.198840834761,"color": 1},
+{"tag": 118 ,"name": "electricity production, natural gas, at conventional power plant", "waarde": 0.204806264843,"color": 1}]}]}]},
+{"tag": 119 ,"name": "market for electricity, medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 120 ,"name": "electricity voltage transformation from high to medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 121 ,"name": "market for electricity, high voltage", "waarde": 0.00240828217994,"color": 1, "children": [
+{"tag": 122 ,"name": "electricity production, hard coal", "waarde": 0.181399510188,"color": 1},
+{"tag": 123 ,"name": "electricity production, lignite", "waarde": 3.1074635468,"color": 1},
+{"tag": 124 ,"name": "electricity production, natural gas, at conventional power plant", "waarde": 3.20069065754,"color": 1}]}]}]},
+{"tag": 125 ,"name": "market for electricity, medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 126 ,"name": "electricity voltage transformation from high to medium voltage", "waarde": 0.0,"color": 1, "children": [
+{"tag": 127 ,"name": "market for electricity, high voltage", "waarde": 0.000597963775416,"color": 1, "children": [
+{"tag": 128 ,"name": "electricity production, lignite", "waarde": 2.83489237005,"color": 1},
+{"tag": 129 ,"name": "electricity production, hard coal", "waarde": 0.619524047578,"color": 1}]}]}]},
+{"tag": 130 ,"name": "market for municipal solid waste", "waarde": 0.0,"color": 0, "children": [
+{"tag": 131 ,"name": "treatment of municipal solid waste, incineration", "waarde": 0.638110407842,"color": 0},
+{"tag": 132 ,"name": "treatment of municipal solid waste, sanitary landfill", "waarde": 0.565182493404,"color": 0}]}]}
