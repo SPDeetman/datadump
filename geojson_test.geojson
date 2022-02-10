@@ -28,7 +28,7 @@
     {"type": "Feature", "geometry": { "type": "Point", "coordinates": [28.885763,64.395769] }, "properties": { "Country": Pakistan } },
     {"type": "Feature", "geometry": { "type": "Point", "coordinates": [15.31640086997462,-91.68460277568813] }, "properties": { "Country": Guatemala } },
     {"type": "Feature", "geometry": { "type": "Point", "coordinates": [15.31640086997462,-91.68460277568813] }, "properties": { "Country":  } },
-    {"type": "Feature", "geometry": { "type": "Point", "coordinates": [15.5070526146372,-88.0328439291213] }, "properties": { "Country": Honduras } }
+    {"type": "Feature", "geometry": { "type": "Point", "coordinates": [15.5070526146372,-88.0328439291213] }, "properties": { "Country": Honduras } },
 
     { "type": "Feature", "geometry": { "type": "LineString", "coordinates": [[ 27.514162,90.433601],[ 12.52111,-69.968338]]}, "properties": { "Netweight":39069.671 } },
     { "type": "Feature", "geometry": { "type": "LineString", "coordinates": [[ 27.514162,90.433601],[ 12.52111,-69.968338]]}, "properties": { "Netweight":29397.91 } },
